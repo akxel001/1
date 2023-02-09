@@ -1,0 +1,70 @@
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="Movies",Celestial Movies (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="News",Kompas TV (720p)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://i.imgur.com/LCzQYdy.png" group-title="Undefined",tvOne (480p) [Geo-blocked]
+http://210.210.155.37/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="News",Metro TV (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="General",Trans7 (720p)
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="General",Trans TV (720p)
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="General",Indosiar (480p) [Geo-blocked]
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="General",SCTV (480p) [Geo-blocked]
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="Undefined",ANTV (480p) [Geo-blocked]
+http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld (576p)
+http://210.210.155.37/dr9445/h/h04/index.m3u8
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" group-title="Business",CNBC Indonesia (720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/l0JyOrm.png" group-title="News",CNN Indonesia (720p) [Geo-blocked]
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ElshintaTV.id" tvg-logo="https://i.imgur.com/x5uoy2H.png" group-title="Undefined",Elshinta TV (480p) [Not 24/7] [Geo-blocked]
+http://210.210.155.37/qwr9ew/s/s10/index.m3u8
+#EXTINF:-1 tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="Undefined",Inspira TV (720p) [Not 24/7]
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JakTV.id" tvg-logo="https://i.imgur.com/xyLLLOi.png" group-title="Undefined",Jak TV (480p) [Geo-blocked]
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="Undefined",Jawa Pos TV (480p) [Not 24/7]
+https://v2.siar.us/jawapostv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="JPMTV.id" tvg-logo="https://i.imgur.com/FM6WN4S.png" group-title="Undefined",JPM TV (720p) [Not 24/7]
+http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Undefined",JTV (720p) [Not 24/7]
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Undefined",Magna Channel (1080p) [Not 24/7]
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Maleo.id" tvg-logo="https://i.imgur.com/DuAxIL2.png" group-title="Undefined",Maleo (576i)
+https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://i.imgur.com/pY7ZoWB.png" group-title="Movies",My Cinema (1080p)
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:-1 tvg-id="MyCinemaAsia.id" tvg-logo="https://i.imgur.com/4XVZLW0.png" group-title="Movies",My Cinema Asia (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://i.imgur.com/IaCmCt9.png" group-title="Family",My Family Channel (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://i.imgur.com/RPT8O12.png" group-title="Undefined",NET. [Not 24/7]
+https://ythls.onrender.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="Undefined",Nusantara TV (720p)
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="PopMusik.id" tvg-logo="https://i.imgur.com/Dfnl0nf.png" group-title="Music",POP musik (576i)
+https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux x86_64)",RB TV (360p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RCTV.id" tvg-logo="https://i.imgur.com/CyIlt0y.png" group-title="Undefined",RCTV (720p) [Not 24/7]
+http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="Undefined",RTV (576p) [Geo-blocked]
+http://210.210.155.37/dr9445/h/h10/index.m3u8
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="Movies",Thrill (576p)
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
