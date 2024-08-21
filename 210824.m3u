@@ -8,16 +8,30 @@ http://iptvtree.net:8080/F14995/a84c0963/196480
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WBVQq4Y/hbosig.png" group-title="HBO GROUP",HBO SIGNATURE
 http://iptvtree.net:8080/F14995/a84c0963/221948
 
- ########## "ETV" ##########
+ ########## "RANDOM" ##########
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="ETV",ETV BIOSKOP 1 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="RANDOM",ETV BIOSKOP 1 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="ETV",ETV BIOSKOP 2 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="RANDOM",ETV BIOSKOP 2 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="ETV",ETV BIOSKOP 3 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="RANDOM",ETV BIOSKOP 3 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="ETV",ETV BIOSKOP 4 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="RANDOM",ETV BIOSKOP 4 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+#EXTINF:-1 tvg-name="rockaction.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="RANDOM",Rock Action HD
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+#EXTINF:-1 tvg-name="rockent.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/300?cb=20210911032942" group-title="RANDOM",Rock Ent. HD
+http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="RANDOM", CCM HD 
+http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
+#EXTINF:-1 group-title="RANDOM" TVg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png", CELESTIAL MOVIES HD 
+http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
+#EXTINF:-1 tvg-id="95" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1647324494-.png" group-title="RANDOM", My Cinema HD
+http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
+#EXTINF:-1 tvg-id="92" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png" group-title="RANDOM", My Cinema Europe HD
+http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
+#EXTINF:-1 tvg-id="92" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1647324751-.png" group-title="RANDOM", My Cinema Asia
+http://rr.dens.tv/h/h193/index.m3u8
 
  ########## "HBO | GROUP MPD" ##########
 
