@@ -8,6 +8,17 @@ http://iptvtree.net:8080/F14995/a84c0963/196480
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WBVQq4Y/hbosig.png" group-title="HBO GROUP",HBO SIGNATURE
 http://iptvtree.net:8080/F14995/a84c0963/221948
 
+ ########## "ETV" ##########
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="ETV",ETV BIOSKOP 1 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="ETV",ETV BIOSKOP 2 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="ETV",ETV BIOSKOP 3 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="ETV",ETV BIOSKOP 4 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+
  ########## "HBO | GROUP MPD" ##########
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/Logo/main/KanayaIPTV.png" group-title="HBO MPD", HBO 
