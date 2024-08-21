@@ -2,21 +2,6 @@
 ##src:https://github.com/SYARMAN##
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO GROUP",HBO
-http://iptvtree.net:8080/F14995/a84c0963/197972
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vXmmNCQ/hbofam.png" group-title="HBO GROUP",HBO FAMILY
-http://iptvtree.net:8080/F14995/a84c0963/197055
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMw7TZj/hbohits.png" group-title="HBO GROUP",HBO HITS
-http://iptvtree.net:8080/F14995/a84c0963/196480
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WBVQq4Y/hbosig.png" group-title="HBO GROUP",HBO SIGNATURE
-http://iptvtree.net:8080/F14995/a84c0963/221948
-
-
-
-
-
-
-
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/Logo/main/KanayaIPTV.png" group-title="HBO MPD", HBO 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -62,6 +47,24 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO GROUP",HBO
+http://iptvtree.net:8080/F14995/a84c0963/197972
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vXmmNCQ/hbofam.png" group-title="HBO GROUP",HBO FAMILY
+http://iptvtree.net:8080/F14995/a84c0963/197055
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMw7TZj/hbohits.png" group-title="HBO GROUP",HBO HITS
+http://iptvtree.net:8080/F14995/a84c0963/196480
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WBVQq4Y/hbosig.png" group-title="HBO GROUP",HBO SIGNATURE
+http://iptvtree.net:8080/F14995/a84c0963/221948
+
+
+
+
+
 
 
 
@@ -623,6 +626,13 @@ https://melon-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlu
 
 
 
+
+
+
+
+
+
+
 #EXTINF:0 tvg-id="Animax.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROz0htVZPk71-LA5yNlSrd9DSjU0GIfZkYNA&usqp=CAU" group-title="MOVIES",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -809,15 +819,23 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="BRI LIGA 1", INDOSIAR
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="BRI LIGA 1",INDOSIAR 2
 http://iptvtree.net:8080/F18819/6eb39c7d/162138
-
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://raw.githubusercontent.com/akxel001/Logo/main/SPOTV2.png", SPOTV2
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-id="nihoneiga" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nihon_eiga_senmon.png", BS Japan Movie Channel  
@@ -831,6 +849,10 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", Eisei Gekijo 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+
+
+
+
 
 
 
@@ -941,6 +963,12 @@ https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
 #EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
 https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
+
+
+
+
+
+
 
 
 
@@ -1150,6 +1178,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_zbioskop_ver1.png" group-title="CUBMU",Zee Bioskop (V+)
 https://melon-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="RANDOM",ETV BIOSKOP 1 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526 
