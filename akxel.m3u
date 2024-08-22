@@ -2454,6 +2454,12 @@ https://melon-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7e_wmjPTrnc3gimWefUzBc-Nl4jillgHvMj-o-aM1gw&s" group-title="MUSIC",Maleo Tv
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e3/73/f1/e373f1afb0feafa8e236b87bb8a2ec68.jpg"  group-title="MUSIC",DANGDUT NAGASWARA
+https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="" tvg-logo="https://i.pinimg.com/236x/19/b1/4d/19b14d88539c82450b2e3f8f3127c215.jpg", KOPLO MUSIK
+https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
 
 
 
