@@ -2423,6 +2423,12 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FIRSTMEDIA",ETV BIOSKOP 4 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+#CIPUTAT
+#EXTINF:-1 group-title="FIRSTMEDIA" tvg-logo="https://i.pinimg.com/236x/27/96/59/279659295ba98bd77a309df47c913c8e.jpg",CITRA BIOSKOP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+
 
 
 
