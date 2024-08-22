@@ -771,7 +771,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;useri
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
 #EXTINF:-1 tvg-id="92" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1647324751-.png" group-title="RANDOM", My Cinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="RANDOM",Douyu_Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/771px-DouYu_2023.svg.png?20230726000517" group-title="RANDOM",Douyu_Movies
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 
 
