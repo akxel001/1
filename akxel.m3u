@@ -779,33 +779,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="RANDOM",ETV BIOSKOP 1 
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="RANDOM",ETV BIOSKOP 2 
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="RANDOM",ETV BIOSKOP 3 
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="RANDOM",ETV BIOSKOP 4 
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
 
-#EXTINF:-1 tvg-name="Rock Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="RANDOM",Rock Action HD
-https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
-#EXTINF:-1 tvg-name="Rock Entertaintment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/300?cb=20210911032942" group-title="RANDOM",Rock Ent. HD
-http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="RANDOM", CCM HD 
-http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
-#EXTINF:-1 group-title="RANDOM" TVg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png", CELESTIAL MOVIES HD 
-http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
-#EXTINF:-1 tvg-id="95" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1647324494-.png" group-title="RANDOM", My Cinema HD
-http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
-#EXTINF:-1 tvg-id="92" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png" group-title="RANDOM", My Cinema Europe HD
-http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
-#EXTINF:-1 tvg-id="92" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1647324751-.png" group-title="RANDOM", My Cinema Asia
-http://rr.dens.tv/h/h193/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/771px-DouYu_2023.svg.png?20230726000517" group-title="RANDOM",Douyu_Movies
-https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+
 
 
 
@@ -2347,6 +2324,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_blueant_small.png?v=2.5" group-title="FIRSTMEDIA",Rock Entertainment (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FIRSTMEDIA",ETV BIOSKOP 1 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FIRSTMEDIA",ETV BIOSKOP 2 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FIRSTMEDIA",ETV BIOSKOP 3 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FIRSTMEDIA",ETV BIOSKOP 4 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
 
 
 
