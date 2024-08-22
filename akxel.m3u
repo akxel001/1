@@ -757,10 +757,13 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="RANDOM",ETV BIOSKOP 4 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+
 #EXTINF:-1 tvg-name="Rock Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="RANDOM",Rock Action HD
-http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+
 #EXTINF:-1 tvg-name="Rock Entertaintment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/300?cb=20210911032942" group-title="RANDOM",Rock Ent. HD
 http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png" group-title="RANDOM", CCM HD 
 http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 #EXTINF:-1 group-title="RANDOM" TVg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png", CELESTIAL MOVIES HD 
