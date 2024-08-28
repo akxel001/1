@@ -2481,9 +2481,8 @@ https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e3/73/f1/e373f1afb0feafa8e236b87bb8a2ec68.jpg"  group-title="MUSIC",Nagaswara POP
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PzbvhKb/Musica-Studios.jpg" group-title="MUSIC",Musica Studios
-https://kister.net/mpl/yt2m3u8?w=@MusicaStudios
-
+#EXTINF:-1 tvg-logo="https://musica.id/wordpress/wp-content/uploads/2021/07/logo-musica-med.png" group-title="MUSIC",Musica Studios
+https://ythls.armelin.one/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
 
 
 
