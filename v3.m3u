@@ -1332,14 +1332,15 @@ http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/2325.mp4
 
 
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="VENUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZdsqDL64G9JCAajl1kXmFtELwTe-2gXYfQ&s" ,Erox HD
 http://178.219.128.68:64888/EROXHD
 #EXTINF:-1 group-title="VENUS",Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="VENUS", Babes TV
 http://88.212.7.10/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="VENUS", Desire
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+
 #EXTINF:-1 group-title="VENUS", Exxxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
 #EXTINF:-1 group-title="VENUS", Leo TV
