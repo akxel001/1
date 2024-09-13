@@ -1332,28 +1332,18 @@ http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/2325.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="VENUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZdsqDL64G9JCAajl1kXmFtELwTe-2gXYfQ&s" ,🔞 Erox HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VENUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZdsqDL64G9JCAajl1kXmFtELwTe-2gXYfQ&s" ,Erox HD
 http://178.219.128.68:64888/EROXHD
 #EXTINF:-1 group-title="VENUS",Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="VENUS",Dorcel
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
 #EXTINF:-1 group-title="VENUS",Extasy
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="VENUS",Erox HD
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="VENUS", Babestation 24
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1 group-title="VENUS", Babes TV
 http://88.212.7.10/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="VENUS", Brazzers TV Europe
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="VENUS", Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="VENUS", Dorcel TV HD
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="VENUS", Dorcel XXX HD 
-http://31.131.136.4:8000/play/a00h
 #EXTINF:-1 group-title="VENUS", Eroxxx HD
 http://88.212.7.10/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="VENUS", Exxxxotica
@@ -1376,8 +1366,7 @@ http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="VENUS" tvg-logo="http://epg.one/img2/3233.png" tvg-id="3233",Vivid TV Europe
 #EXTINF:-1 group-title="VENUS" tvg-logo="https://epgx.site/p/dorcel.png" tvg-id="dorcel",Dorcel TV
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="VENUS" tvg-logo="https://epgx.site/p/dorcel.png" tvg-id="dorcel-xxx",Dorcel XXX
-http://31.131.136.4:8000/play/a00h
+
 #EXTINF:-1 group-title="VENUS" tvg-logo="https://epgx.site/p/hustler-hd.png" tvg-id="hustler-hd",Hustler
 https://89.187.167.247/hustler.stream/chunks.m3u8
 #EXTINF:-1 group-title="VENUS" tvg-logo="http://epg.one/img2/3258.png" tvg-id="3258",Erotic
@@ -1398,15 +1387,8 @@ http://78.130.250.2:8023/play/a005/index.m3u8
 http://78.130.250.2:8023/play/a006/index.m3u8
 #EXTINF:-1 group-title="VENUS" tvg-logo="https://epgx.site/p/playboy-tv.png" tvg-id="playboy-tv",Playboy TV
 #EXTINF:-1 group-title="VENUS" tvg-logo="https://epgx.site/p/russkaya-noch.png" tvg-id="russkaya-noch",Русская ночь
-
-
-
-#EXTINF:-1 group-title="VENUS",Erox
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="VENUS",Desire HD
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxctv.it/image/logo.png" group-title="VENUS",CENTOXCENTO (HD)
 http://pl.seetv.cc/play/6868/D591A450364592E/video.m3u8
 #EXTINF:-1 tvg-logo="http://loganet.ru/images/channels/FUUU-TV.png" group-title="VENUS",FUUU TV (HD)
