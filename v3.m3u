@@ -1387,7 +1387,7 @@ http://31.131.136.4:8000/play/a00k
 http://78.130.250.2:8023/play/a005/index.m3u8
 #EXTINF:-1 group-title="VENUS" tvg-logo="https://epgx.site/p/penthouse-quickies.png" tvg-id="penthouse-quickies",Penthouse Reality TV
 http://78.130.250.2:8023/play/a006/index.m3u8
-#EXTINF:-1 group-title="VENUS",Desire HD
+#EXTINF:-1 group-title="VENUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/DesireTitleCard.jpg",Desire HD
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxctv.it/image/logo.png" group-title="VENUS",CENTOXCENTO (HD)
 http://pl.seetv.cc/play/6868/D591A450364592E/video.m3u8
