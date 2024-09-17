@@ -1391,5 +1391,4 @@ http://78.130.250.2:8023/play/a006/index.m3u8
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxctv.it/image/logo.png" group-title="VENUS",CENTOXCENTO (HD)
 http://pl.seetv.cc/play/6868/D591A450364592E/video.m3u8
-#EXTINF:-1 tvg-logo="http://loganet.ru/images/channels/FUUU-TV.png" group-title="VENUS",FUUU TV (HD)
-http://wellsee.gdn/live.m3u8
+
