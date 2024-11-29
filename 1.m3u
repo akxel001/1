@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="HBO",HBO
+#EXTINF:0,ID: HBO
+#EXTGRP:Indonesia
 http://xtv.ooo:8080/danyear12/am809100/350955
-
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbohits.png" group-title="HBO",HBO Hits
-http://xtv.ooo:8080/danyear12/am809100/350957
-
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" group-title="HBO",HBO Family
+#EXTINF:0,ID: HBO Family
+#EXTGRP:Indonesia
 http://xtv.ooo:8080/danyear12/am809100/350956
-
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbosig.png" group-title="HBO",HBO Signature
-http://xtv.ooo:8080/danyear12/am809100/350958
+#EXTINF:0,ID: HBO Hits
+#EXTGRP:Indonesia
+http://xtv.ooo:8080/danyear12/am809100/350957
+#EXTINF:0,ID: HBO Signature
+#EXTGRP:Indonesia
 
 
 
