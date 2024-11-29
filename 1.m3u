@@ -1369,19 +1369,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 https://yt.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8
 
 
-#EXTINF:0,ID: HBO
-#EXTGRP:Indonesia
-http://xtv.ooo:8080/danyear12/am809100/350955
-#EXTINF:0,ID: HBO Family
-#EXTGRP:Indonesia
-http://xtv.ooo:8080/danyear12/am809100/350956
-#EXTINF:0,ID: HBO Hits
-#EXTGRP:Indonesia
-http://xtv.ooo:8080/danyear12/am809100/350957
-#EXTINF:0,ID: HBO Signature
-#EXTGRP:Indonesia
-
-
 
 
 
@@ -1575,6 +1562,23 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 group-title="Premium Movies" tvg-id="Zee Bioskop - [Channel 23].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
+
+
+
+
+
+#EXTINF:0,ID: HBO
+#EXTGRP:HBO
+http://xtv.ooo:8080/danyear12/am809100/350955
+#EXTINF:0,ID: HBO Family
+#EXTGRP:HBO
+http://xtv.ooo:8080/danyear12/am809100/350956
+#EXTINF:0,ID: HBO Hits
+#EXTGRP:HBO
+http://xtv.ooo:8080/danyear12/am809100/350957
+#EXTINF:0,ID: HBO Signature
+#EXTGRP:HBO
+http://xtv.ooo:8080/danyear12/am809100/350958
 
 
 
