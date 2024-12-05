@@ -456,6 +456,9 @@ https://v2.siar.us/mic/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
+#EXTINF:-1 tvg-id="aquarius.id" tvg-logo="https://iptv.urfan.id/logo/aquarius.png" group-title="MUSIC",Aquarius Musikindo
+#EXTVLCOPT:http-user-agent=YouTube/19.36.37 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://s.urfan.id/aquarius
 
 
 
