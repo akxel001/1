@@ -673,7 +673,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9381.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/1024px-Logo_MAX_horizontal_on_white_.jpg" group-title="FILM INDONESIA",Maxstream
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/IDH-Maxstream.m3u8
+https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
