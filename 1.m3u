@@ -21,7 +21,7 @@ https://mantul.biz.id:443/inetwork/gayanet12/27431
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/warner.png" group-title="Movies",Warner TV
+#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/warner.png" group-title="PREMIUM MOVIES",Warner TV
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
 
