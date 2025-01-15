@@ -971,7 +971,8 @@ https://mantul.biz.id:443/live/inetwork/gayanet12/216.m3u8
 https://mantul.biz.id:443/live/inetwork/gayanet12/220.m3u8
 #EXTINF:-1 group-title="MANTUL"  tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png",CINEMAWORLD
 https://mantul.biz.id:443/live/inetwork/gayanet12/256.m3u8
-
+#EXTINF:-1 group-title="MANTUL" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Galaxy.png", Galaxy
+https://mantul.biz.id:443/live/inetwork/gayanet12/298.m3u8
 
 
 
