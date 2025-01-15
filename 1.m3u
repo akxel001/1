@@ -974,6 +974,8 @@ https://mantul.biz.id:443/live/inetwork/gayanet12/256.m3u8
 #EXTINF:-1 group-title="MANTUL" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Galaxy.png", Galaxy
 https://mantul.biz.id:443/live/inetwork/gayanet12/298.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi.png" group-title="MANTUL",Cinemachi XTRAOTT
+http://extraott.com:900/3586573392/7591141273/400200722
 
 
 
