@@ -183,10 +183,13 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cine
 
 #=============================================LIGA SATU=================================================================================
 
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2021/08/27/logo-liga-1-logo-bri-liga-1-bri-liga-1.png" group-title="LIGA SATU",INDOSIAR Viphomal
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2021/08/27/logo-liga-1-logo-bri-liga-1-bri-liga-1.png" group-title="BOLA",INDOSIAR Viphomal
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2021/08/27/logo-liga-1-logo-bri-liga-1-bri-liga-1.png" group-title="LIGA SATU",INDOSIAR Mantul
+#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2021/08/27/logo-liga-1-logo-bri-liga-1-bri-liga-1.png" group-title="BOLA",INDOSIAR Mantul
 https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="BOLA",RCTI
+https://mantul.biz.id:443/live/inetwork/gayanet12/190.m3u8
+
 
 
 
@@ -954,8 +957,10 @@ https://mantul.biz.id:443/live/inetwork/gayanet12/5.m3u8
 https://mantul.biz.id:443/live/inetwork/gayanet12/44.m3u8
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/warner.png" group-title="MANTUL",Warner TV
 https://mantul.biz.id:443/live/inetwork/gayanet12/49.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MANTUL",Cinemax
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MANTUL",Cinemax
 https://mantul.biz.id:443/live/inetwork/gayanet12/89.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="MANTUL",Rock Entertaiment
+https://mantul.biz.id:443/live/inetwork/gayanet12/137.m3u8
 
 
 
