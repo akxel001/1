@@ -950,6 +950,12 @@ https://mantul.biz.id:443/live/inetwork/gayanet12/1.m3u8
 https://mantul.biz.id:443/live/inetwork/gayanet12/3.m3u8
 #EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kSN4o1NnpfH6cnY3kZaYgBeWFuwuQVaHj9EeAbuB8yDI.png" group-title="MANTUL",HBO FAMILY
 https://mantul.biz.id:443/live/inetwork/gayanet12/5.m3u8
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kNkhUwRoMQnZNMMg2owVtVycDHVLReGkYsHljy82f2r0.png" group-title="MANTUL",HBO SIGN
+https://mantul.biz.id:443/live/inetwork/gayanet12/44.m3u8
+#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/warner.png" group-title="MANTUL",Warner TV
+https://mantul.biz.id:443/live/inetwork/gayanet12/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MANTUL",Cinemax
+https://mantul.biz.id:443/live/inetwork/gayanet12/89.m3u8
 
 
 
