@@ -488,563 +488,560 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 ============================================== XTV ================================================================
 
-#EXTINF:0,•●★--- Welcome ----★●•
-#EXTGRP:XTV
-http://xtv.ooo:8080/danyear12/am809100/350876
 #EXTINF:0,ID: 01. ETV Live Event
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350877
 #EXTINF:0,ID: 02. ETV Live Event 02
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350878
 #EXTINF:0,ID: 24/7 Angry Birds Toons
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350879
 #EXTINF:0,ID: 24/7 BabyBus Indonesia
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350880
 #EXTINF:0,ID: 24/7 Donald Ducks
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350881
 #EXTINF:0,ID: 24/7 Doraemon
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350882
 #EXTINF:0,ID: 24/7 Just For Laughs
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350883
 #EXTINF:0,ID: 24/7 Mr Bean Cartoon
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350884
 #EXTINF:0,ID: 24/7 Mr. Bean Classic
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350885
 #EXTINF:0,ID: 24/7 Tom And Jerry
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350886
 #EXTINF:0,ID: 24/7 Upin Ipin
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350887
 #EXTINF:0,ID: 24/7 Warkop DKI
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350888
 #EXTINF:0,ID: ANIMAL PLANET
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350889
 #EXTINF:0,ID: Animax
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350890
 #EXTINF:0,ID: AniPlus
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350891
 #EXTINF:0,ID: ANTV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350892
 #EXTINF:0,ID: Arirang
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350893
 #EXTINF:0,ID: Asian Food Network
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350894
 #EXTINF:0,ID: AXN
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350895
 #EXTINF:0,ID: Baby TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350896
 #EXTINF:0,ID: Bali TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350897
 #EXTINF:0,ID: BBC Earth
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350898
 #EXTINF:0,ID: BBC Lifestyle
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350899
 #EXTINF:0,ID: beIN Sports 1
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350900
 #EXTINF:0,ID: beIN Sports 3
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350901
 #EXTINF:0,ID: Berita Satu
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350902
 #EXTINF:0,ID: Berita Satu news
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350903
 #EXTINF:0,ID: Berita Satu World
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350904
 #EXTINF:0,ID: Besmart
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350905
 #EXTINF:0,ID: Bioskop Indonesia
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350906
 #EXTINF:0,ID: Bloomberg TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350907
 #EXTINF:0,ID: Boomerang
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350908
 #EXTINF:0,ID: Boomerang EN
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350909
 #EXTINF:0,ID: Cartoon Network
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350910
 #EXTINF:0,ID: CBeebies
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350911
 #EXTINF:0,ID: CCM
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350912
 #EXTINF:0,ID: Celestial Movies
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350913
 #EXTINF:0,ID: CGTN
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350914
 #EXTINF:0,ID: CGTN Documentary
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350915
 #EXTINF:0,ID: Champion TV 1
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350916
 #EXTINF:0,ID: Champion TV 2
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350917
 #EXTINF:0,ID: Champion TV 3
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350918
 #EXTINF:0,ID: Channel News Asia
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350919
 #EXTINF:0,ID: Chinese Drama
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350920
 #EXTINF:0,ID: CinemaWorld
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350921
 #EXTINF:0,ID: Cinemax
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350922
 #EXTINF:0,ID: Citra Bioskop
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350923
 #EXTINF:0,ID: Citra Dangdut
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350924
 #EXTINF:0,ID: Citra Drama
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350925
 #EXTINF:0,ID: Citra Entertainment
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350926
 #EXTINF:0,ID: CNBC Indonesia
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350927
 #EXTINF:0,ID: CNN Indonesia
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350928
 #EXTINF:0,ID: CNN International
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350929
 #EXTINF:0,ID: Crime+ Investigation
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350930
 #EXTINF:0,ID: Da Ai TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350931
 #EXTINF:0,ID: Discovery Asia
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350932
 #EXTINF:0,ID: Discovery World
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350933
 #EXTINF:0,ID: Disney Junior
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350934
 #EXTINF:0,ID: Disney XD
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350935
 #EXTINF:0,ID: DreamWorks
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350936
 #EXTINF:0,ID: Dunia Anak
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350937
 #EXTINF:0,ID: Dunia Lain
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350938
 #EXTINF:0,ID: Eat&Go
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350939
 #EXTINF:0,ID: Ent
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350940
 #EXTINF:0,ID: Etv Bioskop
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350941
 #EXTINF:0,ID: Etv Bioskop 02
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350942
 #EXTINF:0,ID: Etv Bioskop 03
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350943
 #EXTINF:0,ID: Etv Bioskop 04
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350944
 #EXTINF:0,ID: Fashion TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350945
 #EXTINF:0,ID: Fight Sport
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350946
 #EXTINF:0,ID: FLIK
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350947
 #EXTINF:0,ID: FMN
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350948
 #EXTINF:0,ID: Fox Crime
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350949
 #EXTINF:0,ID: Galaxy
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350950
 #EXTINF:0,ID: Galaxy Premium
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350951
 #EXTINF:0,ID: GEM
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350952
 #EXTINF:0,ID: Golf
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350953
 #EXTINF:0,ID: GTV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350954
 #EXTINF:0,ID: HBO
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350955
 #EXTINF:0,ID: HBO Family
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350956
 #EXTINF:0,ID: HBO Hits
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350957
 #EXTINF:0,ID: HBO Signature
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350958
 #EXTINF:0,ID: HGTV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350959
 #EXTINF:0,ID: Hip Hip Horee!
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350960
 #EXTINF:0,ID: History
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350961
 #EXTINF:0,ID: Hits
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350962
 #EXTINF:0,ID: Hits Movies
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350963
 #EXTINF:0,ID: Horee!
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350964
 #EXTINF:0,ID: Hunan TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350965
 #EXTINF:0,ID: I AM Channel
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350966
 #EXTINF:0,ID: I Konser
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350967
 #EXTINF:0,ID: IDX
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350968
 #EXTINF:0,ID: Ie
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350969
 #EXTINF:0,ID: IMC
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350970
 #EXTINF:0,ID: Indi Kids
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350971
 #EXTINF:0,ID: Indosiar
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350972
 #EXTINF:0,ID: INews
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350973
 #EXTINF:0,ID: Infotainment
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350974
 #EXTINF:0,ID: Insert
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350975
 #EXTINF:0,ID: Izzah TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350976
 #EXTINF:0,ID: Jak TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350977
 #EXTINF:0,ID: Jakarta Globe News
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350978
 #EXTINF:0,ID: JTV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350979
 #EXTINF:0,ID: K+
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350980
 #EXTINF:0,ID: KBS World
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350981
 #EXTINF:0,ID: Kids TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350982
 #EXTINF:0,ID: KIX
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350983
 #EXTINF:0,ID: Kompas TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350984
 #EXTINF:0,ID: Life
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350985
 #EXTINF:0,ID: Lifestyle & Fashion
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350986
 #EXTINF:0,ID: Lifetime
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350987
 #EXTINF:0,ID: Love Nature
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350988
 #EXTINF:0,ID: Mentari TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350989
 #EXTINF:0,ID: Metro TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350990
 #EXTINF:0,ID: Miao Mi
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350991
 #EXTINF:0,ID: MNC News
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350992
 #EXTINF:0,ID: MNC Sports
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350993
 #EXTINF:0,ID: MNC Sports 2
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350994
 #EXTINF:0,ID: MNC Sports 3
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350995
 #EXTINF:0,ID: MNC TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350996
 #EXTINF:0,ID: Moji
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350997
 #EXTINF:0,ID: MQTV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350998
 #EXTINF:0,ID: MTA 2 Asia
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/350999
 #EXTINF:0,ID: MTA 3
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351000
 #EXTINF:0,ID: MTA TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351001
 #EXTINF:0,ID: Music TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351002
 #EXTINF:0,ID: My Cinema
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351003
 #EXTINF:0,ID: My Cinema Asia
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351004
 #EXTINF:0,ID: My Family
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351005
 #EXTINF:0,ID: My Kidz
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351006
 #EXTINF:0,ID: Nat Geo
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351007
 #EXTINF:0,ID: Nat Geo Wild
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351008
 #EXTINF:0,ID: NBA TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351009
 #EXTINF:0,ID: Net
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351010
 #EXTINF:0,ID: NHK World
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351011
 #EXTINF:0,ID: Nick Jr
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351012
 #EXTINF:0,ID: Nick Jr EN
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351013
 #EXTINF:0,ID: nickelodeon
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351014
 #EXTINF:0,ID: Nusantara TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351015
 #EXTINF:0,ID: OK TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351016
 #EXTINF:0,ID: ONE
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351017
 #EXTINF:0,ID: Padang TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351018
 #EXTINF:0,ID: Paramount Network
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351019
 #EXTINF:0,ID: Prambors
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351020
 #EXTINF:0,ID: Rajawali TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351021
 #EXTINF:0,ID: RB TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351022
 #EXTINF:0,ID: RCTI
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351023
 #EXTINF:0,ID: Reformed 21
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351024
 #EXTINF:0,ID: Rock Action
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351025
 #EXTINF:0,ID: Rock Entertaiment
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351026
 #EXTINF:0,ID: Rock Extreme
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351027
 #EXTINF:0,ID: Rodja TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351028
 #EXTINF:0,ID: RRI Net
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351029
 #EXTINF:0,ID: SCTV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351030
 #EXTINF:0,ID: SEA Today
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351031
 #EXTINF:0,ID: Smithsonian Channel
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351032
 #EXTINF:0,ID: Sony One
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351033
 #EXTINF:0,ID: SpoTV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351034
 #EXTINF:0,ID: SpoTV 2
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351035
 #EXTINF:0,ID: Tech Storm
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351036
 #EXTINF:0,ID: Tegar TV Lampung
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351037
 #EXTINF:0,ID: Thrill
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351038
 #EXTINF:0,ID: TLC
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351039
 #EXTINF:0,ID: Trans 7
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351040
 #EXTINF:0,ID: Trans TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351041
 #EXTINF:0,ID: TV 9 Nusantara
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351042
 #EXTINF:0,ID: TV Mu
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351043
 #EXTINF:0,ID: TV One
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351044
 #EXTINF:0,ID: TVN
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351045
 #EXTINF:0,ID: TVN Movies
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351046
 #EXTINF:0,ID: TVRI
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351047
 #EXTINF:0,ID: TVRI Gorontalo
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351048
 #EXTINF:0,ID: TVRI Jambi
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351049
 #EXTINF:0,ID: TVRI Jawa Barat
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351050
 #EXTINF:0,ID: TVRI Kalimantan Barat
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351051
 #EXTINF:0,ID: TVRI Sport
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351052
 #EXTINF:0,ID: TVRI Sulawesi Selatan
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351053
 #EXTINF:0,ID: U Channel
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351054
 #EXTINF:0,ID: Usee Prime
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351055
 #EXTINF:0,ID: Usee Sport 1
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351056
 #EXTINF:0,ID: Usee Sport 2
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351057
 #EXTINF:0,ID: Vision Prime
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351058
 #EXTINF:0,ID: Warner TV
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351059
 #EXTINF:0,ID: Zee Bioskop
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351060
 #EXTINF:0,ID: ZooMoo
-#EXTGRP:XTV
+#EXTGRP:XTV_danyear12
 http://xtv.ooo:8080/danyear12/am809100/351061
 
 
