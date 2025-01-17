@@ -486,33 +486,22 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 
 
-============================================== HBO GROUP ================================================================
+============================================== XTV ================================================================
 
-#EXTINF:0,ID: HBO
-#EXTGRP:HBO GROUP
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kM_1ElBuZ5P6euLlqe7zdTg.png" group-title="XTV",HBO XTV
 http://xtv.ooo:8080/danyear12/am809100/350955
-#EXTINF:0,ID: HBO Family
-#EXTGRP:HBO GROUP
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kSN4o1NnpfH6cnY3kZaYgBeWFuwuQVaHj9EeAbuB8yDI.png" group-title="XTV",HBO FAMILY
 http://xtv.ooo:8080/danyear12/am809100/350956
-#EXTINF:0,ID: HBO Hits
-#EXTGRP:HBO GROUP
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kHBCisUrZPOuR7DGUWpd6jA.png" group-title="XTV",HBO HITS
 http://xtv.ooo:8080/danyear12/am809100/350957
-#EXTINF:0,ID: HBO Signature
-#EXTGRP:HBO GROUP
+#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kNkhUwRoMQnZNMMg2owVtVycDHVLReGkYsHljy82f2r0.png" group-title="MUSIC",HBO SIGNATURE
 http://xtv.ooo:8080/danyear12/am809100/350958
 
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXTINF:0,ID: SONY PIX
-#EXTGRP:HBO GROUP
-#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9381.m3u8
 
 
 
 
-
-
+#===========================================================FILM INDONESIA=========================================================================
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/1024px-Logo_MAX_horizontal_on_white_.jpg" group-title="FILM INDONESIA",Maxstream
