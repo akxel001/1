@@ -1,6 +1,7 @@
 #EXTM3U
 #========================================================PREMIUM MOVIES==========================================================================
-
+#EXTINF:-1 group-title="PREMIUM MOVIES" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="Cinemax" tvg-logo="https://pictr.com/images/2025/01/14/x129mx.png",Cinemax
+http://15.235.144.67:35461/live/654321/123456/607.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.phenompeople.com/CareerConnectResources/prod/WAMEGLOBAL/images/3-1628115648251.png" group-title="PREMIUM MOVIES",HBO aseanic
 http://15.235.144.67:35461/live/654321/123456/599.m3u8
