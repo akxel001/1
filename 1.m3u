@@ -1,5 +1,11 @@
 #EXTM3U
 #========================================================PREMIUM MOVIES==========================================================================
+#EXTINF:-1 group-title="PREMIUM MOVIES" group-logo="https://pictr.com/images/2023/04/18/EniKeA.png" tvg-id="Cinemax aseanic" tvg-logo="https://pictr.com/images/2025/01/14/x129mx.png",Cinemax Aseanic
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.phenompeople.com/CareerConnectResources/prod/WAMEGLOBAL/images/3-1628115648251.png" group-title="PREMIUM MOVIES",HBO aseanic
 http://15.235.144.67:35461/live/654321/123456/599.m3u8
