@@ -446,7 +446,7 @@ https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 https://cdn09jtedge.indihometv.com/joss/134/musikindo720/index.m3u8
 
 
-#EXTINF:-1 group-title="Musik" tvg-id="mictv.id" tvg-logo="https://iptv.urfan.id/logo/mictv.png",MIC TV
+#EXTINF:-1 group-title="Musik" tvg-id="mictv.id" tvg-logo="https://play-lh.googleusercontent.com/DRbqBkKBxosMW817-K66NdyobO9RwfxdpD18miEG-WEBeTyEqi7IVTTFgFI-nB7JasEk=w240-h480",MIC TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://v2.siar.us/mic/live/playlist.m3u8
 
