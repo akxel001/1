@@ -587,7 +587,7 @@ http://xtv.ooo:8080/live/danyear12/am809100/66244.ts
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/1024px-Logo_MAX_horizontal_on_white_.jpg" group-title="FILM INDONESIA",Maxstream
-https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
+https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -595,8 +595,6 @@ https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 #EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="FILM INDONESIA",Indonesia Movie Channel
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXT-X-STREAM-INF:BANDWIDTH=1505855,AVERAGE-BANDWIDTH=1368959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.000
-https://cdngb196.indihometv.com/joss/133/flik/chunklist_w1210303184_b1544100_sleng.m3u8?encp=&uid=&expp=
 
 
 #EXTINF:-1 group-title="FILM INDONESIA"  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA
