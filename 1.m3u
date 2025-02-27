@@ -1,17 +1,6 @@
 #EXTM3U
 #========================================================PREMIUM MOVIES==========================================================================
-#EXTINF:-1 tvg-logo="https://cdn.phenompeople.com/CareerConnectResources/prod/WAMEGLOBAL/images/3-1628115648251.png" group-title="PREMIUM MOVIES", HBO
-https://mantul.biz.id:443/live/inetwork/gayanet12/1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.phenompeople.com/CareerConnectResources/prod/WAMEGLOBAL/images/3-1628115648251.png" group-title="PREMIUM MOVIES", HBO 2
-https://mantul.biz.id:443/live/inetwork/gayanet12/252.m3u8
-#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kHBCisUrZPOuR7DGUWpd6jA.png" group-title="PREMIUM MOVIES",HBO HITS
-https://mantul.biz.id:443/live/inetwork/gayanet12/3.m3u8
-#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kSN4o1NnpfH6cnY3kZaYgBeWFuwuQVaHj9EeAbuB8yDI.png" group-title="PREMIUM MOVIES",HBO FAMILY
-https://mantul.biz.id:443/live/inetwork/gayanet12/5.m3u8
-#EXTINF:-1 tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kNkhUwRoMQnZNMMg2owVtVycDHVLReGkYsHljy82f2r0.png" group-title="PREMIUM MOVIES",HBO SIGN
-https://mantul.biz.id:443/live/inetwork/gayanet12/44.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="PREMIUM MOVIES",Cinemax
-https://mantul.biz.id:443/live/inetwork/gayanet12/89.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.phenompeople.com/CareerConnectResources/prod/WAMEGLOBAL/images/3-1628115648251.png" group-title="PREMIUM MOVIES",HBO aseanic
 http://15.235.144.67:35461/live/654321/123456/599.m3u8
@@ -21,16 +10,6 @@ http://15.235.144.67:35461/live/654321/123456/599.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkeyf
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="PREMIUM MOVIES",081. Etv Bioskop
-https://mantul.biz.id:443/inetwork/gayanet12/242
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="PREMIUM MOVIES",082. Etv Bioskop 3
-https://mantul.biz.id:443/inetwork/gayanet12/1092
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="PREMIUM MOVIES",083. Etv Bioskop 4
-https://mantul.biz.id:443/inetwork/gayanet12/13924
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="PREMIUM MOVIES",084. Etv Bioskop 5
-https://mantul.biz.id:443/inetwork/gayanet12/27431
 
 
 
