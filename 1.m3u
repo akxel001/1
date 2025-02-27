@@ -170,11 +170,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cine
 
 
 #=============================================AFALAXTV=====================================================================================================
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Aflaxtv",ID: HBO
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Aflaxtv",ID: HBO
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306484
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Aflaxtv",ID: HBO 1080
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Aflaxtv",ID: HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Aflaxtv",ID: HBO Family
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306485
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Aflaxtv",ID: HBO Family 1080
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
@@ -182,7 +182,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306486
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Aflaxtv",ID: HBO Hits 1080
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Aflaxtv",ID: HBO Signature
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Aflaxtv",ID: HBO Signature
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306483
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Aflaxtv",ID: HBO Signature 1080
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
