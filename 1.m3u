@@ -34,7 +34,7 @@ https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-logo="" group-title="PREMIUM MOVIES" tvg-logo="https://png.pngtree.com/template/20220424/ourmid/pngtree-bollywood-cinema-cinematography-banner-logo-brochure-image_1179540.jpg",Bollywood HD 
+#EXTINF:-1 group-title="NONTON SITE" tvg-logo="" group-title="PREMIUM MOVIES" tvg-logo="https://png.pngtree.com/template/20220424/ourmid/pngtree-bollywood-cinema-cinematography-banner-logo-brochure-image_1179540.jpg",Bollywood HD 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 #src:hendroagung2904
@@ -402,7 +402,7 @@ http://xtv.ooo:8080/live/danyear12/am809100/66228.ts
 http://xtv.ooo:8080/live/danyear12/am809100/66229.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="XTV",IN | & Flix FHD
 http://xtv.ooo:8080/live/danyear12/am809100/66236.ts
-#EXTINF:-1 tvg-logo="" group-title="XTV",IN: & Explor FHD
+#EXTINF:-1 group-title="NONTON SITE" tvg-logo="" group-title="XTV",IN: & Explor FHD
 http://xtv.ooo:8080/live/danyear12/am809100/66241.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="XTV",IN: MNX FHD
 http://xtv.ooo:8080/live/danyear12/am809100/66266.ts
@@ -577,6 +577,7 @@ http://xtv.ooo:8080/danyear12/am809100/381364
 
 
 #================================NONTON SITE============https://github.com/OdOX09/Pryvt=====================================================
+#EXTM3U
 #EXTM3U
 #EXTINF:-1,Playlist DreamlyTV boleh di share
 #EXTINF:-1,Masih belum di load logo
@@ -1048,7 +1049,6 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48104
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48105
 #EXTINF:-1,MY - PRemier Sports
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48106
-
 
 
 
