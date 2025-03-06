@@ -195,7 +195,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221947
 #=============================================================NEWS============================================================================================
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWpG67XKmB-Wjlv3VxBCKQ3RKweVKPlQJokw&s" group-title="NEWS",MNC News
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWpG67XKmB-Wjlv3VxBCKQ3RKweVKPlQJokw&s" group-title="News",MNC News
 https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png" group-title="News", 011. Metro TV
@@ -416,6 +416,10 @@ http://xtv.ooo:8080/live/danyear12/am809100/66244.ts
 
 
 #===========================================================FILM INDONESIA=========================================================================
+#EXTINF:-1 group-title="FILM INDONESDIA"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
