@@ -425,7 +425,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Usee_Prime.png" group-title="FILM INDONESIA",Useeprime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AllPlay_Entertainment.png" group-title="FILM INDONESIA",Allplay Ent.
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
