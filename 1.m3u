@@ -439,9 +439,7 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 group-title="FILM INDONESIA" tvg-id="flik.id" tvg-logo="https://images.indihometv.com/tvposter/flik.png",FLIK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165095
 
 
 
