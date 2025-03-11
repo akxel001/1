@@ -196,10 +196,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221947
 
 
 #=============================================================NEWS============================================================================================
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWpG67XKmB-Wjlv3VxBCKQ3RKweVKPlQJokw&s" group-title="News",MNC News
-https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png" group-title="News", 011. Metro TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
