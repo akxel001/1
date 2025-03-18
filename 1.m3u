@@ -1,5 +1,15 @@
 #EXTM3U
 #========================================================PREMIUM MOVIES==========================================================================
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="PREMIUM MOVIES",ID: ETV BIOSKOP 01
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298526
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="PREMIUM MOVIES",ID: ETV BIOSKOP 02
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298513
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="PREMIUM MOVIES",ID: ETV BIOSKOP 03
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298514
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="PREMIUM MOVIES",ID: ETV BIOSKOP 04
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="PREMIUM MOVIES",IN | Sony Pix FHD
+http://xtv.ooo:8080/live/danyear12/am809100/66224.ts
 
 
 #EXTINF:-1, tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=75&strip=all&w=978&h=652&crop=1" group-title="PREMIUM MOVIES", HBO
@@ -419,22 +429,22 @@ http://xtv.ooo:8080/live/danyear12/am809100/66244.ts
 #===========================================================FILM INDONESIA=========================================================================
 
 
-#EXTINF:-1 tvg-name="" tvg-id="Maxstream.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/1200px-Logo_MAX_horizontal_on_white_.jpg" group-title="FILM INDONESIA",MAXSTREAM
+#EXTINF:-1 tvg-name="" tvg-id="Maxstream.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/1200px-Logo_MAX_horizontal_on_white_.jpg" group-title="PREMIUM MOVIES",MAXSTREAM
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AllPlay_Entertainment.png" group-title="FILM INDONESIA",Allplay Ent.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AllPlay_Entertainment.png" group-title="PREMIUM MOVIES",Allplay Ent.
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
-#EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="FILM INDONESIA",Indonesia Movie Channel
+#EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="PREMIUM MOVIES",Indonesia Movie Channel
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 group-title="FILM INDONESIA" tvg-id="flik.id" tvg-logo="https://images.indihometv.com/tvposter/flik.png",FLIK
+#EXTINF:-1 group-title="PREMIUM MOVIES" tvg-id="flik.id" tvg-logo="https://images.indihometv.com/tvposter/flik.png",FLIK
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165095
 
 
