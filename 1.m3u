@@ -11,6 +11,13 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="PREMIUM MOVIES",IN | Sony Pix FHD
 http://xtv.ooo:8080/live/danyear12/am809100/66224.ts
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-id="ONE.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="PREMIUM MOVIES",One (V+)
+https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+
 
 #EXTINF:-1, tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=75&strip=all&w=978&h=652&crop=1" group-title="PREMIUM MOVIES", HBO
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306484
