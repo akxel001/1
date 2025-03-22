@@ -30,8 +30,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306485
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT65cB_5cs3qL2_wf9iLA2aweZsBgf1UawDDA&s" group-title="PREMIUM MOVIES", Cinemax ID
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
 
-#EXTINF:-1 tvg-logo="https://cdn.phenompeople.com/CareerConnectResources/prod/WAMEGLOBAL/images/3-1628115648251.png" group-title="PREMIUM MOVIES",HBO aseanic
-http://15.235.144.67:35461/live/654321/123456/599.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="PREMIUM MOVIES" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",CITRA BIOSKOP
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -273,7 +272,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-H
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
 
 
-#EXTINF:0 group-title="CITRA GROUP" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",CITRA DRAMA
+#EXTINF:0 group-title="PREMIUM MOVIES" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",CITRA DRAMA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
