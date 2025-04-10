@@ -459,7 +459,15 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="PREMIUM MOVIES",Indonesia Movie Channel
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 group-title="PREMIUM MOVIES" tvg-id="flik.id" tvg-logo="https://images.indihometv.com/tvposter/flik.png",FLIK
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Flik.png" group-logo="" group-title="PREMIUM MOVIES",Flik
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+#EXTINF:-1 group-title="PREMIUM MOVIES" tvg-id=Film Indonesia" tvg-logo="https://images.indihometv.com/tvposter/flik.png",Film Indonesia
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165095
 
 
