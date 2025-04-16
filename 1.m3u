@@ -28,19 +28,6 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
 
 
 
-#EXTINF:-1, tvg-logo="https://decider.com/wp-content/uploads/2017/08/hbo-2.jpg?quality=75&strip=all&w=978&h=652&crop=1" group-title="PREMIUM MOVIES", HBO
-http://iptvtree.net:8080/F25093/29838750/306484
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="PREMIUM MOVIES", HBO Hits
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306486
-#EXTINF:-1, tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" group-title="PREMIUM MOVIES", HBO Signature
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306483
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKI_QryVsDQLkLNNs2IwxEhepartuo9RJ0QA&s" group-title="PREMIUM MOVIES", HBO Family
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306485
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT65cB_5cs3qL2_wf9iLA2aweZsBgf1UawDDA&s" group-title="PREMIUM MOVIES", Cinemax ID
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
-
-
-
 #EXTINF:0 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="PREMIUM MOVIES" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",CITRA BIOSKOP
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkeyf
