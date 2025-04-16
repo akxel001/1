@@ -233,6 +233,106 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
 
 
+
+
+
+=================================BIOSKOP 24/7=================================================
+
+
+#EXTINF:-1 xui-id="2543" tvg-id="" tvg-name="BIOSKOP BOLLYWOOD" tvg-logo="https://cdn.streamplay.cyou:443/images/Ew7KWgEVPBJlBK0JSddniM--e28ef5mUTlu2p43I_9-brxamaOFfrcEcBuRh4UN-VPafYjKmL3ILtZFsC3xAsg.png" group-title="BIOSKOP 24/7",BIOSKOP BOLLYWOOD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEEc1FhOivtrsZngBn_XIoR
+#EXTINF:-1 xui-id="2544" tvg-id="" tvg-name="BIOSKOP ACTION" tvg-logo="https://cdn.streamplay.cyou:443/images/Ew7KWgEVPBJlBK0JSddniM--e28ef5mUTlu2p43I_9-brxamaOFfrcEcBuRh4UN-VPafYjKmL3ILtZFsC3xAsg.png" group-title="BIOSKOP 24/7",BIOSKOP ACTION
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFd1HYh_K9-raIJpe-Bv7Li
+#EXTINF:-1 xui-id="2611" tvg-id="" tvg-name="WARKOP DKI" tvg-logo="https://cdn.streamplay.cyou:443/images/Ew7KWgEVPBJlBK0JSddniM--e28ef5mUTlu2p43I_9-brxamaOFfrcEcBuRh4UN-VPafYjKmL3ILtZFsC3xAsg.png" group-title="BIOSKOP 24/7",WARKOP DKI
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEiNimoalQfCO_a0pIKd_nx
+#EXTINF:-1 xui-id="2633" tvg-id="" tvg-name="BIOSKOP CHINA" tvg-logo="https://cdn.streamplay.cyou:443/images/Ew7KWgEVPBJlBK0JSddniM--e28ef5mUTlu2p43I_9-brxamaOFfrcEcBuRh4UN-VPafYjKmL3ILtZFsC3xAsg.png" group-title="BIOSKOP 24/7",BIOSKOP CHINA
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHQXbFPmX3fNFFN4CSoPeFT
+#EXTINF:-1 xui-id="2676" tvg-id="" tvg-name="BIOSKOP HORROR" tvg-logo="https://cdn.streamplay.cyou:443/images/Ew7KWgEVPBJlBK0JSddniM--e28ef5mUTlu2p43I_9-brxamaOFfrcEcBuRh4UN-VPafYjKmL3ILtZFsC3xAsg.png" group-title="BIOSKOP 24/7",BIOSKOP HORROR
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFF-VL9geeiI3bZRFyK93ib
+#EXTINF:-1 xui-id="9315" tvg-id="" tvg-name="INDONESIA" tvg-logo="https://cdn.streamplay.cyou:443/images/Ew7KWgEVPBJlBK0JSddniM--e28ef5mUTlu2p43I_9-brxamaOFfrcEcBuRh4UN-VPafYjKmL3ILtZFsC3xAsg.png" group-title="BIOSKOP 24/7",INDONESIA
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHPAViFW2SxboitxKl_cQV3
+#EXTINF:-1 xui-id="9316" tvg-id="" tvg-name="INDO HORROR" tvg-logo="https://cdn.streamplay.cyou:443/images/Ew7KWgEVPBJlBK0JSddniM--e28ef5mUTlu2p43I_9-brxamaOFfrcEcBuRh4UN-VPafYjKmL3ILtZFsC3xAsg.png" group-title="BIOSKOP 24/7",INDO HORROR
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEo8SDdS2NbzVDZ6f9tcKx2
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="BIOSKOP 24/7",ETV BIOSKOP 01
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298526
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="BIOSKOP 24/7",ETV BIOSKOP 02
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298513
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="BIOSKOP 24/7",ETV BIOSKOP 03
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298514
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="BIOSKOP 24/7",ETV BIOSKOP 04
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
+
+
+#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="BIOSKOP 24/7",ETV Bioskop 1.2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/ETV-Bioskop-1.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="BIOSKOP 24/7",ETV Bioskop 2.2
+https://WahyuIPTV.short.gy/EtvBioskop2
+
+#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="BIOSKOP 24/7",ETV Bioskop 3.2
+https://WahyuIPTV.short.gy/EtvBioskop3
+
+#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="BIOSKOP 24/7",ETV Bioskop 4.2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/ETV-Bioskop-4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BIOSKOP 24/7",ID: ETV BIOSKOP 01
+http://aflaxtv.xyz:8080/Wat068/924a937d/298526
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BIOSKOP 24/7",ID: ETV BIOSKOP 02
+http://aflaxtv.xyz:8080/Wat068/924a937d/298513
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BIOSKOP 24/7",ID: ETV BIOSKOP 03
+http://aflaxtv.xyz:8080/Wat068/924a937d/298514
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="BIOSKOP 24/7",ID: ETV BIOSKOP 04
+
+
+
+
+
+
+=======================================BOX-OFFICE 24/7================================================
+
+
+#EXTINF:-1 xui-id="11118" tvg-id="" tvg-name="SPIDER MAN" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",SPIDER MAN
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHWcvTrh9aLGrY773_kUhmy
+#EXTINF:-1 xui-id="11119" tvg-id="" tvg-name="IP MAN" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",IP MAN
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHfvFEamwC5AY7uAaJm42q4
+#EXTINF:-1 xui-id="11120" tvg-id="" tvg-name="JURASSIC PARK" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",JURASSIC PARK
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGLOXq3W1aYszySbXYgOU28
+#EXTINF:-1 xui-id="11121" tvg-id="" tvg-name="FAST AND THE FURIOUS" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",FAST AND THE FURIOUS
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFl_SEG99GUdNKFFZguvbIj
+#EXTINF:-1 xui-id="11122" tvg-id="" tvg-name="THE MUMMY" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",THE MUMMY
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHR98hQZHiaxaeJpdtEwXlq
+#EXTINF:-1 xui-id="11123" tvg-id="" tvg-name="JUMANJI" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",JUMANJI
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dECnbwGip0iMQzbTRVhzvD6
+#EXTINF:-1 xui-id="11124" tvg-id="" tvg-name="THE NUN" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",THE NUN
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHv-DqZnm9acrrMJIDeLn7d
+#EXTINF:-1 xui-id="11125" tvg-id="" tvg-name="INDIANA JONES" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",INDIANA JONES
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHRaw1gPJ3rIFL9u9cpO39Q
+#EXTINF:-1 xui-id="11126" tvg-id="" tvg-name="THE TERMINATOR" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",THE TERMINATOR
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dETeqZ9dCumPaWF28cetVjo
+#EXTINF:-1 xui-id="11127" tvg-id="" tvg-name="RESIDENT EVIL" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",RESIDENT EVIL
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEg7lrnnWuMeMgCgLlu4hDf
+#EXTINF:-1 xui-id="11128" tvg-id="" tvg-name="RAMBO" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",RAMBO
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGOpqySH1W1ukSa2XDcJs2i
+#EXTINF:-1 xui-id="11129" tvg-id="" tvg-name="THE CONJURING" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",THE CONJURING
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEMYgv1GU5DvSXlm61Y4WgU
+#EXTINF:-1 xui-id="11130" tvg-id="" tvg-name="HARRY POTTER" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",HARRY POTTER
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEKpcgxnc3fA4KJrfCBxeRp
+#EXTINF:-1 xui-id="11131" tvg-id="" tvg-name="DIE HARD" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",DIE HARD
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEUM9oL8TGujhZALuVRDcV8
+#EXTINF:-1 xui-id="11132" tvg-id="" tvg-name="ICE AGE" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",ICE AGE
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dGAL77rMf-q_IX1yb0f2ty1
+#EXTINF:-1 xui-id="11133" tvg-id="" tvg-name="BLUES MUSIC" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",BLUES MUSIC
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFZFsLQrnPgRtcIdKJlm8XP
+#EXTINF:-1 xui-id="11134" tvg-id="" tvg-name="REGGAE MUSIC" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_YvVEuZ3j6xMe_9XOtjzRQM.png" group-title="BOX-OFFICE",REGGAE MUSIC
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFNQq8MfIRSHBR_2fzeFVpB
+
+
+
+
 #=============================================AFALAXTV=====================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Aflaxtv",ID: HBO
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306484
