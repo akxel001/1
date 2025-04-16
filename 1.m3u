@@ -360,52 +360,6 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221947
 
 
 
-#=============================================================NEWS============================================================================================
-
-
-#EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png" group-title="News", 011. Metro TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="News" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png",012. TVOne
-https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
-
-
-
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png" group-title="News", 013. Berita Satu
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/BTV.m3u8
-
-
-
-#EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png" group-title="News", 014. CNN Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/CNN.m3u8
-
-
-#EXTINF:-1 tvg-id="KOMPAS TV - [Channel 116].id" tvg-name="KOMPAS TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KompasTV.png" group-title="News", 015. Kompas TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
-https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
-
-
-#EXTINF:-1 tvg-id="iNews - [Channel 433].id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/InewsTV.png" group-title="News", 017. iNewsTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="SindoNews TV" tvg-name="SindoNews TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SindoNewsTV.png" group-title="News",018. SindoNews TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/
-
-
 
 
 
