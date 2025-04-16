@@ -19,7 +19,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png" group-title=""PREMIUM MOVIES",AXN
+#EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png" group-title="PREMIUM MOVIES",AXN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
 https://cempedak-cdn-fly.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
