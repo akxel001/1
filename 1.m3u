@@ -17,8 +17,7 @@ https://WahyuIPTV.short.gy/ShowCase
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
-
-#EXTINF:-1 group-title"PREMIUM MOVIES" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png", Sony PIX HD*
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="PREMIUM MOVIES",IN | Sony Pix FHD
 https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
 
 
