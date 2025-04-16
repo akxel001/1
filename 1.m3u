@@ -10,6 +10,14 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298514
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
 
 
+#EXTINF:-1 tvg-id="ShowCase" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Astroshowcase.png" group-title="PREMIUM MOVIES", ShowCase Movies
+https://WahyuIPTV.short.gy/ShowCase
+
+#EXTINF:-1 tvg-id="StudioUniversal" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/StudioUniversal.png" group-title="PREMIUM MOVIES", Studio Universal
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
