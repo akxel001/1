@@ -18,6 +18,10 @@ https://WahyuIPTV.short.gy/ShowCase
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 
+#EXTINF:-1 group-title"PREMIUM MOVIES" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png", Sony PIX HD*
+https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
