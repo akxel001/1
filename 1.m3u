@@ -325,78 +325,78 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD
 
 
 #EXTINF:0,ID: CCM
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350912
 #EXTINF:0,ID: Celestial Movies
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350913
 #EXTINF:0,ID: Cinemax
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350922
 #EXTINF:0,ID: Citra Bioskop
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350923
 #EXTINF:0,ID: Citra Dangdut
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350924
 #EXTINF:0,ID: Citra Drama
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350925
 #EXTINF:0,ID: Citra Entertainment
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350926
 #EXTINF:0,ID: Etv Bioskop
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350941
 #EXTINF:0,ID: Etv Bioskop 02
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350942
 #EXTINF:0,ID: Etv Bioskop 03
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350943
 #EXTINF:0,ID: Etv Bioskop 04
 #EXTINF:0,ID: Galaxy
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350950
 #EXTINF:0,ID: Galaxy Premium
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350951
 #EXTINF:0,ID: HBO
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350955
 #EXTINF:0,ID: HBO Family
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350956
 #EXTINF:0,ID: HBO Hits
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350957
 #EXTINF:0,ID: HBO Signature
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350958
 #EXTINF:0,ID: Hits
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350962
 #EXTINF:0,ID: Hits Movies
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/350963
 
 #EXTINF:0,ID: My Cinema Asia
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/351004
 #EXTINF:0,ID: My Family
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/351005
 #EXTINF:0,ID: My Kidz
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/351006
 #EXTINF:0,ID: Rock Action
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/351025
 #EXTINF:0,ID: Rock Entertaiment
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/351026
 #EXTINF:0,ID: Rock Extreme
-#EXTGRP:XTV_danyear12
+#EXTGRP:XTV
 http://xtv.ooo:8080/danyear12/am809100/351027
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarWorld.in.png" group-title="XTV",IN | Star World HD
 http://xtv.ooo:8080/live/danyear12/am809100/66211.ts
