@@ -166,6 +166,12 @@ https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-id="Cinema.World.id" tvg-name="Cinema World" tvg-logo="https://iili.io/Jmo9ReI.png" group-title="PREMIUM MOVIES", Cinemaworld
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+
+
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
