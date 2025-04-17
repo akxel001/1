@@ -1,14 +1,5 @@
 #EXTM3U
 #========================================================PREMIUM MOVIES==========================================================================
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="PREMIUM MOVIES",ID: ETV BIOSKOP 01
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298526
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="PREMIUM MOVIES",ID: ETV BIOSKOP 02
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298513
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="PREMIUM MOVIES",ID: ETV BIOSKOP 03
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298514
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="PREMIUM MOVIES",ID: ETV BIOSKOP 04
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
-
 
 #EXTINF:-1 tvg-id="ShowCase" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Astroshowcase.png" group-title="PREMIUM MOVIES", ShowCase Movies
 https://WahyuIPTV.short.gy/ShowCase
@@ -570,7 +561,6 @@ http://xtv.ooo:8080/danyear12/am809100/381364
 
 
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
@@ -946,7 +936,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
 
 #EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="EXTRA MOVIES",ETV Bioskop 1.2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/ETV-Bioskop-1.m3u8
+https://WahyuIPTV.short.gy/EtvBioskop1
 
 #EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="EXTRA MOVIES",ETV Bioskop 2.2
 https://WahyuIPTV.short.gy/EtvBioskop2
@@ -956,15 +946,7 @@ https://WahyuIPTV.short.gy/EtvBioskop3
 
 #EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="EXTRA MOVIES",ETV Bioskop 4.2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/ETV-Bioskop-4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="EXTRA MOVIES",ID: ETV BIOSKOP 01
-http://aflaxtv.xyz:8080/Wat068/924a937d/298526
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="EXTRA MOVIES",ID: ETV BIOSKOP 02
-http://aflaxtv.xyz:8080/Wat068/924a937d/298513
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="EXTRA MOVIES",ID: ETV BIOSKOP 03
-http://aflaxtv.xyz:8080/Wat068/924a937d/298514
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="EXTRA MOVIES",ID: ETV BIOSKOP 04
+https://WahyuIPTV.short.gy/EtvBioskop4
 
 
 
