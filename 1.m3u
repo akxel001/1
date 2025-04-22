@@ -38,6 +38,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Zee Bioskop" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="PREMIUM MOVIES", Zee Bioskop
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157584
+
+
+
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
