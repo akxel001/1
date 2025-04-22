@@ -1,4 +1,7 @@
 #EXTM3U
+#=========================================================HBO====================================================================================
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="HBO CHANNELS", ShowCase Movies
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/refs/heads/B-inal22/HboID.m3u8
 #========================================================PREMIUM MOVIES==========================================================================
 
 #EXTINF:-1 tvg-id="ShowCase" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Astroshowcase.png" group-title="PREMIUM MOVIES", ShowCase Movies
