@@ -1,34 +1,6 @@
 #EXTM3U
-#=========================================================HBO====================================================================================
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://static.epg.best/in/HBO.in.png" group-title="HBO CHANNELS", HBO HD
-https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/refs/heads/B-inal22/HboID.m3u8
-
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO CHANNELS",HBO
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
-
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO CHANNELS",HBO Hits 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
-
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO CHANNELS",HBO Family
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
-
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO CHANNELS",HBO Signature
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1498.m3u8
-
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO CHANNELS",Cinemax
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
-
-
 #========================================================PREMIUM MOVIES==========================================================================
 
-#EXTINF:-1 tvg-id="ShowCase" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Astroshowcase.png" group-title="PREMIUM MOVIES", ShowCase Movies
-https://WahyuIPTV.short.gy/ShowCase
 
 #EXTINF:-1 tvg-id="StudioUniversal" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/StudioUniversal.png" group-title="PREMIUM MOVIES", Studio Universal
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -38,11 +10,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Zee Bioskop" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="PREMIUM MOVIES", Zee Bioskop
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157584
-
-
-
+#EXTINF:-1 group-title="PREMIUM MOVIES" tvg-id="ZeeBioskop.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
+https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
