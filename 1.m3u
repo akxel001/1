@@ -1,4 +1,28 @@
 #EXTM3U
+#======================================================VIP=================================================================================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="VIP",SONY PIX FHD
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2688.ts
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="VIP",Galaxy Premium
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2695.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="148 Galaxy" tvg-logo="https://images.indihometv.com/tvposter/galaxy.png" group-title="VIP",Galaxy
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2694.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="VIP", Indosiar
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2706.ts
+
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_t4w6p88r/landscape_carousel_xxhdpi.jpg" group-title="VIP",HBO Signature
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2706.ts
+
+
+
+
+
+
+
 #=======================================================HBO==============================================================================
 
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_2yj5giid/landscape_carousel_xxhdpi.jpg" group-title="HBO",CINEMAX NS
@@ -37,8 +61,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemach
 
 
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="PREMIUM MOVIES",Galaxy Premium
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2695.ts
+
 
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/multiprmr.png?raw=true" group-title="PREMIUM MOVIES",MULTIPREMIER
 http://179.49.163.34:45000/play/a016/index.m3u8
@@ -52,8 +75,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="PREMIUM MOVIES", Sony Pix
 https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="PREMIUM MOVIES",SONY PIX FHD
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2688.ts
+
 
 
 
@@ -144,7 +166,17 @@ https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 
+#EXTINF:-1 group-title="PREMIUM MOVIES" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png",Galaxy
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 group-title="PREMIUM MOVIES" tvg-id="GALAXYPremium" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
+https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
 
 
@@ -208,12 +240,6 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
 
 #===========================================================FILM INDONESIA=========================================================================
-
-#EXTVLCOPT:http-referrer=https://visionplustv.id/
-#EXTINF:-1 tvg-id="IMC" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="FILM INDONESIA",IMC VIP
-https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
-#EXTINF:-1 tvg-id="" tvg-name="148 Galaxy" tvg-logo="https://images.indihometv.com/tvposter/galaxy.png" group-title="PREMIUM MOVIES",Galaxy
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2694.ts
 
 #EXTVLCOPT:http-referrer=https://visionplustv.id/
 #EXTINF:-1 tvg-id="IMC" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="FILM INDONESIA",IMC V+
