@@ -21,11 +21,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi
 #EXTINF:-1 tvg-id="CinemachiXtra" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="PREMIUM MOVIES",Uniquest
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://visionplustv.id/
-#EXTINF:-1 tvg-id="IMC" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="PREMIUM MOVIES",Indonesia Movie Channel
-https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
-#EXTINF:-1 tvg-id="" tvg-name="148 Galaxy" tvg-logo="https://images.indihometv.com/tvposter/galaxy.png" group-title="PREMIUM MOVIES",Galaxy
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2694.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="PREMIUM MOVIES",Galaxy Premium
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2695.ts
@@ -198,6 +194,17 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
 
 #===========================================================FILM INDONESIA=========================================================================
+
+#EXTVLCOPT:http-referrer=https://visionplustv.id/
+#EXTINF:-1 tvg-id="IMC" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="FILM INDONESIA",IMC VIP
+https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="148 Galaxy" tvg-logo="https://images.indihometv.com/tvposter/galaxy.png" group-title="PREMIUM MOVIES",Galaxy
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2694.ts
+
+#EXTVLCOPT:http-referrer=https://visionplustv.id/
+#EXTINF:-1 tvg-id="IMC" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="FILM INDONESIA",IMC V+
+https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd
+
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTINF:-1 tvg-id="VisionPrime.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-l.png" group-title="FILM INDONESIA",Vision Prime
 https://dsgtq5sngxkde.cloudfront.net/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
