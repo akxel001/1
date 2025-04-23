@@ -580,7 +580,9 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Music<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/RpbNyjjc/musiktv.png"
-
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="MUSIC",Music TV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/maleo.png" group-title="MUSIC",Maleo Channel
