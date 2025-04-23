@@ -1,12 +1,12 @@
 #EXTM3U
 #========================================================PREMIUM MOVIES==========================================================================
-#EXTINF:-1 tvg-id="" tvg-name="148 Galaxy" tvg-logo="https://perfecttv.net/logo/galaxy.png" group-title="PREMIUM MOVIES",Galaxy (vip)
+#EXTINF:-1 tvg-id="" tvg-name="148 Galaxy" tvg-logo="https://images.indihometv.com/tvposter/galaxy.png" group-title="PREMIUM MOVIES",Galaxy
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2694.ts
 
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/multiprmr.png?raw=true" group-title="PREMIUM MOVIES",MULTIPREMIER
 http://179.49.163.34:45000/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="VIP",GALAXY  PRIMIUM (ML)
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="PREMIUM MOVIES",GALAXY  PRIMIUM
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2695.ts
 
 #EXTINF:-1 tvg-id="StudioUniversal" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/StudioUniversal.png" group-title="PREMIUM MOVIES", Studio Universal
@@ -16,7 +16,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="PREMIUM MOVIES", Sony Pix
 https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="VIP",SONY PIX HD (IND)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="PREMIUM MOVIES",SONY PIX FHD
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2688.ts
 
 
@@ -392,34 +392,34 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 tvg-id="mnc: RCTI.id" tvg-name="mnc: RCTI" tvg-logo="http://alkhalifitv.github.io/TV/big/rcti.png" group-title="NASIONAL",RCTI HD
+#EXTINF:-1 tvg-id="mnc: RCTI.id" tvg-name="mnc: RCTI" tvg-logo="http://alkhalifitv.github.io/TV/big/rcti.png" group-title="INDONESIA TV",RCTI HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 
 
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="NASIONAL",Indosiar  
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="INDONESIA TV",Indosiar  
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="NASIONAL",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="INDONESIA TV",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="NASIONAL",Nusantara TV
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="INDONESIA TV",Nusantara TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="NASIONAL",Kompas TV HD
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="INDONESIA TV",Kompas TV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
-#EXTINF:-1 tvg-id="MetroTV.id" group-title="NASIONAL" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png",Metro TV
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="INDONESIA TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png",Metro TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
@@ -430,26 +430,26 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="MDTV.id" group-title="NASIONAL" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png",MDTV
+#EXTINF:-1 tvg-id="MDTV.id" group-title="INDONESIA TV" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png",MDTV
 https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 
-#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="NASIONAL",ANTV
+#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="INDONESIA TV",ANTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
 https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
-#EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" group-title="NASIONAL" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/030/50030-SNAPSHOT-l.png",BTV
+#EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" group-title="INDONESIA TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/030/50030-SNAPSHOT-l.png",BTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="NASIONAL", MOJI TV
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="INDONESIA TV", MOJI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#EXTINF:-1 tvg-id="Daai TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/979/49979-SNAPSHOT-l.png" group-title="NASIONAL",DAAI TV
+#EXTINF:-1 tvg-id="Daai TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/979/49979-SNAPSHOT-l.png" group-title="INDONESIA TV",DAAI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
@@ -457,39 +457,39 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="NASIONAL",RTV
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="INDONESIA TV",RTV
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg",Metro Globe Network
+#EXTINF:-1 group-title="INDONESIA TV" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg",Metro Globe Network
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="NASIONAL",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="INDONESIA TV",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="NASIONAL",CNN Indonesia
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="INDONESIA TV",CNN Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 group-title="NASIONAL" tvg-id="bnchannel.id" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
+#EXTINF:-1 group-title="INDONESIA TV" tvg-id="bnchannel.id" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="IDTV.id" tvg-logo="https://images.indihometv.com/tvposter/bertasatu.png",Berita Satu
+#EXTINF:-1 group-title="INDONESIA TV" tvg-id="IDTV.id" tvg-logo="https://images.indihometv.com/tvposter/bertasatu.png",Berita Satu
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://img.inews.co.id/media/620/files/inews_new/2021/09/15/indonesiana_tv.jpeg" group-title="NASIONAL",Indonesiana TV 
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://img.inews.co.id/media/620/files/inews_new/2021/09/15/indonesiana_tv.jpeg" group-title="INDONESIA TV",Indonesiana TV 
 https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="NASIONAL",Garuda TV
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="INDONESIA TV",Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="NASIONAL",TV Kesehatan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="INDONESIA TV",TV Kesehatan
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
@@ -512,72 +512,72 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 
 
 ------Indo Horor 2023--------
-#EXTINF:-1 group-title="INDO HOROR 2023"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/06/pzREo2uh5jyxKoUR8TizxKZ7n3b-60x90.jpg",Kisah Tanah Jawa: Pocong Gundul
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/06/pzREo2uh5jyxKoUR8TizxKZ7n3b-60x90.jpg",Kisah Tanah Jawa: Pocong Gundul
 https://pixeldrain.com/api/file/xTZuUgAW?download
 
-#EXTINF:-1 group-title="INDO HOROR 2023"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/05/nzHbUp2OG5sI3Mtb9qZbmFf3ONs-60x90.jpg",Kutukan Sembilan Setan
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/05/nzHbUp2OG5sI3Mtb9qZbmFf3ONs-60x90.jpg",Kutukan Sembilan Setan
 https://pixeldrain.com/api/file/smj56rTF?download
 
-#EXTINF:-1 group-title="INDO HOROR 2023"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2023/08/9dyXheU12Dv2GrhnjPQ3iIZG3ne-60x90.jpg",Losmen Melati
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2023/08/9dyXheU12Dv2GrhnjPQ3iIZG3ne-60x90.jpg",Losmen Melati
 https://pixeldrain.com/api/file/zBP5ULUD?download
 
-#EXTINF:-1 group-title="INDO HOROR 2023"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/05/pX7EPT5TOwro9khnfaM9lIwgQjV-60x90.jpg",Malam Para Jahanam
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/05/pX7EPT5TOwro9khnfaM9lIwgQjV-60x90.jpg",Malam Para Jahanam
 https://pixeldrain.com/api/file/a9Y8CEgx?download
 
-#EXTINF:-1 group-title="INDO HOROR 2023"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2023/06/1gn6o7gtXSNEH1EqGFvdgtcVFt8-60x90.jpg",Monster
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2023/06/1gn6o7gtXSNEH1EqGFvdgtcVFt8-60x90.jpg",Monster
 https://pixeldrain.com/api/file/kzy3h67F?download
 
-#EXTINF:-1 group-title="INDO HOROR 2023"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2023/06/1gn6o7gtXSNEH1EqGFvdgtcVFt8-60x90.jpg",Para Betina Pengikut Iblis
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2023/06/1gn6o7gtXSNEH1EqGFvdgtcVFt8-60x90.jpg",Para Betina Pengikut Iblis
 https://fdxnmkg55ueqp.enaak-cdn.com/v/01/00130/44p0ka1l26jt_n/Para_Betina_Pengikut_Iblis_2023.mp4?t=A_2sZxwCiioaygnaCUPZ1HOz9yQZ-Orag7l2nOq8CIs&s=1720497343&e=129600&f=652133&sp=400&i=117.102
 
-#EXTINF:-1 group-title="INDO HOROR 2023"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/06/tgMEMGpnSKJrqSAmrnRygv5KBur-60x90.jpg",Pemukiman Setan
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/06/tgMEMGpnSKJrqSAmrnRygv5KBur-60x90.jpg",Pemukiman Setan
 https://pixeldrain.com/api/file/gjPCoSJZ?download
 
-#EXTINF:-1 group-title="INDO HOROR 2023"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/05/vy9fGUiI64v9QViMH3pAu0nIlFz-60x90.jpg",Saranjana: Kota Ghaib
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/05/vy9fGUiI64v9QViMH3pAu0nIlFz-60x90.jpg",Saranjana: Kota Ghaib
 https://pixeldrain.com/api/file/vUGDTTXc?download
 
-#EXTINF:-1 group-title="INDO HOROR 2023"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2023/10/fMaxCjekSd9g4qyyAEYm3cvckui-60x90.jpg",Sewu Dino
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2023/10/fMaxCjekSd9g4qyyAEYm3cvckui-60x90.jpg",Sewu Dino
 https://kcrys3zctlsz.enaak-cdn.com/v/01/00772/o98t9xsdso3u_n/Sewu_Dino_2023.mp4?t=xrM05k87j4HAwT9mf6U6CdfIDTx2GyAFhb-d3nnRH4w&s=1720496478&e=129600&f=3863882&sp=400&i=117.102
 
-#EXTINF:-1 group-title="INDO HOROR 2023"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/04/gt0zaEuYDgr5AbgHkLKmTfliBdd-60x90.jpg",Siksa Neraka
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/04/gt0zaEuYDgr5AbgHkLKmTfliBdd-60x90.jpg",Siksa Neraka
 https://pixeldrain.com/api/file/Ya2YKE7h?download
 
 
 ------Indo Horor 2024--------
-#EXTINF:-1 group-title="INDO HOROR 2024"tvg-logo="https://nonton168.cloud/wp-content/uploads/2024/04/Badarawuhi-Di-Desa-Penari.jpeg",Badarawuhi: Di Desa Penari
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://nonton168.cloud/wp-content/uploads/2024/04/Badarawuhi-Di-Desa-Penari.jpeg",Badarawuhi: Di Desa Penari
 https://www.nonton168.com/movies/desember2022/Dancing.Village.The.Curse.Begins.2024.1080P.Amzn.Web-Dl.Ddp5.1.H.264-Welp.mp4
 
-#EXTINF:-1 group-title="INDO HOROR 2024"tvg-logo="http://84.46.253.28/wp-content/uploads/2024/07/znicsfFuTboZsNzBdZNKYp7VH4P.jpg",Jurnal Risa by Risa Saraswati
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="http://84.46.253.28/wp-content/uploads/2024/07/znicsfFuTboZsNzBdZNKYp7VH4P.jpg",Jurnal Risa by Risa Saraswati
 https://nzxfhnnl6es7.hgagecdn.com/v/01/02060/qobge3mp9jow_n/Jurnal_Risa_by_Risa_Saraswati_2024_cam_HS.mp4?t=GsBur-OgechyZGkjdcJ2zURZzhM5nC-6a2VjuuUbK3Y&s=1722571828&e=129600&f=10301813&sp=400&i
 
-#EXTINF:-1 group-title="INDO HOROR 2024"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/07/uhb76A9kdhKn1A3YZeInFhXsNn8-152x228.jpg",Kereta Berdarah
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/07/uhb76A9kdhKn1A3YZeInFhXsNn8-152x228.jpg",Kereta Berdarah
 https://pixeldrain.com/api/file/tVDXN7EM?download
 
-#EXTINF:-1 group-title="INDO HOROR 2024"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/07/gY5P8z1GjyGAa7ONQRfHosSvjtM-152x228.jpg",Kuyang
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/07/gY5P8z1GjyGAa7ONQRfHosSvjtM-152x228.jpg",Kuyang
 https://pixeldrain.com/api/file/BPrv72bw?download
 
-#EXTINF:-1 group-title="INDO HOROR 2024"tvg-logo="https://nonton168.fun/wp-content/uploads/2024/06/9IHxv77tWtJxHIoJkLyvJ0ko9aE.jpg",Menjelang Ajal
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://nonton168.fun/wp-content/uploads/2024/06/9IHxv77tWtJxHIoJkLyvJ0ko9aE.jpg",Menjelang Ajal
 https://nontoncdn.com/Menjelang_Ajal_2024_720p_Cam.mp4
 
-#EXTINF:-1 group-title="INDO HOROR 2024"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/07/9wQK8BxzosMWOgJYV6tsoBOd2wu.jpg",Munkar
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/07/9wQK8BxzosMWOgJYV6tsoBOd2wu.jpg",Munkar
 https://www.nonton168.com/movies/desember2022/Munkar.2024.WEBDL.mp4
 
-#EXTINF:-1 group-title="INDO HOROR 2024"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/06/tgMEMGpnSKJrqSAmrnRygv5KBur-60x90.jpg",Pemandi Jenazah
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/06/tgMEMGpnSKJrqSAmrnRygv5KBur-60x90.jpg",Pemandi Jenazah
 https://nontoncdn.com/Pemandi.Jenazah.2024.WEBDL.mp4
 
-#EXTINF:-1 group-title="INDO HOROR 2024"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/02/3b2X0orkRYheWWZPUy02zaBDwTW-60x90.jpg",Ritual Tumbal Terakhir
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/02/3b2X0orkRYheWWZPUy02zaBDwTW-60x90.jpg",Ritual Tumbal Terakhir
 https://pixeldrain.com/api/file/f9HdvnRd?download
 
-#EXTINF:-1 group-title="INDO HOROR 2024"tvg-logo="https://cms2.cinepolis.co.id/Gallery/CPL/MOV/Movie/Thumbnail/3ffcc99e39a44e1e9c3f26a21951ae62.jpg",Sehidup Semati
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://cms2.cinepolis.co.id/Gallery/CPL/MOV/Movie/Thumbnail/3ffcc99e39a44e1e9c3f26a21951ae62.jpg",Sehidup Semati
 https://pixeldrain.com/api/file/zSNxqv5q?download
 
-#EXTINF:-1 group-title="INDO HOROR 2024"tvg-logo="https://nonton168.fun/wp-content/uploads/2024/04/qP8uSbTyErcbo4RyOynTPb5ywmx.jpg",Siksa Kubur
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://nonton168.fun/wp-content/uploads/2024/04/qP8uSbTyErcbo4RyOynTPb5ywmx.jpg",Siksa Kubur
 https://rr4---sn-nh5gu-jb3s.googlevideo.com/videoplayback?expire=1722582755&ei=gzKsZp2GMr-9vcAP7-HTiQ8&ip=2001%3Aee0%3Adcb8%3A6bd0%3Ae18e%3Af120%3A1900%3A9238&id=o-ANwQYk-nHnfXweYjoU7GEXCs7TpuMY9WsOq8agenUn1j&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AXc671LBtx42LdP2nH57eonFlOVt6Cjfag6Hh5sAFXlJWB1OSSIdNq30wqQ9sbvV4FTlyaGjNOO-jORm&vprv=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=320701163&ratebypass=yes&dur=6089.711&lmt=1721365531149506&c=ANDROID_CREATOR&txp=5438434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhAOalETYK7bP1_SfBKctKUYtWF0SDcBzSaEC3cTGCck_nAiEAgyX7o2ao_69T2myb7zdCiLrwwkzpBeKG5tFF06-WQnA%3D&title=SIKSA%20KUBUR%20HD%20FULL%20MOVIE%20-%202024&rm=sn-8qj-nbosd7z,sn-i3b6d7l&rrc=79,104&fexp=24350516,24350517,24350557&req_id=67f01a3e9fdfa3ee&cmsv=e&redirect_counter=2&cms_redirect=yes&ipbypass=yes&mh=zr&mip=114.79.2.97&mm=29&mn=sn-nh5gu-jb3s&ms=rdu&mt=1722560731&mv=m&mvi=4&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AGtxev0wRAIgaaAIumsmkRYsp4WhEIdwNh5vzgumr92cWcV_dg4SHzoCIAlaRUBmafZCFXPX8jXJy5GB-VmTgRAaQnIFEBviFRvn
 
-#EXTINF:-1 group-title="INDO HOROR 2024"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/06/2qVmK6l9jKQ4EJbP30oGX5Tq9uV-60x90.jpg",Sinden Gaib
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/06/2qVmK6l9jKQ4EJbP30oGX5Tq9uV-60x90.jpg",Sinden Gaib
 https://pixeldrain.com/api/file/ci2qdnsA?download
 
-#EXTINF:-1 group-title="INDO HOROR 2024"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/05/yJ7uXTYiFS21wYxluX3gAzfLDiU-60x90.jpg",Trinil
+#EXTINF:-1 group-title="INDO HOROR"tvg-logo="https://new15.ngefilm21.yachts/wp-content/uploads/2024/05/yJ7uXTYiFS21wYxluX3gAzfLDiU-60x90.jpg",Trinil
 https://pixeldrain.com/api/file/gu6tTkv4?download
 
 
