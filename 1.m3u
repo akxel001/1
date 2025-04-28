@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="VIP",SONY PIX FHD
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2688.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/37/STAR_Movies_HD_logo.jpg" group-title="VIP",STAR MOVIES HD
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2687.ts
+
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="VIP",Galaxy Premium
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2695.ts
 
