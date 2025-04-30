@@ -48,6 +48,15 @@ https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/873
 
 #========================================================PREMIUM MOVIES==========================================================================
 
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PREMIUN MOVIES",ETV BIOSKOP 01
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298526
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PREMIUM MOVIES",ETV BIOSKOP 02
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298513
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PREMIUM MOVIES",ETV BIOSKOP 03
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298514
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PREMIUM MOVIES",ETV BIOSKOP 04
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
+
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTINF:-1 tvg-id="Cinemachi" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png" group-title="PREMIUM MOVIES",ORIGINALS C
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
