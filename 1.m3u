@@ -257,6 +257,11 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
 #===========================================================FILM INDONESIA=========================================================================
 
+
+
+#EXTINF:-1 tvg-id="Biskop_Indonesia.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ytimg.com/vi/8-uJQgFHFp8/sddefault.jpg" group-title="FILM INDONESIA",Bioskop Indonesia
+http://xtv.ooo:8080/danyear12/am809100/350906
+
 #EXTVLCOPT:http-referrer=https://visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-id="IMC" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="FILM INDONESIA",Indonesia Movie Channel
