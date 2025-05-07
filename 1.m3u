@@ -21,12 +21,6 @@ https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2706.ts
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2709.ts
 
 
-
-#=======================================================liga 1=======================================================================
-
-
-
-
 #=======================================================HBO==============================================================================
 
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_2yj5giid/landscape_carousel_xxhdpi.jpg" group-title="HBO",CINEMAX NS
@@ -42,16 +36,6 @@ https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/873
 
 
 #========================================================PREMIUM MOVIES==========================================================================
-
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PREMIUM MOVIES",ETV BIOSKOP 01
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298526
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PREMIUM MOVIES",ETV BIOSKOP 02
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298513
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PREMIUM MOVIES",ETV BIOSKOP 03
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298514
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="PREMIUM MOVIES",ETV BIOSKOP 04
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
-
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTINF:-1 tvg-id="Cinemachi" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png" group-title="PREMIUM MOVIES",ORIGINALS C
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
@@ -87,10 +71,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="PREMIUM MOVIES", Sony Pix
 https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
-
-
-
-
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -156,9 +136,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-referrer=http://dens.tv
 #EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="PREMIUM MOVIES",Rock Entertainment
 https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/mce.png" group-title="PREMIUM MOVIES",MCE HD
@@ -653,7 +630,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/RpbNyjjc/musiktv.png"
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="MUSIC",Music TV
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="MUSIC",MNC Ent.
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
 
 
