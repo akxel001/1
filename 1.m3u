@@ -630,7 +630,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/RpbNyjjc/musiktv.png"
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="MUSIC",MNC Ent.
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_86.png" group-title="MUSIC",MNC Ent.
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
 
 
