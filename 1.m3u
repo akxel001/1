@@ -235,7 +235,7 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="FILM INDONESIA",BIOSKOP INDONESIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="FILM INDONESIA",BIOSKOP INDONESIA
 #EXTVLCOPT:http-user-agent=xplayer168
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bioskopindonesia.m3u8
 
