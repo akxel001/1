@@ -25,8 +25,12 @@ https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2709.ts
 
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_2yj5giid/landscape_carousel_xxhdpi.jpg" group-title="HBO",CINEMAX
 https://raw.githubusercontent.com/akxel001/1/refs/heads/main/cinemax.m3u8
+
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_vae5o3nc/landscape_carousel_xxhdpi.jpg" group-title="HBO",HBO NS
 https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/210
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_vae5o3nc/landscape_carousel_xxhdpi.jpg" group-title="HBO",HBO new
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/refs/heads/B-inal22/HboID.m3u8
+
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/landscape_carousel_xxhdpi.jpg" group-title="HBO",HBO Family
 https://raw.githubusercontent.com/akxel001/1/refs/heads/main/hbo_fam.m3u8
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_dx9zvcn8/landscape_carousel_xxhdpi.jpg" group-title="HBO",HBO Hits NS
