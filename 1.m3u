@@ -291,8 +291,7 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://iili.io/JmnyrVs.png" group-title="FILM INDONESIA"", Flik
-https://raw.githubusercontent.com/akxel001/1/refs/heads/main/flik.m3u8
-
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png" group-title="FILM INDONESIA",Hanacaraka TV
