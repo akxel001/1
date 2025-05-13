@@ -1,4 +1,4 @@
-#EXTM3U
+FLI#EXTM3U
 #======================================================VIP=================================================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="VIP",SONY PIX FHD
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2688.ts
@@ -312,8 +312,7 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://iili.io/JmnyrVs.png" group-title="FILM INDONESIA"", Flik
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
-
+http://iptvtree.net:8080/F25093/29838750/165095
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png" group-title="FILM INDONESIA",Hanacaraka TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
