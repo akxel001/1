@@ -1,25 +1,4 @@
-FLI#EXTM3U
-#======================================================VIP=================================================================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="VIP",SONY PIX FHD
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2688.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/37/STAR_Movies_HD_logo.jpg" group-title="VIP",STAR MOVIES HD
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2687.ts
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="VIP",Galaxy Premium
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2695.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="148 Galaxy" tvg-logo="https://images.indihometv.com/tvposter/galaxy.png" group-title="VIP",Galaxy
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2694.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="VIP", Indosiar
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2706.ts
-
-#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_t4w6p88r/landscape_carousel_xxhdpi.jpg" group-title="VIP",HBO Signature
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2709.ts
-
+#EXTM3U
 
 #=======================================================HBO==============================================================================
 
