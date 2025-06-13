@@ -179,6 +179,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 group-title="PREMIUM MOVIES" tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg", My Cinema Europe
 #http://210.210.155.37/uq2663/h/h18/index.m3u8
 
+#====================================================NASIONAL TV=====================================================================
+
+
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://statik.tempo.co/data/2021/09/10/id_1049771/1049771_720.jpg" group-title="NASIONAL TV",Indonesiana TV 
+https://tvstreamcast.com/indonesiana.m3u8
+
 
 #======================================================NEWS================================================================================
 #EXTINF:-1 group-title="NEWS"  tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN INDONESIA
