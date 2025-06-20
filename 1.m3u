@@ -34,6 +34,21 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 #========================================================PREMIUM MOVIES==========================================================================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="PREMIUM CHANNELS",015. eTvBioskop1
+https://WahyuIPTV.short.gy/ETVBioskop1.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="PREMIUM CHANNELS",016. eTvBioskop2
+https://WahyuIPTV.short.gy/ETVBioskop2.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="PREMIUM CHANNELS",017. eTvBioskop3
+https://WahyuIPTV.short.gy/ETVBioskop3.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="PREMIUM CHANNELS",018. eTvBioskop4
+https://WahyuIPTV.short.gy/ETVBioskop4.ts
+
+
+
+
 #EXTINF:-1 tvg-id="ORIGINALS" tvg-logo="https://static.mncnow.id/images/channel/2a18bc54/bd5c_r32.jpg" group-title="PREMIUM CHANNELS", ORIGINALS 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
