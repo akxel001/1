@@ -780,11 +780,11 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
 
-#EXTINF:-1 group-title="News" ch-number="5" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",TV One
+#EXTINF:-1 group-title="News" ch-number="5" tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png",TV One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 
-#EXTINF:-1 group-title="News" ch-number="6" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Inews
+#EXTINF:-1 group-title="News" ch-number="6" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",Inews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 
@@ -816,7 +816,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=DENSGO/3.00.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 group-title="News" ch-number="14" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",KompasTV
+#EXTINF:-1 group-title="News" ch-number="14" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="Indonesia Channels",KompasTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
 
@@ -824,7 +824,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
 
-#EXTINF:-1 group-title="News" ch-number="16" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MetroTV
+#EXTINF:-1 group-title="News" ch-number="16" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png",MetroTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
 
