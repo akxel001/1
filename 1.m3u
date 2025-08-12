@@ -34,17 +34,18 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 #========================================================PREMIUM MOVIES==========================================================================
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="PREMIUM CHANNELS",015. eTvBioskop1
-https://WahyuIPTV.short.gy/ETVBioskop1.ts
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298526
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="PREMIUM CHANNELS",016. eTvBioskop2
-https://WahyuIPTV.short.gy/ETVBioskop2.ts
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298513
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="PREMIUM CHANNELS",017. eTvBioskop3
-https://WahyuIPTV.short.gy/ETVBioskop3.ts
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298514
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="PREMIUM CHANNELS",018. eTvBioskop4
-https://WahyuIPTV.short.gy/ETVBioskop4.ts
+http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298529
 
 #EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://iili.io/JmnyrVs.png" group-title="PREMIUM CHANNELS",FLIK HD
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/29592.m3u8
