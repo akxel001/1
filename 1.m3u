@@ -1,5 +1,61 @@
 #EXTM3U
 
+#====================================================NASIONAL TV=====================================================================
+
+
+#EXTINF:-1 group-title="NATIONAL TV" ch-number="7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/6e912e1e4bc79e0126c798b067a7665e.png",TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
+
+#EXTINF:-1 group-title="NATIONAL TV" ch-number="8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV5AZmkgua14n6iicfAoE4rBMOX41S1gGBQ&usqp=CAU",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
+
+#EXTINF:-1 group-title="NATIONAL TV" ch-number="9" tvg-logo="https://www.transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+
+#EXTINF:-1 group-title="NATIONAL TV" ch-number="10" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/TransTv.png",TransTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+
+#EXTINF:-1 group-title="NATIONAL TV" ch-number="11" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/trans%207.png",Trans7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+
+#EXTINF:-1 group-title="NATIONAL TV" ch-number="12" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/sctv.png",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 group-title="NATIONAL TV" ch-number="13" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/indosiar.png",indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/mnctv.png" group-title="NATIONAL TV",MNCTV HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
+#EXTINF:-1 group-title="NATIONAL TV" ch-number="18" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/gtv.png",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
+
+#EXTINF:-1 group-title="NATIONAL TV" ch-number="19" tvg-logo="ttps://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/net.png",MD Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
+
+#EXTINF:-1 group-title="NATIONAL TV" ch-number="20" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/rtv.png",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
+
+
+#EXTINF:-1 group-title="NATIONAL TV" ch-number="79" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png",Hanacaraka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
+
 #=======================================================HBO==============================================================================
 
 
@@ -175,61 +231,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
 
 
 
-#====================================================NASIONAL TV=====================================================================
-
-
-#EXTINF:-1 group-title="NATIONAL TV" ch-number="7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/6e912e1e4bc79e0126c798b067a7665e.png",TVRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
-
-#EXTINF:-1 group-title="NATIONAL TV" ch-number="8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV5AZmkgua14n6iicfAoE4rBMOX41S1gGBQ&usqp=CAU",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
-
-#EXTINF:-1 group-title="NATIONAL TV" ch-number="9" tvg-logo="https://www.transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
-
-#EXTINF:-1 group-title="NATIONAL TV" ch-number="10" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/TransTv.png",TransTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
-
-#EXTINF:-1 group-title="NATIONAL TV" ch-number="11" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/trans%207.png",Trans7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
-
-#EXTINF:-1 group-title="NATIONAL TV" ch-number="12" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/sctv.png",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 group-title="NATIONAL TV" ch-number="13" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/indosiar.png",indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/mnctv.png" group-title="NATIONAL TV",MNCTV HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-
-#EXTINF:-1 group-title="NATIONAL TV" ch-number="18" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/gtv.png",GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
-
-#EXTINF:-1 group-title="NATIONAL TV" ch-number="19" tvg-logo="ttps://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/net.png",MD Tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
-
-#EXTINF:-1 group-title="NATIONAL TV" ch-number="20" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/rtv.png",RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
-
-
-#EXTINF:-1 group-title="NATIONAL TV" ch-number="79" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png",Hanacaraka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
 
 #==================================================================BOLLYWOOD=======================================
 
