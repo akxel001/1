@@ -60,16 +60,40 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="HBO",HBO HD
-http://iptvtree.net:8080/F28312/cc1dc138/306484
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO",HBO Hits HD
-http://iptvtree.net:8080/F28312/cc1dc138/306486
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO",HBO Family HD
-http://iptvtree.net:8080/F28312/cc1dc138/306485
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="HBO",HBO Signature HD
-http://iptvtree.net:8080/F28312/cc1dc138/306483
-#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="HBO",Cinemax ID
-http://iptvtree.net:8080/F28312/cc1dc138/197964
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Hbo.png" group-title="HBO",HBO
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+http://103.179.182.117:6768/hls/27/27.m3u8
+
+#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/hBoHits.png" group-title="HBO",HBO Hits
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+http://103.179.182.117:6768/hls/28/28.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HboFamily.png" group-title="HBO",HBO Family
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+http://103.179.182.117:6768/hls/30/30.m3u8
+
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/HBOSignature.png" group-title="HBO",HBO Signature
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+http://103.179.182.117:6768/hls/29/29.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Cinemax.png" group-title="HBO",Cinemax
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+http://103.179.182.117:6768/hls/26/26.m3u8
 
 #========================================================PREMIUM MOVIES==========================================================================
 #EXTINF:-1 tvg-id="" tvg-name="FLIK HD" tvg-logo="https://iili.io/JmnyrVs.png" group-title="PREMIUM CHANNELS",FLIK
