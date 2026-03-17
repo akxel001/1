@@ -16,52 +16,119 @@ https://stream-eu-nc.arenastreaming.com:6244/stream?1767774423532
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="SPOTV2.id" group-title="⚽ Sports" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/SPOTV.png",SPOTV2
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="beINSports" group-title="⚽ Sports" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/beINSports.png", beIN Sports 1 
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-+++++++++++++++++++++++++++++++++++++++++++
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="beINSports2" group-title="⚽ Sports" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/beIN%20Sports2.png", beIN Sports 2 
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="beINSports3" group-title="⚽ Sports" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/beIN%20Sports3.png", beIN Sports 3 
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg",Movies Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="beINSports4" group-title="⚽ Sports" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/beIN%20Sports4.png", beIN Sports 4
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+
+#EXTINF:-1,group-title="🎬 Movies" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png", ID: ETV BIOSKOP 01
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298526
+#EXTINF:-1,group-title="🎬 Movies" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png", ID: ETV BIOSKOP 02
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298513
+#EXTINF:-1,group-title="🎬 Movies" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png", ID: ETV BIOSKOP 03
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298514
+#EXTINF:-1,group-title="🎬 Movies" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png", ID: ETV BIOSKOP 04
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="hbofamily.id" tvg-name="ID| HBO Family" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Extra Channel",HBO Family 103
+http://103.66.62.83:8000/play/a02s/index.m3u8
+
+
+#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="MY| ASTRO CITRA HD" tvg-logo="https://lo1.in/MALAY/astrocit.png" group-title="🎬 Movies",ASTRO CITRA Xtra
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149635.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="hbo.id" tvg-name="ID| HBO HD" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Extra Channel",ID| HBO Extra
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139220.m3u8
+#EXTINF:-1 tvg-id="hbofamily.id" tvg-name="ID| HBO Family" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Extra Channel",ID| HBO Family Extra
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139219.m3u8
+#EXTINF:-1 tvg-id="hbohits.id" tvg-name="ID| HBO Hits" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Extra Channel",ID| HBO Hits Extra
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139218.m3u8
+#EXTINF:-1 tvg-id="hbosignature.id" tvg-name="ID| HBO Signature" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Extra Channel",ID| HBO Signature Extra
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139217.m3u8
+#EXTINF:-1 tvg-id="cinemax.id" tvg-name="ID| Cinemax" tvg-logo="https://lo1.in/MALAY/cimx.png" group-title="Extra Channel",ID| Cinemax Extra
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139187.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Astro_Showtime_%282026%29.png" group-title="🎬 Movies",Astro Showtime Extraott
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+##KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34462.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="Extra Channel",Food Travel XTRA
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/7648.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/b/b1/Ent_%282020%29.png/revision/latest?cb=20210401065932" group-title="Extra Channel",Entertainment (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="beINSports5" group-title="⚽ Sports" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/beIN%20Sports5.png", beIN Sports 5
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="FightSports" group-title="⚽ Sports" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Fight%20Sports.png",Fight Sports
-https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
+https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="Extra Channel",Food Travel (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/789/35/png-clipart-logo-celebrity-graphic-design-brand-font-cat-victorious-purple-television.png" group-title="Extra Channel",CelebritiesTV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="Extra Channel",First Lifestyle
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
+https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
+
+
+#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://pic.dens.tv/tv_183x174/Dens_Food_Channel_(Trial)_1.jpg",Dens Food Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-group1-swiftservehd-1.dens.tv/h/h248/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Extra Channel" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
+https://nl.utako.moe/neco/index.m3u8
+#EXTINF:-1 group-title="Extra Channel" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
+https://nl.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="Extra Channel" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
+https://nl.utako.moe/v_paradise/index.m3u8
 
 
 
@@ -187,11 +254,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 
 
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CB.png",Citra Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
+
+
 
 
 
@@ -277,23 +346,8 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
 
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/MCA.png" group-title="🎬 Movies", MY CINEMA ASIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd|Referer=https://www.visionplus.id
 
 
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/MCN.png/revision/latest/scale-to-width-down/250?cb=20200201131113",My Cinema
-#EXTGRP: 🎬 Movies
-http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31D.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CW.png" group-title="🎬 Movies",Cinemaworld
@@ -375,24 +429,24 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 
 
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/BI.png",Bioskop Indonesia
+#EXTINF:-1 group-title="🎬 Movies" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/BI.png",Bioskop Indonesia Xtra
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149814.m3u8
 
 
 
 
-#EXTINF:-1 group-title="🎬 Movies"tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtaDc9zhM2UzhLPdSMNS-rT4Ey5Ia7IT2QzZuB36I8yA&s=10", Citra Drama HD
+#EXTINF:-1 group-title="🎬 Movies"tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CDrama.png", Citra Drama xtra
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149812.m3u8
 
 
-#EXTINF:-1 group-title="🎬 Movies" tvg-name="" tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTWvZIV9Gv6Xg87LR6PC760YtQPG5vo-MpcINdsb8dAQ&s", Citra Entertainment HD
+#EXTINF:-1 group-title="🎬 Movies" tvg-name="" tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CEnt.png", Citra Entertainment HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
@@ -428,6 +482,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:network-caching=1000
@@ -1303,186 +1359,181 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 
 
 
+###############################################################
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HBO.png" group-title="HBO",HBO
-#http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/401666250.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="SYOK TV", HBO FHD
+http://syok.tv:25461/843839483/33999/188
+#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO HITS FHD" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="SYOK TV", HBO HITS FHD
+http://syok.tv:25461/843839483/33999/189
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO FAMILY FHD" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="SYOK TV", HBO FAMILY FHD
+http://syok.tv:25461/843839483/33999/190
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="SYOK TV", HBO SIGNATURE FHD
+http://syok.tv:25461/843839483/33999/191
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX FHD" tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="SYOK TV", CINEMAX FHD
+http://syok.tv:25461/843839483/33999/192
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="WARNER TV FHD" tvg-logo="https://i.ibb.co/cJLLsn0/wstgf.png" group-title="SYOK TV", WARNER TV FHD
+http://syok.tv:25461/843839483/33999/193
+#EXTINF:-1 tvg-id="tvN" tvg-name="TVN FHD" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="SYOK TV", TVN FHD
+http://syok.tv:25461/843839483/33999/194
+#EXTINF:-1 tvg-id="tvNMovies" tvg-name="TVN MOVIES FHD" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="SYOK TV", TVN MOVIES FHD
+http://syok.tv:25461/843839483/33999/195
+#EXTINF:-1 tvg-id="GALAXY" tvg-name="GALAXY FHD" tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png" group-title="SYOK TV", GALAXY FHD
+http://syok.tv:25461/843839483/33999/196
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-name="GALAXY PREMIUM FHD" tvg-logo="https://i.ibb.co/qJW2FQG/hd.png" group-title="SYOK TV", GALAXY PREMIUM FHD
+http://syok.tv:25461/843839483/33999/197
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN FHD" tvg-logo="https://i.postimg.cc/kG3z1S4Q/axn2.png" group-title="SYOK TV", AXN FHD
+http://syok.tv:25461/843839483/33999/198
+#EXTINF:-1 tvg-id="LIFE.id" tvg-name="LIFE TIME FHD" tvg-logo="https://i.ibb.co/r45KLr2/VZXDZD.png" group-title="SYOK TV", LIFE TIME FHD
+http://syok.tv:25461/843839483/33999/199
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-name="K PLUS" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png" group-title="SYOK TV", K PLUS
+http://syok.tv:25461/843839483/33999/200
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="ANIMAX FHD" tvg-logo="https://i.postimg.cc/v8rN8cTK/animax2.png" group-title="SYOK TV", ANIMAX FHD
+http://syok.tv:25461/843839483/33999/207
+#EXTINF:-1 tvg-id="BBCEarth" tvg-name="MY BBC EARTH " tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png" group-title="SYOK TV", MY BBC EARTH 
+http://syok.tv:25461/843839483/33999/211
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HBO-HITS.png" group-title="HBO",HBO Hits
-#http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/401666248.m3u8
+#EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name=" Citra Dangdut" tvg-logo="https://i.ibb.co/8dbD5xw/CITRA-DANGDUT-PPI-IP-TV.png" group-title="SYOK TV",  Citra Dangdut
+http://syok.tv:25461/843839483/33999/2441
+#EXTINF:-1 tvg-id="None" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/xqHprNW/CITRA-DRAMA-PPI-IP-TV.png" group-title="SYOK TV", Citra Drama
+http://syok.tv:25461/843839483/33999/1545
 
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HBO-SIGNATURE.png" group-title="HBO",HBO Signature
-#http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/401666247.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HBO-FAMILY.png" group-title="HBO",HBO Family
-#http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/401666249.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CINEMAX.png" group-title="HBO",Cinemax
-#http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/401666215.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/iD0iWNrqlfffm81BKP5IGzrMofq-152x228.jpg",Waktu Maghrib 2 (2025)
-https://playerngefilm21.rpmlive.online/hls/zGGIpd8x_PqEvGti7wB_Rg/pp/6sprig6z/czjvag/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/8OFtlBJxQetafD8ZXaTtqlEp352-152x228.jpg",Keluarga Super Irit (2025)
-https://playerngefilm21.rpmlive.online/hls/oVnYpx6YEkGOG5_Qr1pxmQ/ck/6sprig6z/xsfgj5/tt/index-f1-v1-a1.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/dfsyhvGdOMs5FbA3mgEwSgaqC4a-152x228.jpg",Gowok: Javanese Kamasutra (2025)
-https://playerngefilm21.rpmlive.online/hls/z9o2gM69UHwhbyVF9EtNJA/np/qt5y8p1c/vbo65f/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/eichIZLd7e9AgYltckEwWgrFQcq-152x228.jpg",Dendam Malam Kelam (2025)
-https://playerngefilm21.rpmlive.online/hls/2rRhWXn58qKUi_-rI_JS9w/3vi/qt5y8p1c/gltfni/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/x1mSlLW4pkfPGcya9xXYGLFhrXZ-152x228.jpg",Pembantaian Dukun Santet (2025)
-https://playerngefilm21.rpmlive.online/hls/rf-dscZqhjRTf8ElIuZ14A/s93/qt5y8p1c/vburif/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/cueny6yXHv2BXSjvIO1wKr4WJU2-152x228.jpg",Sampai Jumpa, Selamat Tinggal (2025)
-https://playerngefilm21.rpmlive.online/hls/NzhSufSmCQq7Pc5I3YSPJg/np/sku8pvep/8wgb3n/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/31HRhQyllgSRGU7M9xHBKWRsY5F-152x228.jpg",Utusan Iblis: Dia Yang Berada di Antara Kita (2025)
-https://playerngefilm21.rpmlive.online/hls/XUduEXQmr1FAqVGmJF3WvQ/ox/h9kqslgi/ikqqqz/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/v9Z2ilf5G61tknc8AIfjJWQtzt8-152x228.jpg",Godaan Setan Yang Terkutuk (2025)
-https://playerngefilm21.rpmlive.online/hls/44Yu7LEqOS6uCRssQFDieg/luy/h9kqslgi/69jup9/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/bi7e8dhSlHvi5AdrwJDMw0GqN1w-152x228.jpg",Gundik (2025)
-https://playerngefilm21.rpmlive.online/hls/GGqV-KVMxQSKOiIL8NiCAA/mik/h9kqslgi/ho8h6y/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/7yQhm9SYZ6FXpc88VjdLYKALZD9-152x228.jpg",Angkara Murka (2025)
-https://playerngefilm21.rpmlive.online/hls/ENVFjtQpi3t8kGxMxOkdVQ/s93/85vbczxn/iku9mm/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/6HiAwrnFUTqxQeY700GJ7trtVvE-152x228.jpg",Qodrat 2 (2025)
-https://playerngefilm21.rpmlive.online/hls/t0Dg3QYvzstheQ-8hcBI4w/mik/85vbczxn/vbxydu/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/AvT3GUVHbdf5ai3ZPLV6L4r7Rzg-152x228.jpg",Sayap-Sayap Patah 2: Olivia (2025)
-https://playerngefilm21.rpmlive.online/hls/iUakkgGiukbOckxCYWXs7A/djx/nc31j51c/8a8uff/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/ulKWRfIn4okrZTNgFFLaayAYcEX-152x228.jpg",Dasim (2025)
-https://playerngefilm21.rpmlive.online/hls/Fg63hXXeyjjsKZOR2EeGcw/3vi/nc31j51c/5f5uxg/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/jM3GDA1ULTujSkbMVShVpL0rYLP-152x228.jpg",Tabayyun (2025)
-https://playerngefilm21.rpmlive.online/hls/Uo5uG3E-iY7ED2rJS_WUEA/8q/r8cznln3/9ng83o/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/sBANlmgOdrCEYMeXJLyh3qJ6URn-152x228.webp",Perang Kota (2025)
-https://playerngefilm21.rpmlive.online/hls/Z27x-x5hID0rwKEDyxFUaw/hld/xieumls5/qvialp/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/dPyw0j7oD7ihYCROgYFRpv8ywv1-152x228.jpg",Rumah Untuk Alie (2025)
-https://playerngefilm21.rpmlive.online/hls/XxeZ58UymdlB-V0Ysqjx6A/epu/xieumls5/qv6uu5/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/tx2toda5HijndqRZXDuoGkSud8L-152x228.webp",Pengepungan di Bukit Duri (2025)
-https://playerngefilm21.rpmlive.online/hls/JP8Hvgw4citq_s_ezO_tKg/gee/dq8wrwe6/t1bvkc/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/oEWtL2Rr5AuufFq57BjB7YZvLKv-152x228.jpg",Norma: Antara Mertua dan Menantu (2025)
-https://playerngefilm21.rpmlive.online/hls/rpFguSvta9B7bG7YZoVZ_Q/hld/iplnen83/pdn3sh/tt/master.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/nwmR5EL5m8tcPBud6OwUyt8p5z1-152x228.jpg",Pabrik Gula (2025)
-https://playerngefilm21.rpmlive.online/hls/hVnlyw6QwrBYWf4Y3sG5vw/mik/mehogopx/8atdxm/tt/index-f1-v1-a1.m3u8?v=1758651105
-#EXTINF:-1 group-title="FILM INDO" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/07/2RWweAPdSSFzsCtxvjydldneUM6-152x228.jpg",Komang (2025)
-https://playerngefilm21.rpmlive.online/hls/0nesXSXISbAj8lkHZzip7Q/sc/v1fiafnev/vftxwd/tt/master.m3u8?v=1758651105
+#EXTINF:-1 tvg-id="AsianFoodChannel.id" tvg-name="MY: AFN HD" tvg-logo="https://i.postimg.cc/JhHpfhSP/afn2.png" group-title="SYOK TV", AFN HD
+http://syok.tv:25461/843839483/33999/220
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-http://abf.filmbluray.id/td6xujc
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast1.png", The Fast and The Furious (2001) SUB INDO
-http://abf.filmbluray.id/rvelkny
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast2.png", Turbo Charged Prelude (2003) SUB INDO
-http://abf.filmbluray.id/zilha13
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast3.png", 2 Fast 2 Furious (2003) SUB INDO
-http://abf.filmbluray.id/uj6ztuz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast4.png", Los Bandoleros (2009) SUB INDO
-http://abf.filmbluray.id/qgm4n0r
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast5.png", Fast & Furious 4 (2009) SUB INDO
-http://abf.filmbluray.id/v4ej33t
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast6.png", Fast Furious Five (2011) SUB INDO
-http://abf.filmbluray.id/h7zngop
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast7.png", Fast & Furious 6 (2013) SUB INDO
-http://abf.filmbluray.id/8vjt6ba
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast8.png", The Fast and the Furious: Tokyo Drift (2006) SUB INDO
-http://abf.filmbluray.id/v8i1pw9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast9.png", Furious 7 (2015) SUB INDO
-http://abf.filmbluray.id/1gvz8de
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast10.png", The Fate of the Furious (2017) SUB INDO
-http://abf.filmbluray.id/bzyv12m
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast11.png", Fast & Furious Presents: Hobbs & Shaw (2019) SUB INDO
-http://abf.filmbluray.id/vurxfca
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="https://image.tmdb.org/t/p/w185/1E5baAaEse26fej7uHcjOgEE2t2.jpg", Fast X 2023
-https://www.googleapis.com/drive/v3/files/19BIHs4yQJp8Qonltfj_vBRoAmvzFwNSc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="SYOK TV", HBO HD
+http://syok.tv:25461/843839483/33999/97
+#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits" tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="SYOK TV", HBO Hits
+http://syok.tv:25461/843839483/33999/98
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="SYOK TV", HBO Signature
+http://syok.tv:25461/843839483/33999/99
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family" tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="SYOK TV", HBO Family
+http://syok.tv:25461/843839483/33999/100
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Gmy39FDR/cinema2.png" group-title="SYOK TV", CINEMAX HD
+http://syok.tv:25461/843839483/33999/101
+#EXTINF:-1 tvg-id="ShowcaseMovies" tvg-name="Showcase Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Showcase_%282024%29.png" group-title="Extra Channel", Showcase Movies
+http://syok.tv:25461/843839483/33999/102
+#EXTINF:-1 tvg-id="HITS" tvg-name="HITS" tvg-logo="https://i.ibb.co/86t7VBg/sgtr.png" group-title="SYOK TV", HITS
+http://syok.tv:25461/843839483/33999/103
+#EXTINF:-1 tvg-id="HITSMovies" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="SYOK TV", HITS Movies
+http://syok.tv:25461/843839483/33999/104
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="SYOK TV", Thrill
+http://syok.tv:25461/843839483/33999/105
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/GR4H1Tt/jjkj.png" group-title="SYOK TV", Warner TV
+http://syok.tv:25461/843839483/33999/106
+#EXTINF:-1 tvg-id="CCM" tvg-name="CCM" tvg-logo="https://i.ibb.co/ZVWNMDL/ddg.png" group-title="SYOK TV", CCM
+http://syok.tv:25461/843839483/33999/645
+#EXTINF:-1 tvg-id="tvN" tvg-name="Tvn Movie" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="SYOK TV", Tvn Movie
+http://syok.tv:25461/843839483/33999/646
+#EXTINF:-1 tvg-id="myfamilychannel.MACAN" tvg-name="Studio Universal HD" tvg-logo="https://e7.pngegg.com/pngimages/808/1019/png-clipart-universal-s-studio-universal-premium-cinema-mediaset-premium-film-universal-logo-miscellaneous-television.png" group-title="SYOK TV", Studio Universal HD
+http://syok.tv:25461/843839483/33999/1527
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="MY:Celestial Movies" tvg-logo="https://i.postimg.cc/wvfYwMNF/cele2.png" group-title="SYOK TV", MY:Celestial Movies
+http://syok.tv:25461/843839483/33999/4097
+#EXTINF:-1 tvg-id="TV1" tvg-name="Boo Malay" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="SYOK TV", Boo Malay
+http://syok.tv:25461/843839483/33999/5515
+#EXTINF:-1 tvg-id="Cinemachi" tvg-name="Cinemachi" tvg-logo="" group-title="SYOK TV", Cinemachi
+http://syok.tv:25461/843839483/33999/20983
+#EXTINF:-1 tvg-id="CinemachiKids" tvg-name="Cinemachi Kids" tvg-logo="" group-title="SYOK TV", Cinemachi Kids
+http://syok.tv:25461/843839483/33999/20984
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-name="Cinemachi Action" tvg-logo="" group-title="SYOK TV", Cinemachi Action
+http://syok.tv:25461/843839483/33999/20985
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-name="Cinemachi MAX" tvg-logo="" group-title="SYOK TV", Cinemachi MAX
+http://syok.tv:25461/843839483/33999/20986
+#EXTINF:-1 tvg-id="CinemachiXtra" tvg-name="Cinemachi XTRA" tvg-logo="" group-title="SYOK TV", Cinemachi XTRA
+http://syok.tv:25461/843839483/33999/20987
+#EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-name="Global Trekker" tvg-logo="" group-title="SYOK TV", Global Trekker
+http://syok.tv:25461/843839483/33999/20989
+#EXTINF:-1 tvg-id="None" tvg-name="Miramix Movie HD" tvg-logo="https://w7.pngwing.com/pngs/411/421/png-transparent-miramax.png" group-title="Extra Channel", Miramix Movie HD
+http://syok.tv:25461/843839483/33999/23101
+#EXTINF:-1 tvg-id="None" tvg-name="ASTRO ROCK ACTION" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/601_144.png" group-title="SYOK TV", ASTRO ROCK ACTION
+http://syok.tv:25461/843839483/33999/23736
+#EXTINF:-1 tvg-id="None" tvg-name="ASTRO XSTREAM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/605_144.png" group-title="Extra Channel", ASTRO XSTREAM
+http://syok.tv:25461/843839483/33999/23737
+#EXTINF:-1 tvg-id="None" tvg-name="ASRTO SHOWTIME" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/604_144.png" group-title="SYOK TV", ASRTO SHOWTIME
+http://syok.tv:25461/843839483/33999/23738
 
 
 
 
 
 
-#-------------------- Mr. Bean Serial --------------------#
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", EP01 - Si Kocak yang Legendaris
-http://abf.filmbluray.id/feni78i
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", EP02 - Kembalinya Mr. Bean
-http://abf.filmbluray.id/k7ms80u
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", EP03 - Kutukan Mr. Bean
-http://abf.filmbluray.id/fh4b2e1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", EP04 - Mr. Bean Pergi ke Kota
-http://abf.filmbluray.id/itu8ko5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", EP05 - Masalah dengan Mr. Bean
-http://abf.filmbluray.id/metqyxz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", EP06 - Mr. Bean Berkelana Lagi
-http://abf.filmbluray.id/7z6zpxb
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", "EP07 - Selamat Natal\, Mr. Bean"
-http://abf.filmbluray.id/xn44n49
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", EP08 - Mr. Bean di Kamar 426
-http://abf.filmbluray.id/q0es4ui
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", EP09 - Mr. Bean Membuatnya Sendiri
-http://abf.filmbluray.id/jlwrs3t
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", "EP10 - Hati-hati dengan Bayinya\, Mr. Bean"
-http://abf.filmbluray.id/5flumaz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", EP11 - Mr. Bean Kembali ke Sekolah
-http://abf.filmbluray.id/fqjirag
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", "EP12 - Pukul Bolanya\, Mr. Bean"
-http://abf.filmbluray.id/mxsg3ux
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", "EP13 - Selamat Malam\, Mr. Bean"
-http://abf.filmbluray.id/mnlzn2w
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mr. Bean Serial" tvg-logo="https://photos.my.id/images/etEb.png", EP14 - Tata Rambut Karya Mr. Bean dari London
-http://abf.filmbluray.id/37evvwd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #-------------------- Spider-Man --------------------#
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Spider-Man" tvg-logo="http://pictures.my.id/images/spider1.png", Spider-Man 1 (2002) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/spider1.png", Spider-Man 1 (2002) SUB INDO
 http://abf.filmbluray.id/d8jy72p
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Spider-Man" tvg-logo="http://pictures.my.id/images/spider2.png", Spider-Man 2 (2004) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/spider2.png", Spider-Man 2 (2004) SUB INDO
 http://abf.filmbluray.id/knabest
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Spider-Man" tvg-logo="http://pictures.my.id/images/spider3.png", Spider-Man 3 (2007) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/spider3.png", Spider-Man 3 (2007) SUB INDO
 http://abf.filmbluray.id/pwgr8v6
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Spider-Man" tvg-logo="http://pictures.my.id/images/spider4.png", The Amazing Spider-Man (2012) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/spider4.png", The Amazing Spider-Man (2012) SUB INDO
 http://abf.filmbluray.id/ocml7gs
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Spider-Man" tvg-logo="http://pictures.my.id/images/spider5.png", The Amazing Spider Man 2 (2014) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/spider5.png", The Amazing Spider Man 2 (2014) SUB INDO
 http://abf.filmbluray.id/syny6xm
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu17.png", Spider-Man : Homecoming (2017) SUB INDO
 http://abf.filmbluray.id/vzhxn5p
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu23.png", Spider-Man : Far from Home (2019) SUB INDO
 http://abf.filmbluray.id/aec3308
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Spider-Man" tvg-logo="https://www.themoviedb.org/t/p/w1280/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",Spider-Man: No Way Home
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="https://www.themoviedb.org/t/p/w1280/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",Spider-Man: No Way Home
 https://www.googleapis.com/drive/v3/files/1W4L7mIv--crB0yIGwf_lG7omDVXw7H89?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
@@ -1695,123 +1746,65 @@ http://abf.filmbluray.id/9mmhxus
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu22.png", Avengers : Endgame (2019) SUB INDO
 http://abf.filmbluray.id/izh5hxl
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Marvel Cinematic Universe" tvg-logo="http://pictures.my.id/images/mcu23.png", Spider-Man : Far from Home (2019) SUB INDO
-http://abf.filmbluray.id/aec3308
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mission : Impossible" tvg-logo="http://pictures.my.id/images/mi1.png", Mission : Impossible 1 (1996) SUB INDO
+http://abf.filmbluray.id/aec3308.
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/mi1.png", Mission : Impossible 1 (1996) SUB INDO
 http://abf.filmbluray.id/rgqcs18
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mission : Impossible" tvg-logo="http://pictures.my.id/images/mi2.png", Mission : Impossible 2 (2000) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/mi2.png", Mission : Impossible 2 (2000) SUB INDO
 http://abf.filmbluray.id/li35vtc
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mission : Impossible" tvg-logo="http://pictures.my.id/images/mi3.png", Mission : Impossible 3 (2006) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/mi3.png", Mission : Impossible 3 (2006) SUB INDO
 http://abf.filmbluray.id/0sq8xya
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mission : Impossible" tvg-logo="http://pictures.my.id/images/mi4.png", Mission : Impossible - Ghost Protocol (2011) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/mi4.png", Mission : Impossible - Ghost Protocol (2011) SUB INDO
 http://abf.filmbluray.id/n3xh1fu
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mission : Impossible" tvg-logo="http://pictures.my.id/images/mi5.png", Mission : Impossible - Rogue Nation (2015) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/mi5.png", Mission : Impossible - Rogue Nation (2015) SUB INDO
 http://abf.filmbluray.id/0nbbfrm
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Mission : Impossible" tvg-logo="http://pictures.my.id/images/mi6.png", Mission : Impossible - Fallout (2018) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/mi6.png", Mission : Impossible - Fallout (2018) SUB INDO
 http://abf.filmbluray.id/fgp2klb
 
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="https://photos.my.id/images/uLe3.png", Wonder Woman 1984 (2020) SUB INDO
-http://abf.filmbluray.id/jkdayir
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/wonder.png", Wonder Woman (2017) SUB INDO
-http://abf.filmbluray.id/vg7ppvs
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/mansteel.png", Man of Steel (2013) SUB INDO
-http://abf.filmbluray.id/31as2d2
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/batsuper.png", Batman vs Superman : Dawn of Justice (2016) SUB INDO
-http://abf.filmbluray.id/83gr51v
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/suicide.png", Suicide Squad (2016) SUB INDO
-http://abf.filmbluray.id/efgu7m4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/league.png", Justice League (2017) SUB INDO
-http://abf.filmbluray.id/f3ldqgf
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/aquaman.png", Aquaman (2018) SUB INDO
-http://abf.filmbluray.id/0es5mcu
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/shazam.png", Shazam! (2019) SUB INDO
-http://abf.filmbluray.id/gsswjrt
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/birdprey.png", Birds Of Prey (2020) SUB INDO
-http://abf.filmbluray.id/ggd84o3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Final Destination" tvg-logo="http://pictures.my.id/images/Final-Destination-1.png", Final Destination 1 (2000) SUB INDO
-http://abf.filmbluray.id/u4fz9tq
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Final Destination" tvg-logo="http://pictures.my.id/images/Final-Destination-2.png", Final Destination 2 (2003) SUB INDO
-http://abf.filmbluray.id/a5h1btf
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Final Destination" tvg-logo="http://pictures.my.id/images/Final-Destination-3.png", Final Destination 3 (2006) SUB INDO
-http://abf.filmbluray.id/mcfft6m
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Final Destination" tvg-logo="http://pictures.my.id/images/Final-Destination-4.png", Final Destination 4 (2009) SUB INDO
-http://abf.filmbluray.id/4lk4ia7
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/hobbit1.png", The Hobbit : An Unexpected Journey (2012)
-http://abf.filmbluray.id/eo1gxi3
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/hobbit2.png", The Hobbit : The Desolation of Smaug (2013)
-http://abf.filmbluray.id/n22qiig
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/hobbit3.png", The Hobbit : The Battle of The Five Armies (2014)
-http://abf.filmbluray.id/n2c0l3q
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/lotr1.png", The Lord of the Rings : The Fellowship of the Ring (2001)
-http://abf.filmbluray.id/m8j2bin
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/lotr2.png", The Lord of the Rings : The Two Towers (2002)
-http://abf.filmbluray.id/b67096b
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The History of Middle-earth" tvg-logo="http://pictures.my.id/images/lotr3.png", The Lord of the Rings : The Return of the King (2003)
-http://abf.filmbluray.id/x2dvwh0
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator1.png", The Terminator (1984) SUB INDO
-http://abf.filmbluray.id/gdf8nq1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator2.png", Judgment Day (1991) SUB INDO
-http://abf.filmbluray.id/0k0vn82
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator3.png", Rise of The Machines (2003) SUB INDO
-http://abf.filmbluray.id/tcmej34
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator4.png", Salvation (2009) SUB INDO
-http://abf.filmbluray.id/dn6lhr2
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator5.png", Genisys (2015) SUB INDO
-http://abf.filmbluray.id/hendldi
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Terminator" tvg-logo="http://pictures.my.id/images/terminator6.png", Dark Fate (2019) SUB INDO
+#EXTM3U
 http://abf.filmbluray.id/td6xujc
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast1.png", The Fast and The Furious (2001) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/fast1.png", The Fast and The Furious (2001) SUB INDO
 http://abf.filmbluray.id/rvelkny
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast2.png", Turbo Charged Prelude (2003) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/fast2.png", Turbo Charged Prelude (2003) SUB INDO
 http://abf.filmbluray.id/zilha13
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast3.png", 2 Fast 2 Furious (2003) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/fast3.png", 2 Fast 2 Furious (2003) SUB INDO
 http://abf.filmbluray.id/uj6ztuz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast4.png", Los Bandoleros (2009) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/fast4.png", Los Bandoleros (2009) SUB INDO
 http://abf.filmbluray.id/qgm4n0r
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast5.png", Fast & Furious 4 (2009) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/fast5.png", Fast & Furious 4 (2009) SUB INDO
 http://abf.filmbluray.id/v4ej33t
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast6.png", Fast Furious Five (2011) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/fast6.png", Fast Furious Five (2011) SUB INDO
 http://abf.filmbluray.id/h7zngop
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast7.png", Fast & Furious 6 (2013) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/fast7.png", Fast & Furious 6 (2013) SUB INDO
 http://abf.filmbluray.id/8vjt6ba
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast8.png", The Fast and the Furious: Tokyo Drift (2006) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/fast8.png", The Fast and the Furious: Tokyo Drift (2006) SUB INDO
 http://abf.filmbluray.id/v8i1pw9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast9.png", Furious 7 (2015) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/fast9.png", Furious 7 (2015) SUB INDO
 http://abf.filmbluray.id/1gvz8de
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast10.png", The Fate of the Furious (2017) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/fast10.png", The Fate of the Furious (2017) SUB INDO
 http://abf.filmbluray.id/bzyv12m
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="The Fast Saga" tvg-logo="http://pictures.my.id/images/fast11.png", Fast & Furious Presents: Hobbs & Shaw (2019) SUB INDO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="http://pictures.my.id/images/fast11.png", Fast & Furious Presents: Hobbs & Shaw (2019) SUB INDO
 http://abf.filmbluray.id/vurxfca
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD CAMPURAN" tvg-logo="https://image.tmdb.org/t/p/w185/1E5baAaEse26fej7uHcjOgEE2t2.jpg", Fast X 2023
+https://www.googleapis.com/drive/v3/files/19BIHs4yQJp8Qonltfj_vBRoAmvzFwNSc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2958,6 +2951,24 @@ http://abf.filmbluray.id/dink9e4
 http://abf.filmbluray.id/m9ns58w
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="https://photos.my.id/images/uLe3.png", Wonder Woman 1984 (2020) SUB INDO
+http://abf.filmbluray.id/jkdayir
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/wonder.png", Wonder Woman (2017) SUB INDO
+http://abf.filmbluray.id/vg7ppvs
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/mansteel.png", Man of Steel (2013) SUB INDO
+http://abf.filmbluray.id/31as2d2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/batsuper.png", Batman vs Superman : Dawn of Justice (2016) SUB INDO
+http://abf.filmbluray.id/83gr51v
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/suicide.png", Suicide Squad (2016) SUB INDO
+http://abf.filmbluray.id/efgu7m4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/league.png", Justice League (2017) SUB INDO
+http://abf.filmbluray.id/f3ldqgf
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/aquaman.png", Aquaman (2018) SUB INDO
+http://abf.filmbluray.id/0es5mcu
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/shazam.png", Shazam! (2019) SUB INDO
+http://abf.filmbluray.id/gsswjrt
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DC Extended Universe" tvg-logo="http://pictures.my.id/images/birdprey.png", Birds Of Prey (2020) SUB INDO
+http://abf.filmbluray.id/ggd84o3
 
 
 
@@ -2982,264 +2993,6 @@ http://abf.filmbluray.id/m9ns58w
 
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: FOX NEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxnews.png" group-title="ASIA | INDONESIA VIP",IDS: FOX NEWS VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34310
-#EXTINF:-1 tvg-id="" tvg-name="IDS: BLOOMBERG VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/bloomberg.png" group-title="ASIA | INDONESIA VIP",IDS: BLOOMBERG VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34311
-#EXTINF:-1 tvg-id="" tvg-name="IDS: CGTN DOCUMENTARY VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/cgtndocumentary.png" group-title="ASIA | INDONESIA VIP",IDS: CGTN DOCUMENTARY VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34312
-#EXTINF:-1 tvg-id="" tvg-name="IDS: CGTN VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/cgtn.png" group-title="ASIA | INDONESIA VIP",IDS: CGTN VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34313
-#EXTINF:-1 tvg-id="" tvg-name="IDS: CNBC VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/cnbc.png" group-title="ASIA | INDONESIA VIP",IDS: CNBC VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34314
-#EXTINF:-1 tvg-id="" tvg-name="IDS: FOX MOVIES ACTION VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxmoviesaction.png" group-title="ASIA | INDONESIA VIP",IDS: FOX MOVIES ACTION VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34315
-#EXTINF:-1 tvg-id="" tvg-name="IDS: LIFESTYLE FASHION VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: LIFESTYLE FASHION VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34316
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC SHOP SMART VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: MNC SHOP SMART VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34317
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MUSIC TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/musictv.png" group-title="ASIA | INDONESIA VIP",IDS: MUSIC TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34318
-#EXTINF:-1 tvg-id="" tvg-name="PT: NHK WORLD JAPAN VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/NHKWORLDJAPAN.png" group-title="ASIA | INDONESIA VIP",PT: NHK WORLD JAPAN VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34319
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TVRI VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: TVRI VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34320
-#EXTINF:-1 tvg-id="" tvg-name="IDS: NET. TV VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: NET. TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34321
-#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34322
-#EXTINF:-1 tvg-id="" tvg-name="IDS: SCTV VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: SCTV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34323
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/transtv.png" group-title="ASIA | INDONESIA VIP",IDS: TRANS TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34324
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TRANS 7 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/trans7id.png" group-title="ASIA | INDONESIA VIP",IDS: TRANS 7 VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34325
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png" group-title="ASIA | INDONESIA VIP",IDS: MNC TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34326
-#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="ASIA | INDONESIA VIP",IDS: INDOSIAR VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34327
-#EXTINF:-1 tvg-id="" tvg-name="IDS: ANTV VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: ANTV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34328
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TV ONE VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvone.png" group-title="ASIA | INDONESIA VIP",IDS: TV ONE VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34329
-#EXTINF:-1 tvg-id="" tvg-name="IDS: METRO TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/metrotv.png" group-title="ASIA | INDONESIA VIP",IDS: METRO TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34330
-#EXTINF:-1 tvg-id="" tvg-name="IDS: GTV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/gtv.png" group-title="ASIA | INDONESIA VIP",IDS: GTV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34331
-#EXTINF:-1 tvg-id="" tvg-name="IDS: KOMPAS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/kompastv.png" group-title="ASIA | INDONESIA VIP",IDS: KOMPAS TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34332
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TVRI NASIONAL VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvri.png" group-title="ASIA | INDONESIA VIP",IDS: TVRI NASIONAL VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34333
-#EXTINF:-1 tvg-id="" tvg-name="IDS: BERITASATU VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/beritasatu.png" group-title="ASIA | INDONESIA VIP",IDS: BERITASATU VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34334
-#EXTINF:-1 tvg-id="" tvg-name="IDS: INEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/inews.png" group-title="ASIA | INDONESIA VIP",IDS: INEWS VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34335
-#EXTINF:-1 tvg-id="" tvg-name="IDS: ANIMAX VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/animax.png" group-title="ASIA | INDONESIA VIP",IDS: ANIMAX VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34336
-#EXTINF:-1 tvg-id="" tvg-name="IDS: BEIN SPORT 2 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/beinsport2.png" group-title="ASIA | INDONESIA VIP",IDS: BEIN SPORT 2 VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34337
-#EXTINF:-1 tvg-id="" tvg-name="IDS: FOX SPORTS 1 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" group-title="ASIA | INDONESIA VIP",IDS: FOX SPORTS 1 VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34338
-#EXTINF:-1 tvg-id="" tvg-name="IDS: FOX SPORTS 2 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" group-title="ASIA | INDONESIA VIP",IDS: FOX SPORTS 2 VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34339
-#EXTINF:-1 tvg-id="" tvg-name="IDS: FOX SPORTS 3 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" group-title="ASIA | INDONESIA VIP",IDS: FOX SPORTS 3 VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34340
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC SPORT VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: MNC SPORT VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34341
-#EXTINF:-1 tvg-id="" tvg-name="IDS: CELESTIAL MOVIES VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/celestialmovies.png" group-title="ASIA | INDONESIA VIP",IDS: CELESTIAL MOVIES VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34342
-#EXTINF:-1 tvg-id="" tvg-name="IDS: THRILL VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/thrill.png" group-title="ASIA | INDONESIA VIP",IDS: THRILL VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34343
-#EXTINF:-1 tvg-id="" tvg-name="IDS: AXN VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/axn.png" group-title="ASIA | INDONESIA VIP",IDS: AXN VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34344
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HITS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/hits.png" group-title="ASIA | INDONESIA VIP",IDS: HITS VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34345
-#EXTINF:-1 tvg-id="" tvg-name="IDS: CINEMA WORLD VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: CINEMA WORLD VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34346
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TVN MOVIES VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvnmovies.png" group-title="ASIA | INDONESIA VIP",IDS: TVN MOVIES VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34347
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO FAMILY VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/hbofamily.png" group-title="ASIA | INDONESIA VIP",IDS: HBO FAMILY VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34348
-#EXTINF:-1 tvg-id="" tvg-name="IDS: WARNER TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/warnertv.png" group-title="ASIA | INDONESIA VIP",IDS: WARNER TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34349
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO HITS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/hbohits.png" group-title="ASIA | INDONESIA VIP",IDS: HBO HITS VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34350
-#EXTINF:-1 tvg-id="" tvg-name="IDS: FOX LIFE VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxlife.png" group-title="ASIA | INDONESIA VIP",IDS: FOX LIFE VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34351
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HITS MOVIES VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/hitsmovies.png" group-title="ASIA | INDONESIA VIP",IDS: HITS MOVIES VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34352
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO SIGNATURE VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/hbosignature.png" group-title="ASIA | INDONESIA VIP",IDS: HBO SIGNATURE VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34353
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO RED VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: HBO RED VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34354
-#EXTINF:-1 tvg-id="" tvg-name="IDS: CINEMAX VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/cinemax.png" group-title="ASIA | INDONESIA VIP",IDS: CINEMAX VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34355
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TVN VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/tvn.png" group-title="ASIA | INDONESIA VIP",IDS: TVN VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34356
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HGTV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/hgtv.png" group-title="ASIA | INDONESIA VIP",IDS: HGTV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34357
-#EXTINF:-1 tvg-id="" tvg-name="IDS: SONY ONE VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/sonyone.png" group-title="ASIA | INDONESIA VIP",IDS: SONY ONE VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34358
-#EXTINF:-1 tvg-id="" tvg-name="CA: VIP SUPER CHANNEL VAULT" tvg-logo="https://docdog.top/logo/countries/indonesia/SUPER CHANNEL VAULT.jpeg" group-title="ASIA | INDONESIA VIP",CA: VIP SUPER CHANNEL VAULT
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34359
-#EXTINF:-1 tvg-id="" tvg-name="AR: NAT GEO PEOPLE" tvg-logo="https://docdog.top/logo/countries/indonesia/natgeopeople.png" group-title="ASIA | INDONESIA VIP",AR: NAT GEO PEOPLE
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34360
-#EXTINF:-1 tvg-id="" tvg-name="IDS: NATGEO WILD VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/natgeowild.png" group-title="ASIA | INDONESIA VIP",IDS: NATGEO WILD VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34361
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HISTORY VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/history.png" group-title="ASIA | INDONESIA VIP",IDS: HISTORY VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34362
-#EXTINF:-1 tvg-id="" tvg-name="IDS: ANIMAL PLANET VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/animalplanet.png" group-title="ASIA | INDONESIA VIP",IDS: ANIMAL PLANET VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34363
-#EXTINF:-1 tvg-id="" tvg-name="IDS: USEESPORTS2 VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: USEESPORTS2 VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34364
-#EXTINF:-1 tvg-id="" tvg-name="IDS: FIGHT SPORTS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/fightsportsid.png" group-title="ASIA | INDONESIA VIP",IDS: FIGHT SPORTS VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34365
-#EXTINF:-1 tvg-id="" tvg-name="IDS: JAKARTA GLOBE VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/jakartaglobe.png" group-title="ASIA | INDONESIA VIP",IDS: JAKARTA GLOBE VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34366
-#EXTINF:-1 tvg-id="" tvg-name="IDS: IDX VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: IDX VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34367
-#EXTINF:-1 tvg-id="" tvg-name="IDS: BALI TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/balitv.png" group-title="ASIA | INDONESIA VIP",IDS: BALI TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34368
-#EXTINF:-1 tvg-id="" tvg-name="IDS: DW VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/dw.png" group-title="ASIA | INDONESIA VIP",IDS: DW VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34369
-#EXTINF:-1 tvg-id="" tvg-name="IDS: JAKTV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/jaktv.png" group-title="ASIA | INDONESIA VIP",IDS: JAKTV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34370
-#EXTINF:-1 tvg-id="" tvg-name="IDS: JTV VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: JTV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34371
-#EXTINF:-1 tvg-id="" tvg-name="IDS: NEWS ASIA VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: NEWS ASIA VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34372
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MTV LIVE VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/mtvlive.png" group-title="ASIA | INDONESIA VIP",IDS: MTV LIVE VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34373
-#EXTINF:-1 tvg-id="" tvg-name="IDS: CITRA DANGDUT VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: CITRA DANGDUT VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34374
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TV9 NU VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: TV9 NU VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34375
-#EXTINF:-1 tvg-id="" tvg-name="IDS: ARIRANG VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/arirang.png" group-title="ASIA | INDONESIA VIP",IDS: ARIRANG VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34376
-#EXTINF:-1 tvg-id="" tvg-name="IDS: BOOMERANG VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/boomerang.png" group-title="ASIA | INDONESIA VIP",IDS: BOOMERANG VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34377
-#EXTINF:-1 tvg-id="" tvg-name="IDS: ABC AUSTRALIA VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: ABC AUSTRALIA VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34378
-#EXTINF:-1 tvg-id="" tvg-name="IDS: NHK WORLD PREMIUM VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/NHKWORLDPREMIUM.png" group-title="ASIA | INDONESIA VIP",IDS: NHK WORLD PREMIUM VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34379
-#EXTINF:-1 tvg-id="" tvg-name="IDS: NICK JUNIOR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/nickjunior.png" group-title="ASIA | INDONESIA VIP",IDS: NICK JUNIOR VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34380
-#EXTINF:-1 tvg-id="" tvg-name="IDS: EURONEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/euronews.png" group-title="ASIA | INDONESIA VIP",IDS: EURONEWS VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34381
-#EXTINF:-1 tvg-id="" tvg-name="IDS: FASHIONTV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/fashiontv.png" group-title="ASIA | INDONESIA VIP",IDS: FASHIONTV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34382
-#EXTINF:-1 tvg-id="" tvg-name="NL: RTV UTRECHT VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/rtv.png" group-title="ASIA | INDONESIA VIP",NL: RTV UTRECHT VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34383
-#EXTINF:-1 tvg-id="" tvg-name="IDS: KIDS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/kidstv.png" group-title="ASIA | INDONESIA VIP",IDS: KIDS TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34384
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MIAO MI VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/miaomi.png" group-title="ASIA | INDONESIA VIP",IDS: MIAO MI VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34385
-#EXTINF:-1 tvg-id="" tvg-name="IDS: CBEEBIES VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/cbeebies.png" group-title="ASIA | INDONESIA VIP",IDS: CBEEBIES VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34386
-#EXTINF:-1 tvg-id="" tvg-name="IDS: BESMART VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: BESMART VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34387
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC NEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/mncnews.png" group-title="ASIA | INDONESIA VIP",IDS: MNC NEWS VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34388
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TVMU VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: TVMU VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34389
-#EXTINF:-1 tvg-id="" tvg-name="IDS: EWTN VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: EWTN VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34390
-#EXTINF:-1 tvg-id="" tvg-name="IDS: E! VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/entertainment.png" group-title="ASIA | INDONESIA VIP",IDS: E! VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34391
-#EXTINF:-1 tvg-id="" tvg-name="IDS: FMN VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: FMN VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34392
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC SHOP TRENDY VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: MNC SHOP TRENDY VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34393
-#EXTINF:-1 tvg-id="" tvg-name="HU: GALAXY 4 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/galaxy.png" group-title="ASIA | INDONESIA VIP",HU: GALAXY 4 VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34394
-#EXTINF:-1 tvg-id="" tvg-name="IDS: CRIME & INVESTIGATION VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: CRIME & INVESTIGATION VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34395
-#EXTINF:-1 tvg-id="" tvg-name="IDS: DISCOVERY SHED VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/discoveryshed.png" group-title="ASIA | INDONESIA VIP",IDS: DISCOVERY SHED VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34396
-#EXTINF:-1 tvg-id="" tvg-name="IDS: ANIPLUS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/aniplus.png" group-title="ASIA | INDONESIA VIP",IDS: ANIPLUS VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34397
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MAKKAH TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/makkahtv.png" group-title="ASIA | INDONESIA VIP",IDS: MAKKAH TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34398
-#EXTINF:-1 tvg-id="" tvg-name="IDS: CITRA DRAMA" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: CITRA DRAMA
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34399
-#EXTINF:-1 tvg-id="" tvg-name="IDS: DUCK TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/ducktv.png" group-title="ASIA | INDONESIA VIP",IDS: DUCK TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34400
-#EXTINF:-1 tvg-id="" tvg-name="IDS: BABY TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/babytv.png" group-title="ASIA | INDONESIA VIP",IDS: BABY TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34401
-#EXTINF:-1 tvg-id="" tvg-name="SE: BBC EARTH VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/bbcearth.png" group-title="ASIA | INDONESIA VIP",SE: BBC EARTH VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34402
-#EXTINF:-1 tvg-id="" tvg-name="IDS: CNN INDONESIA VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: CNN INDONESIA VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34403
-#EXTINF:-1 tvg-id="" tvg-name="IDS: TVKU VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: TVKU VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34404
-#EXTINF:-1 tvg-id="" tvg-name="IDS: SPOTV 2 VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="ASIA | INDONESIA VIP",IDS: SPOTV 2 VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34405
-#EXTINF:-1 tvg-id="" tvg-name="IDS: SPOTV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" group-title="ASIA | INDONESIA VIP",IDS: SPOTV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34406
-#EXTINF:-1 tvg-id="" tvg-name="IDS: REFORMED 21 VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: REFORMED 21 VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34407
-#EXTINF:-1 tvg-id="" tvg-name="IDS: &TV VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: &TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34408
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Trans7 VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Trans7 VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34409
-#EXTINF:-1 tvg-id="" tvg-name="IDS: JPM TV VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: JPM TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34410
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Nusantara TV VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Nusantara TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34411
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Zee Bioskop VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Zee Bioskop VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34412
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Fashion TV - Global VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Fashion TV - Global VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34413
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Aljazeera VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/aljazeera.png" group-title="ASIA | INDONESIA VIP",IDS: Aljazeera VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34414
-#EXTINF:-1 tvg-id="" tvg-name="IDS: DW English VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: DW English VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34415
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Delta FM VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Delta FM VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34416
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Ardan Radio VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Ardan Radio VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34417
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Hot FM VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Hot FM VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34418
-#EXTINF:-1 tvg-id="" tvg-name="IDS: SWARA SEMARANG VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: SWARA SEMARANG VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34419
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Cosmopolitan VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Cosmopolitan VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34420
-#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI ID VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: RCTI ID VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34421
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Tegar TV VIP" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Tegar TV VIP
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34422
-#EXTINF:-1 tvg-id="" tvg-name="IDS: AlQuran Kareem" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: AlQuran Kareem
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34423
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Celestial Classic Movie" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Celestial Classic Movie
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34424
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Warner TV" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Warner TV
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34425
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Galaxy Premium" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Galaxy Premium
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34426
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Galaxy HD" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Galaxy HD
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34427
-#EXTINF:-1 tvg-id="" tvg-name="IDS: CINEMA WORLD" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: CINEMA WORLD
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34428
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Paramount Network" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Paramount Network
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34429
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO Family" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: HBO Family
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34430
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO Signature" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: HBO Signature
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34431
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO Hits" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: HBO Hits
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34432
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: HBO
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34433
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Hits Movies" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Hits Movies
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34434
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Hits" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Hits
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34435
-#EXTINF:-1 tvg-id="" tvg-name="IDS: AXN" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: AXN
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34436
-#EXTINF:-1 tvg-id="" tvg-name="IDS: Thrill" tvg-logo="" group-title="ASIA | INDONESIA VIP",IDS: Thrill
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34437
 
 
 
