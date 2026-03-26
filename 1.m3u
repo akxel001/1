@@ -2,8 +2,7 @@
 #EXTINF:-1 group-title="ٱلسَّلَامُ عَلَيْكُمْ" ch-number="80" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Kopi-Mantap.png",Traktir Kopi
 #https://dl.dropboxusercontent.com/scl/fi/olqgh4fc2jt3eg2hcu0nr/Traktir-Kopi.mp4?rlkey=1ftfnpsmy3if5zz1cfhoilnk5&st=1w5mrw6d&dl=0
 
-#EXTINF:-1,FLIK
-http://103.66.62.83:8000/play/a04d/index.m3u8
+
 
 
 #EXTINF:-1 group-title="ٱلسَّلَامُ عَلَيْكُمْ" ch-number="80" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Kopi-Mantap.png",Disclaimer
@@ -465,8 +464,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMusli
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="a04d" tvg-name="FLIK" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/FLIK.png" group-title="MOVIES",FLIK ERROR
-http://103.66.62.83:8000/play/a04d/index.m3u
+
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/FLIK.png",FLIK
+http://103.66.62.83:8000/play/a04d/index.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
