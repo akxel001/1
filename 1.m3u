@@ -26,13 +26,13 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 
 #EXTINF:-1,group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png", ID: ETV BIOSKOP 01
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298526
+#http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298526
 #EXTINF:-1,group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png", ID: ETV BIOSKOP 02
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298513
+#http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298513
 #EXTINF:-1,group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png", ID: ETV BIOSKOP 03
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298514
+#http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298514
 #EXTINF:-1,group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png", ID: ETV BIOSKOP 04
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
+#http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
 
 
 
