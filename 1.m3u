@@ -1,22 +1,8 @@
 "#EXTM3U
-#EXTINF:-1 group-title="ٱلسَّلَامُ عَلَيْكُمْ" ch-number="80" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Kopi-Mantap.png",Traktir Kopi
-#https://dl.dropboxusercontent.com/scl/fi/olqgh4fc2jt3eg2hcu0nr/Traktir-Kopi.mp4?rlkey=1ftfnpsmy3if5zz1cfhoilnk5&st=1w5mrw6d&dl=0
-
-
-
-
-#EXTINF:-1 group-title="ٱلسَّلَامُ عَلَيْكُمْ" ch-number="80" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Kopi-Mantap.png",Disclaimer
-#https://dl.dropboxusercontent.com/scl/fi/y0tn92njcmw7boibo17z5/Traktir-Kopi-2.mp4?rlkey=rn5t0ow4y54ardthylq257dn7&st=z4szzfcy&dl=0
 
 
 #EXTINF:-1 group-title="RADIO FM" ch-number="80" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbaFiydDb3jDRf8iUIqPF-mkr9wLx"cVPUKA&s",RASILIMA FM
 https://stream-eu-nc.arenastreaming.com:6244/stream?1767774423532
-
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="Extra Channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg",Movies Now
@@ -24,26 +10,11 @@ https://stream-eu-nc.arenastreaming.com:6244/stream?1767774423532
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-
-#EXTINF:-1,group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png", ID: ETV BIOSKOP 01
-#http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298526
-#EXTINF:-1,group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png", ID: ETV BIOSKOP 02
-#http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298513
-#EXTINF:-1,group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png", ID: ETV BIOSKOP 03
-#http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298514
-#EXTINF:-1,group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png", ID: ETV BIOSKOP 04
-#http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
-
-
-
 #EXTINF:-1 tvg-id="hbofamily.id" tvg-name="ID| HBO Family" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Extra Channel",HBO Family 103
 http://103.66.62.83:8000/play/a02s/index.m3u8
 
-
 #EXTINF:-1 tvg-id="astrocitra.my" tvg-name="MY| ASTRO CITRA HD" tvg-logo="https://lo1.in/MALAY/astrocit.png" group-title="MOVIES",ASTRO CITRA Xtra
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149635.m3u8
-
-
 
 #EXTINF:-1 tvg-id="hbo.id" tvg-name="ID| HBO HD" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Extra Channel",ID| HBO Extra
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139220.m3u8
@@ -63,22 +34,13 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139187.m3u8
 ##KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34462.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="Extra Channel",Food Travel XTRA
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/7648.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/b/b1/Ent_%282020%29.png/revision/latest?cb=20210401065932" group-title="Extra Channel",Entertainment (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="Extra Channel",Food Travel (V+)
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="Extra Channel",Food Travel (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
