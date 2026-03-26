@@ -2959,6 +2959,39 @@ http://abf.filmbluray.id/ggd84o3
 
 
 
+
+
+
+#EXTINF:-1 group-title="CINEMA ASIA" tvg-logo="https://i.postimg.cc/d00s4DvF/ezgif-6d643fe036d1f189.png",JACKIE CHAN MOVIES
+http://74.91.26.218:82/live/vlcl.m3u8
+#EXTINF:-1 group-title="CINEMA ASIA" tvg-logo="https://i.postimg.cc/tJJFb9h6/ezgif-64b0a9042764879e.png",ANDY LAU MOVIES
+http://74.91.26.218:82/live/vlldh.m3u8
+#EXTINF:-1 group-title="CINEMA ASIA" tvg-logo="https://i.postimg.cc/zGrSbY5r/ezgif-6f5c663123d19ef6.png",CHOW YUN-FAT MOVIES
+http://74.91.26.218:82/live/vlzrf.m3u8
+#EXTINF:-1 group-title="CINEMA ASIA" tvg-logo="https://i.postimg.cc/jqf7z3Ms/ezgif-62851c7f2ecebbb1.png",STEPHEN CHOW MOVIES
+http://74.91.26.218:82/live/vlzxc.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uVe56sB.jpeg" group-title="Adult",MEN'S NEC♂️
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
