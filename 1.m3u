@@ -465,7 +465,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="a04d" tvg-name="FLIK" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/FLIK.png" group-title="MOVIES",FLIK
-http://103.66.62.83:8000/play/a04d/index.m3u8
+http://103.66.62.83:8000/play/a04d/index.m3u
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
