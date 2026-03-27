@@ -366,7 +366,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-group1-swiftservehd-1.dens.tv/h/h248/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pic.dens.tv/tv_183x174/1568359881_square.jpg" group-title="Entertainment",Dens Play
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/DensPlay.png" group-title="Entertainment",Dens Play
 https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8
 
 
