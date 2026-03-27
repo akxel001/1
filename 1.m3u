@@ -3,6 +3,9 @@
 https://stream-eu-nc.arenastreaming.com:6244/stream?1767774423532
 
 
+
+
+
 #EXTINF:-1 group-title="Extra Channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg",Movies Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
@@ -38,23 +41,20 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34462.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
+
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="Extra Channel",Food Travel (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
+
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/789/35/png-clipart-logo-celebrity-graphic-design-brand-font-cat-victorious-purple-television.png" group-title="Extra Channel",CelebritiesTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="Extra Channel",First Lifestyle
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -82,54 +82,17 @@ https://nl.utako.moe/v_paradise/index.m3u8
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/qMWw8Tph/HBO.png" group-title="MOVIES" ,HBO
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
-
-
-
-
-=======================================
-
 
 #EXTINF:-1 tvg-id="hbohitsasia" tvg-logo="https://i.ibb.co.com/CpFzG9rS/HBO-HITS.png" group-title="MOVIES",HBO Hits
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
-
-
-
-
-
-=======================================
-
-
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.ibb.co.com/8DTHTfjB/HBO-FAMILY.png",HBO Family
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
-
-
-
-
-
-
-
-=======================================
-
-
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.ibb.co.com/zT7PdwCC/HBO-SIGNATURE.png",HBO Signature
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-
-
-
-
-
-
-=======================================
-
 
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://i.ibb.co.com/0pWPCfLb/CINEMAX.png" group-title="MOVIES",CINEMAX
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
@@ -142,16 +105,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/WB.png",WARNER TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
-
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/AE.png",ALLPLAY ENT
-https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
-
-
-
-
-
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -169,13 +122,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index
 #EXTINF:-1 tvg-id="GALAXYPremium.id" tvg-name="GALAXY Premium.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/GALAXY-P.png" group-title="MOVIES",GALAXY PREMIUM
 https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
-
-
-
-
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -186,20 +132,12 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
 
-
-
 #EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/AXN.png" group-title="MOVIES",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
-
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CB.png",Citra Bioskop
@@ -209,23 +147,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="HITS - [Saluran 77].id" tvg-url="https://i.imgur.com/43aPpA4.png" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HITS.png" group-title="MOVIES",HITS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
-
-
-
-
-
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -234,25 +161,11 @@ https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
-
-
-
-
-
-
-
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
 #EXTINF:-1 tvg-id="HITSMovies.id" tvg-name="Hits Movies" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HITSM.png" group-title=MOVIES",HITS MOVIES
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesHD.mpd
-
-
-
-
-
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
@@ -260,12 +173,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="ROCKAction.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/RA.png" group-title="MOVIES",Rock Action
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/RE.png" group-title="MOVIES",Rock Entertainment
@@ -280,26 +187,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/in
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="VisionPrime.id" group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/VP.png",Vision Prime
-https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/MCE.png" group-title="MOVIES",MCE HD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CCM.png" group-title="MOVIES",Celestial Movies (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -308,14 +195,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="CCM - [Channel 45/22].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CCMC.png" group-title="MOVIES",Celestial Classic (V+)
@@ -368,24 +247,18 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/BI.png",Bioskop Indonesia Xtra
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149814.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/AE.png",ALLPLAY ENT
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
-
-
-#EXTINF:-1 group-title="MOVIES"tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CDrama.png", Citra Drama xtra
+#EXTINF:-1 group-title="Entertainment"tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CDrama.png", Citra Drama xtra
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149812.m3u8
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-name="" tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CEnt.png", Citra Entertainment HD
+#EXTINF:-1 group-title="Entertainment" tvg-name="" tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CEnt.png", Citra Entertainment HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
@@ -394,30 +267,21 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/Cit
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CD.png" group-title="MOVIES",Citra Dangdut
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CD.png" group-title="Entertainment",Citra Dangdut
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-name="TV Religi" tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CMuslim.png", Citra Muslim HD 
+#EXTINF:-1 group-title="Entertainment" tvg-name="TV Religi" tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CMuslim.png", Citra Muslim HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
 
 
-
-
-#EXTINF:-1 tvg-name="" tvg-id="Maxstream.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/MS.png" group-title="MOVIES", MAXSTREAM
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-
-
-
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/FLIK.png",FLIK
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/FLIK.png",FLIK
 http://103.66.62.83:8000/play/a04d/index.m3u8
 
 
@@ -427,9 +291,10 @@ http://103.66.62.83:8000/play/a04d/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
-#EXTINF:-1 tvg-id="IMC" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/IMC.png" group-title="MOVIES",IMC
+#EXTINF:-1 tvg-id="IMC" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/IMC.png" group-title="Entertainment",IMC
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
-#EXTINF:-1 tvg-id="Muslim TV" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/MUSLIM.png" group-title="MOVIES",Muslim TV
+
+#EXTINF:-1 tvg-id="Muslim TV" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/MUSLIM.png" group-title="Entertainment",Muslim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
@@ -437,6 +302,37 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2e6de6943ef47d08c2634a2df4bcece:badf619476b3bf0889ab545e8d3926f6
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/BI.png",Bioskop Indonesia Xtra
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149814.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="VisionPrime.id" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/VP.png",Vision Prime
+https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
