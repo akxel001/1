@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="RADIO FM" ch-number="80" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Rasilima.jpg",RASILIMA FM
+#EXTINF:-1 group-title="Entertainment" ch-number="80" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Rasilima.jpg",RASILIMA FM
 https://stream-eu-nc.arenastreaming.com:6244/stream?1767774423532
 
 
