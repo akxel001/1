@@ -343,7 +343,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="Entertainment",Food Travel (V+)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Food-Travel.png" group-title="Entertainment",Food Travel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
