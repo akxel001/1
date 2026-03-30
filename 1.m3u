@@ -84,11 +84,11 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34462.m3u8
 
 
 
-#EXTINF:-1 group-title="Extra Channel" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
+#EXTINF:-1 group-title="Extra Channel" tvg-id="neco" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/neco.png",Neco Channel
 https://nl.utako.moe/neco/index.m3u8
-#EXTINF:-1 group-title="Extra Channel" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
+#EXTINF:-1 group-title="Extra Channel" tvg-id="pigoo" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/pigoo.png",Pigoo (NSFW)
 https://nl.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="Extra Channel" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
+#EXTINF:-1 group-title="Extra Channel" tvg-id="v_paradise" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/v_paradise.png",V Paradise (NSFW)
 https://nl.utako.moe/v_paradise/index.m3u8
 
 
