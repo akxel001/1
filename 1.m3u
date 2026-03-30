@@ -42,7 +42,7 @@ http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9
 
 
 
-#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg",Movies Now
+#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/movies_now.png",Movies Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
@@ -52,15 +52,15 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="astrocitra.my" tvg-name="MY| ASTRO CITRA HD" tvg-logo="https://lo1.in/MALAY/astrocit.png" group-title="MOVIES",ASTRO CITRA Xtra
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149635.m3u8
 
-#EXTINF:-1 tvg-id="hbo.id" tvg-name="ID| HBO HD" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Extra Channel",ID| HBO Extra
+#EXTINF:-1 tvg-id="hbo.id" tvg-name="ID| HBO HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HBO.png" group-title="Extra Channel",ID| HBO Extra
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139220.m3u8
-#EXTINF:-1 tvg-id="hbofamily.id" tvg-name="ID| HBO Family" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Extra Channel",ID| HBO Family Extra
+#EXTINF:-1 tvg-id="hbofamily.id" tvg-name="ID| HBO Family" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HBO-FAMILY.png" group-title="Extra Channel",ID| HBO Family Extra
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139219.m3u8
-#EXTINF:-1 tvg-id="hbohits.id" tvg-name="ID| HBO Hits" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Extra Channel",ID| HBO Hits Extra
+#EXTINF:-1 tvg-id="hbohits.id" tvg-name="ID| HBO Hits" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HBO-HITS.png" group-title="Extra Channel",ID| HBO Hits Extra
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139218.m3u8
-#EXTINF:-1 tvg-id="hbosignature.id" tvg-name="ID| HBO Signature" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Extra Channel",ID| HBO Signature Extra
+#EXTINF:-1 tvg-id="hbosignature.id" tvg-name="ID| HBO Signature" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HBO-SIGNATURE.png" group-title="Extra Channel",ID| HBO Signature Extra
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139217.m3u8
-#EXTINF:-1 tvg-id="cinemax.id" tvg-name="ID| Cinemax" tvg-logo="https://lo1.in/MALAY/cimx.png" group-title="Extra Channel",ID| Cinemax Extra
+#EXTINF:-1 tvg-id="cinemax.id" tvg-name="ID| Cinemax" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CINEMAX.png" group-title="Extra Channel",ID| Cinemax Extra
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139187.m3u8
 
 
