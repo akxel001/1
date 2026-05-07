@@ -47,8 +47,6 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="MY| ASTRO CITRA HD" tvg-logo="https://lo1.in/MALAY/astrocit.png" group-title="MOVIES",ASTRO CITRA Xtra
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149635.m3u8
 
 #EXTINF:-1 tvg-id="hbo.id" tvg-name="ID| HBO HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HBO.png" group-title="Extra Channel",ID| HBO Extra
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139220.m3u8
@@ -62,13 +60,6 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139217.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139187.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Astro_Showtime_%282026%29.png" group-title="MOVIES",Astro Showtime Extraott
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-##KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34462.m3u8
-
-
 #EXTINF:-1 group-title="Extra Channel" tvg-id="neco" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/neco.png",Neco Channel
 https://nl.utako.moe/neco/index.m3u8
 #EXTINF:-1 group-title="Extra Channel" tvg-id="pigoo" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/pigoo.png",Pigoo (NSFW)
@@ -77,7 +68,7 @@ https://nl.utako.moe/pigoo/index.m3u8
 https://nl.utako.moe/v_paradise/index.m3u8
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Maxstream.png",Max Stream
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Maxstream.png",Max Stream
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03
 https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest.mpd
