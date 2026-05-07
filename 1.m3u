@@ -84,7 +84,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest.mpd
 
    
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/FLIK.png",Flik
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/FLIK.png",Flik
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
@@ -96,7 +96,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
-#EXTINF:-1 tvg-id="IMC" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/IMC.png" group-title="MOVIES",IMC
+#EXTINF:-1 tvg-id="IMC" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/IMC.png" group-title="Entertainment",IMC
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 
@@ -309,13 +309,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMusli
 #KODIPROP:inputstream.adaptive.license_key=c2e6de6943ef47d08c2634a2df4bcece:badf619476b3bf0889ab545e8d3926f6
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
 
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/BI.png",Bioskop Indonesia Xtra
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/149814.m3u8
+#EXTINF:-1 tvg-id="Entertainment" tvg-logo="https://i.ibb.co.com/chVJ3ddY/BI.png" group-title="Entertainment",BIOSKOP INDONESIA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
