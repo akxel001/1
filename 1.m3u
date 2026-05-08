@@ -32,15 +32,23 @@ https://ratu77.adptv.workers.dev/index.mpd?id=7619&type=dash
 https://mic.siar.us/mic/live/mic.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/staratv_combined.png" group-title="MUSIC",Stara TV jakarta
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/staratv_combined.png" group-title="MUSIC",Stara TV Jakarta
 https://jakarta.staratv.id/hls/1/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/staratv_combined.png" group-title="MUSIC",Stara TV Majalengka
+https://stream.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/staratv_combined.png" group-title="MUSIC",Stara TV Bandung
+https://parahyangan.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/staratv_combined.png" group-title="MUSIC",Stara TV Cianjur
+https://cianjur.staratv.id/hls/0/stream.m3u8
 =======================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/G40mVf24/IMG-20260301-023835.png" group-title="MUSIC",CDI
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
 
 
