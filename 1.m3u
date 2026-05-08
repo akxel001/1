@@ -31,6 +31,10 @@ https://ratu77.adptv.workers.dev/index.mpd?id=7619&type=dash
 #EXTVLCOPT:http-referer=https://mic-indo.com/live/
 https://mic.siar.us/mic/live/mic.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/staratv_combined.png" group-title="MUSIC",Stara TV jakarta
+https://jakarta.staratv.id/hls/1/stream.m3u8
+
 =======================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/G40mVf24/IMG-20260301-023835.png" group-title="MUSIC",CDI
