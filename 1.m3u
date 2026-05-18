@@ -64,16 +64,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="hbo.id" tvg-name="ID| HBO HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HBO.png" group-title="Extra Channel",ID| HBO Extra
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139220.m3u8
-#EXTINF:-1 tvg-id="hbofamily.id" tvg-name="ID| HBO Family" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HBO-FAMILY.png" group-title="Extra Channel",ID| HBO Family Extra
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139219.m3u8
-#EXTINF:-1 tvg-id="hbohits.id" tvg-name="ID| HBO Hits" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HBO-HITS.png" group-title="Extra Channel",ID| HBO Hits Extra
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139218.m3u8
-#EXTINF:-1 tvg-id="hbosignature.id" tvg-name="ID| HBO Signature" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HBO-SIGNATURE.png" group-title="Extra Channel",ID| HBO Signature Extra
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139217.m3u8
-#EXTINF:-1 tvg-id="cinemax.id" tvg-name="ID| Cinemax" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CINEMAX.png" group-title="Extra Channel",ID| Cinemax Extra
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139187.m3u8
+
 
 
 #EXTINF:-1 group-title="Extra Channel" tvg-id="neco" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/neco.png",Neco Channel
@@ -109,20 +100,24 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/qMWw8Tph/HBO.png" group-title="MOVIES" ,HBO
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+http://syok.tv:25461/843839483/33999/97
 
 #EXTINF:-1 tvg-id="hbohitsasia" tvg-logo="https://i.ibb.co.com/CpFzG9rS/HBO-HITS.png" group-title="MOVIES",HBO Hits
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+http://syok.tv:25461/843839483/33999/98
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.ibb.co.com/8DTHTfjB/HBO-FAMILY.png",HBO Family
-https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+http://syok.tv:25461/843839483/33999/100
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.ibb.co.com/zT7PdwCC/HBO-SIGNATURE.png",HBO Signature
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+http://syok.tv:25461/843839483/33999/99
 
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://i.ibb.co.com/0pWPCfLb/CINEMAX.png" group-title="MOVIES",CINEMAX
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
-
+#https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+http://syok.tv:25461/843839483/33999/101
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/WB.png",WARNER TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
