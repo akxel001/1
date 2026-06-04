@@ -1156,6 +1156,106 @@ http://74.91.26.218:82/live/vlzrf.m3u8
 http://74.91.26.218:82/live/vlzxc.m3u8
 
 
+#EXTINF:-1 group-title="Extra Channel",HBO
+https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#EXTINF:-1 group-title="Extra Channel",HBO Hits
+https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
+#EXTINF:-1 group-title="Extra Channel",HBO Family
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTINF:-1 group-title="Extra Channel",HBO Signature
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
+#EXTINF:-1 group-title="Extra Channel",CINEMAX
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1 group-title="Extra Channel",HBO
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:-1 group-title="Extra Channel",HBO Hits
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:-1 group-title="Extra Channel",HBO Family
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:-1 group-title="Extra Channel",HBO Signature
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 group-title="Extra Channel",CINEMAX
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#EXTINF:-1 group-title="Extra Channel",Celestial Movies (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",Celestial Classic (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",GALAXY
+https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",GALAXY PREMIUM
+https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",K+
+https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+#EXTINF:-1 group-title="Extra Channel",TvN movies HD
+https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",ONE
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",HITS
+https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",HITS MOVIES
+https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 group-title="Extra Channel",KIX
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",THRILL
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",AXN
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",ORIGINALS
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",Buddy Star
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",Cineedge
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",SUPERRIX
+https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",Uniquest
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",IMC
+https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",ZEE BIOSKOP
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
+
+#EXTINF:-1 group-title="Extra Channel",ROCK ACTION
+https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+
+#EXTINF:-1 group-title="Extra Channel",BIOSKOP INDONESIA
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+
+#EXTINF:-1 group-title="Extra Channel",Cinema World
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
+
+#EXTINF:-1 group-title="Extra Channel",Studio Universal
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+
+
 
 
 
