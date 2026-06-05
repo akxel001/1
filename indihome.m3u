@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 group-title="INDIHOME",Bioskop Indonesia
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Celestial Movie
+https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Citra Dangdut
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Dunia Anak
+https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Dunia Lain
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Horee
+https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",IMC
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",TLC
+https://cdn08jtedge.indihometv.com/dassdvr/130/tlc/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",AFC
+https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Beib 1
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Beib 2
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Crime Investigation
+https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",DreamWorks
+https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks_dash/manifest_wuseetv_qRFZS.mpd
+#EXTINF:-1 group-title="INDIHOME",Fashion TV
+https://cdn08jtedge.indihometv.com/dassdvr/133/fashiontv/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Flik
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_wuseetv_qRFZS.mpd
+#EXTINF:-1 group-title="INDIHOME",Galaxy
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Galaxy Premium
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",HGTV
+https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",HITS Now
+https://cdn08jtedge.indihometv.com/dassdvr/133/hitsnow/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Indosiar
+https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Lingua
+https://cdn08jtedge.indihometv.com/dassdvr/133/lingua/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",SCTV
+https://cdn08jtedge.indihometv.com/dassdvr/133/sctv/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",TVN
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",TVN Movies
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Usee Prime
+https://cdn08jtedge.indihometv.com/dassdvr/133/useeprime/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Usee Sport
+https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Usee Sport 2
+https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Cinema World
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",Da Vinci
+https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",My Kids
+https://cdn08jtedge.indihometv.com/dassdvr/134/mykids/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",SPOTV
+https://cdn08jtedge.indihometv.com/dassdvr/194/spotv/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",CINEMAX
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",HBOFAMILY
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",HBOHITS
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",HBOSIGNATURE
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",MAXEATS
+https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",KOMPAS_TV
+https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",INDOSIAR
+https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 group-title="INDIHOME",INEWS
+https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF:-1 group-title="INDIHOME",MNCNEWS
+https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 group-title="INDIHOME",RCTI
+https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 group-title="INDIHOME",SCTV
+https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
