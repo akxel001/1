@@ -97,9 +97,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 
-#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://mimipipi22.github.io/logo/movies/flik.jpg" group-title="MOVIES",FLIK
+#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/FLIK.png" group-title="MOVIES",FLIK
 http://103.148.44.38:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://mimipipi22.github.io/logo/movies/flik.jpg" group-title="MOVIES",FLIK HD
+#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/FLIK.png" group-title="MOVIES",FLIK HD
 http://103.148.44.38:8000/play/a09o/index.m3u8
 
 
