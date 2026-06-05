@@ -66,14 +66,6 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 
 
-#EXTINF:-1 group-title="Extra Channel" tvg-id="neco" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/neco.png",Neco Channel
-https://nl.utako.moe/neco/index.m3u8
-#EXTINF:-1 group-title="Extra Channel" tvg-id="pigoo" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/pigoo.png",Pigoo (NSFW)
-https://nl.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="Extra Channel" tvg-id="v_paradise" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/v_paradise.png",V Paradise (NSFW)
-https://nl.utako.moe/v_paradise/index.m3u8
-
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Maxstream.png",Max Stream
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03
