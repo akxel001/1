@@ -103,24 +103,19 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/qMWw8Tph/HBO.png" group-title="MOVIES" ,HBO
-#https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
-http://syok.tv:25461/843839483/33999/97
+https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="hbohitsasia" tvg-logo="https://i.ibb.co.com/CpFzG9rS/HBO-HITS.png" group-title="MOVIES",HBO Hits
-#https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
-http://syok.tv:25461/843839483/33999/98
+https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.ibb.co.com/8DTHTfjB/HBO-FAMILY.png",HBO Family
-#https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-http://syok.tv:25461/843839483/33999/100
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.ibb.co.com/zT7PdwCC/HBO-SIGNATURE.png",HBO Signature
-#https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-http://syok.tv:25461/843839483/33999/99
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://i.ibb.co.com/0pWPCfLb/CINEMAX.png" group-title="MOVIES",CINEMAX
-#https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
-http://syok.tv:25461/843839483/33999/101
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="Warner TV HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/N631QT8M/WB.png" group-title="MOVIES",Warner TV (INDIHOME)
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
