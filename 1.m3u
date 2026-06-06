@@ -985,13 +985,13 @@ https://streaming.yufid.com/hls/radiokitatv.m3u8
 #EXTINF:-114 group-title="RELIGI" tvg-logo="https://i.ibb.co.com/gMy3Nvj4/BQ.png",BahrainQuran
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 
-#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://i.postimg.cc/d00s4DvF/ezgif-6d643fe036d1f189.png",JACKIE CHAN MOVIES
+#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/jackiechan.png",JACKIE CHAN MOVIES
 http://74.91.26.218:82/live/vlcl.m3u8
-#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://i.postimg.cc/tJJFb9h6/ezgif-64b0a9042764879e.png",ANDY LAU MOVIES
+#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/andylau.png",ANDY LAU MOVIES
 http://74.91.26.218:82/live/vlldh.m3u8
-#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://i.postimg.cc/zGrSbY5r/ezgif-6f5c663123d19ef6.png",CHOW YUN-FAT MOVIES
+#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/chowyunfat.png",CHOW YUN-FAT MOVIES
 http://74.91.26.218:82/live/vlzrf.m3u8
-#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://i.postimg.cc/jqf7z3Ms/ezgif-62851c7f2ecebbb1.png",STEPHEN CHOW MOVIES
+#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/stepehncow.png",STEPHEN CHOW MOVIES
 http://74.91.26.218:82/live/vlzxc.m3u8
 
 #EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/movies_now.png",Movies Now
