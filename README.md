@@ -1,8 +1,8 @@
-DISCLAIMER
+DISCLAIMER.
 
-SIARAN DI PLAYLIST INI (BUKAN SEPENUHNYA MILIK ADMIN) MELAINKAN HASIL DARI BEBERAPA SUMBER DI INTERNET
-PLAYLIST KAMI HANYA MENAMPILKAN TAUTAN KE KONTEN AUDIOVISUAL YANG TERLETAK DI SERVER PIHAK KETIGA DAN DI SEDIAKAN ATAU DI KIRIMKAN OLEH PIHAK KETIGA. 
-KAMI TIDAK MENGHOSTING ATAU MENTRANSMISIKAN KONTEN AUDIOVISUAL APAPUN ITU SENDIRI, DAN TIDAK MENGONTROL ATAU MEMENGARUHI KONTEN TERSEBUT.
-KAMI TIDAK MENG-KLAIM BERAFILIASI DENGAN SALAH SATU PEMILIK ALIRAN DAN/ATAU VIDEO. SEMUA KONTEN ADALAH HAK CIPTA DARI PEMILIKNYA MASING-MASING
-KAMI TIDAK BERTANGGUNG JAWAB ATAS SEGALA BENTUK PENYALAHGUNAAN PLAYLIST, KAMI HANYA MENGUTIP DARI BEBERAPA SUMBER INTERNET , SEPERTI YG SUDAH DIJELASKAN SEPERTI DIATAS.
-JIKA TERDAPAT URL ANDA DI DAFTAR PLAYLIST INI BERARTI LINK URL SUDAH TERSEBAR DI BERBAGAI SITUS INTERNET HARAP GANTI URL DARI PIHAK ANDA SENDIRI.
+Siaran di playlist ini (bukan sepenuhnya milik admin) melainkan hasil dari beberapa sumber di internet.
+Playlist kami hanya menampilkan tautan ke konten audiovisual yang terletak di server pihak ketiga dan di sediakan atau di kirimkan oleh pihak ketiga.
+Kami tidak menghosting atau mentransmisikan konten audiovisual apapun itu sendiri, dan tidak mengontrol atau mempengaruhi konten tersebut.
+Kami tidak meng-klaim berafiliasi dengan salah satu pemilik aliran dan/atau video. Semua konten adalah hak cipta dari pemiliknya masing-masing.
+Kami tidak bertanggung jawab atas segala bentuk penyalahgunaan playlist, kami hanya mengutip dari beberapa sumber internet, seperti yang sudah dijelaskan seperti diatas.
+Jika terdapat URL anda di daftar playlist ini berarti link URL sudah tersebar di berbagai situs internet, harap ganti URL dari pihak anda sendiri.
