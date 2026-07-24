@@ -15,11 +15,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 http://103.58.160.157:8278/720-MUSIKINDONESIA/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/musica.png" group-title="MUSIC",MUSICA
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/musica.png",MUSICA
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-https://ratu77.adptv.workers.dev/index.mpd?id=7619&type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=76198&type=drm
+https://tvratu.my.id/vid/index.mpd?id=7619&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MynHCnts/MIC.png" group-title="MUSIC",MIC TV
 #EXTVLCOPT:http-referer=https://mic-indo.com/live/
