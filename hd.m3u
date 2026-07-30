@@ -54,5 +54,12 @@ _______________________________________
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
+_______________________________________
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/CNN.png" group-title="Indonesia Channels",CNN Indonesia
+#EXTVLCOPT:http-user-agent=MPF_Players/537.36 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w528835010_b384000_sleng.m3u8
+
 
 
