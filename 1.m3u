@@ -1591,8 +1591,6 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Oscar
 
 
 
-#
-
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/0094920244a8673146cb15e2eae6a8207a50ac03e0d92784dcc1b3cf52c1db03.jpg" group-title="VOD", PEAKY BLINDERS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Peaky-blinders.m3u8
@@ -1602,6 +1600,760 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Peaky
 #EXTINF:-1  tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/8d/85/6a/8d856ab8-6873-f4da-816d-0663336aa0d0/relentless_poster_3840_coverart.png/1200x675.jpg" group-title="VOD", RELENTLESS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Relentless.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NnryGVjzuso/maxresdefault.jpg" group-title="FILM HOROR", SANTET DOSA DI ATAS DOSA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsantetDosa-diAtasDosa.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xlvSRI6t_PU/maxresdefault.jpg" group-title="FILM HOROR", SEBELUM DIJEMPUT NENEK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsebelum-DijemputNenek.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/webp/photo/2024/08/01/1604763664.jpg" group-title="FILM HOROR", SAKARATUL MAUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsakaratul-Maut.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn-jpr.jawapos.com/images/43/2025/06/27/mitos-malam-satu-suro-466849331.jpg" group-title="FILM HOROR", SATU SURO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsatu-Suro.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/04/13/3257753829.jpg" group-title="FILM HOROR", WARUNG POCONG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDwarung-pocong1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxPUTpOsbzSJiRXn1tvyLr7YRi7s3EHxhI3ZPW2eh2773t3UvXJFZ7T5OY&s=10" group-title="FILM HOROR", KAFIR - GERBANG SUKMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkafir-gerbangSukma1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pic.bstarstatic.com/ugc/bed5cd37981b93fae351137e7e25a25e.jpg@720w_405h_1e_1c_90q.webp" group-title="FILM HOROR", MARIABAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmariaban.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://media.kompas.tv/library/image/content_article/article_img/20251229053101.webp" group-title="FILM HOROR", ALAS ROBAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDalasRoban-A.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2025/10/22/52437-film-kuncen.jpg" group-title="FILM HOROR", KUNCEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkun-Cen01.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/03/26/3231857517.jpg" group-title="FILM HOROR", PESUGIHAN SATE GAGAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDpesugihan-SateGagak01.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x800/webp/photo/p1/134/2025/07/28/ChatGPT-Image-28-Jul-2025-151517-829203663.png" group-title="FILM HOROR", DIA BUKAN IBU (A Woman Called Mother)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDdiaBukan-Ibu.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P54SMI7YBEc/maxresdefault.jpg" group-title="FILM HOROR", KROMOLEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkromo-leo.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/VQI0FMGSe3U/maxresdefault.jpg" group-title="FILM HOROR", MAMA: PESAN DARI NERAKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDmama-PesanDariNeraka.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/10/09/sosok-ketiga-lintrik-1760009399407_169.jpeg?w=1080" group-title="FILM HOROR", SOSOK KETIGA - LINTRIK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsosok-KetigaLintrik.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hk2YdGcNC_U/maxresdefault.jpg" group-title="FILM HOROR", PENCARIAN TERAKHIR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDpencarian-Terakhir.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9qrAPnKzqhpMT5EMgqXh8oEgovb.jpg" group-title="FILM HOROR", JEMBATAN SHIRATAL MUSTAQIM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDjembatan-ShiratalMustaqim.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yOuLoQkUm3w/hq720.jpg" group-title="FILM HOROR",  PANGGILAN DARI KUBUR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://playerngefilm21.rpmlive.online/hls/m2ZXIR5I6XKoz1GLBfNyjA/xy/unjaodja/k3woec/tt/master.m3u8?v=1766826492
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2025/08/16/1772253312.jpg" group-title="FILM HOROR",  LABINAK - MEREKA ADA DI SINI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://playerngefilm21.rpmlive.online/hls/F83PeMtKlUZUeV7g2bio5g/6hf/1xmlfn69/pqzsgt/tt/master.m3u8?v=1766826492
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZisC7yjVP44/hq720.jpg", group-title="FILM HOROR", KITAB SIJJIN DAN ILLIYYIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDKitabSijjindanIlliyyin.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://magelangekspres.disway.id/upload/b2f0687e63fa3a304de67677cbf3260d.jpg", group-title="FILM HOROR", REGO NYOWO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDregoNyowo.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.idntimes.com/post/20250220/whatsapp-image-2025-02-20-at-111011-1-a00efad42421bf768fd2e39503b7fe47.jpeg", group-title="FILM HOROR", JABANG MAYIT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDjabangMayit.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rnIpDQm1o8M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCgAlvcvXuDwo1V34UBPArXzUliWQ", group-title="FILM HOROR", KAMPUNG JABANG MAYIT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkampungJabangMayit.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://imgx.parapuan.co/crop/0x0:0x0/752x408/filters:format(webp)/photo/2024/07/07/sinopsis-film-narik-sukmojpg-20240707092006.jpg" group-title="FILM HOROR", NARIK SUKMO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDnarikSukmo.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/132/2025/04/01/Lampor-Keranda-Terbang-2019-movievaganza-trans7-932156416.jpg", group-title="FILM HOROR", LAMPOR - KERANDA TERBANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDlamporKerandaTerbang.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://referensirakyat.co.id/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-29-at-12.21.01.jpeg", group-title="FILM HOROR", SIHIR PELAKOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsihirPelakor.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0hSptYxWB3E/maxresdefault.jpg", group-title="FILM HOROR", PENGABDI SETAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDpengabdiSetan.m3u8
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://stro.tv/uploads/img/6870f7a1a8e2a.jpg", SUMIATI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsumiati.m3u8
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://cdn.grid.id/crop/0x0:0x0/700x465/smart/filters:format(webp):quality(100)/photo/haifoto/original/38719_rumah-dara-2010.jpg", RUMAH DARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDrumahDara.m3u8
+
+
+
+#EXTINF:-1 tvg-id="dubID022" tvg-logo="https://img.inews.co.id/media/600/files/networks/2025/01/16/f9e9c_pengantin-setan.png" group-title="FILM HOROR",PENGANTIN SETAN
+https://files.dubbindo.site/upload/videos/2025/05/PPEQMCL9Jk6tkKTAd8LE_29_2d2637b8c1a3bef30603a3b106ff141d_video_720p_converted.mp4
+
+#EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyUoao22Imkbli9Q83rNfE7Cu1CVOyRhisA&s", PEMBANTAIAN DUKUN SANTET
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Pembantaian.Dukun.Santet.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv?
+
+#EXTINF:-1  tvg-logo="https://imgcdn.espos.id/@espos/images/2023/09/aku-tahu-kapan-kamu-mati.jpg?width=500&height=300&quality=60" group-title="FILM HOROR",AKU TAHU KAPAN KAMU MATI - DESA BUNUH DIRI
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401082271.mp4
+
+#EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://thumbor.prod.vidiocdn.com/_XbgOU8Jh4SE4JYUBJO1LKzbSdU=/1280x720/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8514881/almarhum-bc7fd8.jpg", ALMARHUM
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Almarhum.2025.1080p.NF.WEB-DL.AAC2.0.H265-Lucasan.mkv
+
+#EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2025/02/08/213356535.jpg", PETAKA GUNUNG GEDE (FHD)
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Haunting.of.Mount.Gede.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/aiC-bbBe-ck/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBT89ID6c1WSdSTZsdQKa_1dyo2kA", group-title="FILM HOROR", GOWOK (18+)
+https://playerngefilm21.rpmlive.online/hls/z9o2gM69UHwhbyVF9EtNJA/np/qt5y8p1c/vbo65f/tt/master.m3u8?v=1758651105
+
+
+
+#EXTINF:-1  tvg-logo="https://mmc.tirto.id/image/2025/07/26/film-pamali-tumbal_ratio-16x9.jpg", group-title="FILM HOROR", PAMALI
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/ilp61.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://mmc.tirto.id/image/otf/720x0/2023/02/02/jailangkung-sandekala_ratio-16x9.jpg", group-title="FILM HOROR", JAELANGKUNG SANDEKALA
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/i93rZt4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://cdn.antaranews.com/cache/1200x800/2022/05/12/IMG_20220512_135230_013.jpg", group-title="FILM HOROR", KKN - DI DESA PENARI
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/i9rZt4.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://hypeabis.id/assets/content/20230201163929000000tb.jpg", group-title="FILM HOROR", TASBIH KOSONG
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/KcZm3.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://cdns.klimg.com/resized/1200x600/p/headline/poster-kajiman-iblis-terkejam-penagih-j-269df3.jpg", group-title="FILM HOROR", KAJIMAN - IBLIS TERKEJAM PENAGIH JANJI
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/78qs1t.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/_oAGruYMsCA/maxresdefault.jpg", group-title="FILM HOROR", KHANZAB
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/86Z2tt.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2023/09/10/2913219691.jpg", group-title="FILM HOROR", AIR TERJUN PENGANTIN
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/6yfll.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://www.tangerangnews.com/assets/uploaded/photo/2023/02/03/a566382f7d4ad10d8e4ead1728ef2a32.jpg", group-title="FILM HOROR", SUZANA - MALAM JUMAT KLIWON
+https://filmovie.github.io/oq90jy/i85FtikK9rZ/k4idF.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/946/2024/08/23/InShot_20240823_172355716-3319974653.jpg", group-title="FILM HOROR", KANG MAK (PEE MAK)
+https://filmovie.github.io/96/t9960i/kafprm.mp4.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/04/14/film-dendam-malam-kelam-1744609455198_169.jpeg?w=1200", group-title="FILM HOROR", DENDAM MALAM KELAM
+https://playerngefilm21.rpmlive.online/hls/2rRhWXn58qKUi_-rI_JS9w/3vi/qt5y8p1c/gltfni/tt/master.m3u8?v=1758651105
+
+
+#EXTINF:-1  tvg-logo="https://asset-2.tribunnews.com/palu/foto/bank/images/Sinopsis-Film-horor-Indonesia-berjudul-Utusan-Iblis-Dia-Yang-Berada-di-Antara-Kita.jpg", group-title="FILM HOROR", UTUSAN IBLIS - DIA YANG BERADA DI ANTARA KITA
+https://playerngefilm21.rpmlive.online/hls/XUduEXQmr1FAqVGmJF3WvQ/ox/h9kqslgi/ikqqqz/tt/master.m3u8?v=1758651105
+
+
+#EXTINF:-1  tvg-logo="https://cms.disway.id/uploads/667820e646679f0dc62537e3dc64c37f.png", group-title="FILM HOROR", ANGKARA MURKA
+https://playerngefilm21.rpmlive.online/hls/ENVFjtQpi3t8kGxMxOkdVQ/s93/85vbczxn/iku9mm/tt/master.m3u8?v=1758651105
+
+
+#EXTINF:-1  tvg-logo="https://media.kompas.tv/library/image/content_article/article_img/20250422153321.webp", group-title="FILM HOROR", GODAAN SETAN YANG TERKUTUK
+https://playerngefilm21.rpmlive.online/hls/44Yu7LEqOS6uCRssQFDieg/luy/h9kqslgi/69jup9/tt/master.m3u8?v=1758651105
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/COuGaZEfDWM/maxresdefault.jpg" group-title="FILM HOROR", GUNA GUNA ISTRI MIUDA
+https://www.googleapis.com/drive/v3/files/1I5uN8SuiBkHWJ1BJpkKpuImNtempS4WM?alt=media&key=AIzaSyA8JJQBK6y-APg29hZn3PV5QmDI4T_Cr_o
+
+
+
+
+
+#EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/08/07/2026747104.png", PABRIK GULA (UNCUT)
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Pabrik.Gula.2025.1080p.NF.WEB-DL.DDP5.1.H.264-SEIKEL.mkv
+
+#EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://static.promediateknologi.id/crop/0x631:1059x1292/750x500/webp/photo/p1/946/2025/06/20/ClipDownApp_473768863_17856501969357297_4843955885585974054_n-2369385852.jpg", RUMAH TETEH STORY OF HELENA
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Rumah.Teteh.Story.of.Helena.2025.1080p.WEB-DL.DDP5.1.H.264-KQRM.mkv
+
+#EXTINF:-1 type="CHANNEL | VOD" group-title="FILM HOROR" tvg-logo="https://s1.dmcdn.net/v/XtGiy1dhiR51rD9FP/x720", THE LAST 7 DAY (SEBELUM 7 HARI)
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/The.Last.7.Days.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/72/2024/08/11/IMG_20240811_201204-3867138655.jpg", BANDARAWUHI DI DESA PENARI
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.kingtv (Linux;Android) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referer=www.dropbox.com
+https://www.dropbox.com/scl/fi/hco4t21ahuvljui4qqj4a/Dancing-Village-The-Curse-Begins-2024.mp4?rlkey=rkwgld4gwv7s2u6tienjkeu4y&st=1uajkzq7&dl=1
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/130/2024/02/20/Desain-tanpa-judul_20240220_222430_0000-2602609465.png" group-title="FILM HOROR", PEMANDI JENAZAH
+https://files.dubbindo.site/upload/videos/2024/07/SU3G2PGmYFPBK7L3ky6s_05_e7ce2c68130d5bd85b48ca4245268011_video_240p_converted.mp4
+
+#EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/kaltim/foto/bank/images/alas-pati-hutan-mati.jpg" group-title="FILM HOROR",ALAS PATI - HUTAN MATI
+https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/EoFQeFdr65tvAVLnLf9j0Ut2s5U=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/25475/original/belenggu-130911b.jpg" group-title="FILM HOROR",BELENGGU
+https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://cdn-brilio-net.akamaized.net/webp/news/2018/02/28/139563/1200xauto-segera-tayang-ini-5-kisah-menyeramkan-di-balik-layar-film-nini-thowok-180228q.jpg" group-title="FILM HOROR",NINI THOWOK
+https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1  tvg-logo="https://thumb.viva.id/vivajabar/1265x711/2025/05/01/6812fd2fbe15b-dasim_jabar.jpg" group-title="FILM HOROR",DASIM
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401774608.mp4
+
+#EXTINF:-1  tvg-logo="https://media.suara.com/pictures/653x366/2022/03/16/19162-film-iblis-dalam-kandungan.jpg" group-title="FILM HOROR", IBLIS DALAM KANDUNGAN
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401756243.mp4
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/90Fy8YlHCi0/maxresdefault.jpg" group-title="FILM HOROR", DIWE - HUTAN LARANGAN
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401354261.mp4
+
+
+#EXTINF:-1 type="" group-title="FILM HOROR" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/82/2024/09/23/Lembayung-okk-3660121846.jpg", LEMBAYUNG
+https://play.upns.xyz/hls/f5Jr3ih4E9FsfGlclg-eSQ/db/el9jhvkg/talzbq/tt/master.m3u8|referer=https://play.upns.xyz/&origin=https://play.upns.xyz&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+
+
+#EXTINF:-1  tvg-logo="https://mmc.tirto.id/image/2024/08/07/rumah-dinas-bapak-film_ratio-16x9.jpg" group-title="FILM HOROR",RUMAH DINAS BAPAK
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754970.mp4
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/7e3096a6328b1dc96ff9f942d72b23fe701fab1e84ee9b597eaac43826131224.jpg" group-title="FILM HOROR",GASING TENGKORAK
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401511635.mkv
+
+#EXTINF:-1  tvg-logo="https://cdn.rri.co.id/berita/Pusat_Pemberitaan/o/1745473115237-0F0DF3CA-82A5-4832-BA40-5E2BAACB2FE0/psjtbunoea920i3.jpeg" group-title="FILM HOROR",GUNDIK
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401773848.mp4
+
+#EXTINF:-1  tvg-logo="https://cdns.klimg.com/resized/800x400/p/headline/sinopsis-hantu-baru-arwah-yang-mengira--6d3bb5.jpg" group-title="FILM HOROR", HANTU BARU
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401082274.mkv
+
+#EXTINF:-1  tvg-logo="https://asset-2.tribunnews.com/tribunnewswiki/foto/bank/images/Film-Setan-Budeg.jpg" group-title="FILM HOROR", HANTU BUDEK
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401448957.mp4
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/hsL-Mjtl_7s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBJScRRQDO-mlYRDSMHD9SMibHITA" group-title="FILM HOROR", IBLIS DALAM DARAH
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401756242.mp4
+
+#EXTINF:-1  tvg-logo="https://cdn.teater.co/imgs/article-jabang-mayit-2025-1_890_490.webp" group-title="FILM HOROR",JABANG MAYIT
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401775989.mp4
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/W57pFPBZgkA/maxresdefault.jpg" group-title="FILM HOROR", JAGAL TELUH
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754472.mp4
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/GMSuW0PpRGc/maxresdefault.jpg" group-title="FILM HOROR",JALAN PULANG
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754473.mp4
+
+#EXTINF:-1  tvg-logo="https://pic.bstarstatic.com/ugc/2b365db2ec61e1fe4a6b5f16baffe67b.jpg" group-title="FILM HOROR", JANGAN DENGERIN SENDIRI
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401460714.mp4
+
+#EXTINF:-1  tvg-logo="https://www.layar.id/wp-content/uploads/2024/07/Janji-darah-1.webp" group-title="FILM HOROR", JANJI DARAH
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401483750.mp4
+
+#EXTINF:-1  tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/06/2023/04/04/JIN-QORIN_Produksi-MAXstream_Porosjakarta-1374323115.jpg" group-title="FILM HOROR", JIN QORIN
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401756244.mp4
+
+#EXTINF:-1  tvg-logo="https://asset-2.tribunnews.com/tribunnewswiki/foto/bank/images/Film-Kalung-Jailangkung.jpg" group-title="FILM HOROR", KALUNG JELANGKUNG
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400667672.mkv
+
+#EXTINF:-1  tvg-logo="https://www.dailysia.com/wp-content/uploads/2025/02/Kampung-Keramat_1.jpg" group-title="FILM HOROR", KAMPUNG KERAMAT
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754972.mp4
+
+#EXTINF:-1  tvg-logo="https://www.katamereka.co.id/assets/uploads/2025/03/e0c297_a5e593dcd1bb4379b8acb29281e88b72mv2.jpg" group-title="FILM HOROR", KEMAH TERLARANG - KESURUPAN MASSAL
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401592161.mp4
+
+#EXTINF:-1  tvg-logo="https://cdn.teater.co/imgs/article-kromoleo-2024-2_890_490.webp" group-title="FILM HOROR", KROMOLEO - THE HAUNTING
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401553146.mp4
+
+#EXTINF:-1  tvg-logo="https://imgx.sonora.id/crop/0x0:0x0/x/photo/2024/10/03/hq720-3jpg-20241003081616.jpg" group-title="FILM HOROR", KUTUKAN CALON ARANG
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754973.mp4
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/2sGzSKlxFLM/hq720.jpg" group-title="FILM HOROR", LAMPIR
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401375027.mp4
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/fiI1pz4rF8g/maxresdefault.jpg" group-title="FILM HOROR", MANTRA SURUGANA
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400982898.mp4
+
+#EXTINF:-1  tvg-logo="https://cdn.teater.co/imgs/review-marni-the-story-of-wewe-gombel-2024_890_490.webp" group-title="FILM HOROR", MARNI - THE STORY OF WEWE GOMBEL
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401483752.mp4
+
+#EXTINF:-1  tvg-logo="https://pic.bstarstatic.com/ugc/7159401dfa5bf82df37a372996e6e636.jpg" group-title="FILM HOROR", MAWANG - JANGAN SEBUT NAMANYA
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401507245.mp4
+
+#EXTINF:-1  tvg-logo="https://magelangekspres.disway.id/upload/cbb1626f0d1f4c72a33e8888c326afd1.jpg" group-title="FILM HOROR", PEREWANGAN
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754984.mp4
+
+#EXTINF:-1  tvg-logo="https://asset-2.tribunnews.com/palu/foto/bank/images/Sinopsis-Film-berjudul-Malam-Pencabut-Nyawa.jpg" group-title="FILM HOROR", RESPATI - MALAM PENCABU NYAWA
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401435168.mp4
+
+#EXTINF:-1  tvg-logo="https://i0.wp.com/dibalikcerita.com/wp-content/uploads/2024/09/ronggeng-kematian-2024-scaled-e1725164384834.jpg" group-title="FILM HOROR", RONGGENG KEMATIAN
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401755062.mp4
+
+#EXTINF:-1  tvg-logo="https://cdn.rri.co.id/berita/Padang/o/1718767267674-bandicam_2024-06-19_10-20-45-139/6l62zz4py28zwq7.jpeg" group-title="FILM HOROR", SAKARATUL MAUT
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754978.mp4
+
+#EXTINF:-1  tvg-logo="https://cdn.rri.co.id/berita/Padang/o/1730278300253-Cover-Film-Series-9-1140x570/moqulsxud67pcao.jpeg" group-title="FILM HOROR", SANTET SEGORO PITU
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754979.mp4
+
+#EXTINF:-1  tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/1088/2025/03/18/AA1B0lQB-2320786474.jpeg" group-title="FILM HOROR", SINGSOT - SIULAN KEMATIAN
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401721890.mp4
+
+#EXTINF:-1  tvg-logo="https://cdn.rri.co.id/berita/Padang/o/1734923345542-048527500_1732340360-Sorop_5/01mjexfwjlyx9pz.jpeg" group-title="FILM HOROR", SOROP
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401754980.mp4
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/vDqCGpeTd34/hq720.jpg" group-title="FILM HOROR", SOSOK KETIGA
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400937521.mkv
+
+#EXTINF:-1  tvg-logo="https://imgx.sonora.id/crop/0x0:0x0/x/photo/2024/10/06/sinopsis-film-horor-indonesia-be-20241006064242.jpg" group-title="FILM HOROR", SUMALA
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401585133.mp4
+
+#EXTINF:-1  tvg-logo="https://cdn.rri.co.id/berita/Sintang/t/1713406270467-tasbih_kosong/4c9yzpk0cxzoxji.jpeg" group-title="FILM HOROR", TASBIH KOSONG
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400947070.mp4
+
+#EXTINF:-1  tvg-logo="https://journeyofindonesia.com/wp-content/uploads/2021/06/7f2cd38b7681e6e2ef83b5a7a5385264_XL-750x500.jpg" group-title="FILM HOROR", TEMBANG LINGSIR
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401460602.mp4
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/luo62FPh1x4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAE9ifQufRj3mCQ0Ccp62Q9EQyXbg" group-title="FILM HOROR", TEMURUN
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401440707.mp4
+
+#EXTINF:-1  tvg-logo="https://cdn.rri.co.id/berita/Pusat_Pemberitaan/o/1737771357243-8xx3llh9ahp7mrx/bvub1lz32rt2w0u.jpeg" group-title="FILM HOROR", SEBELUM 7 HARI
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401752892.mp4
+
+
+
+___________________________________________________________________________________________________________________________________________
+
+
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/ogig_TEeJOIJs7JMqhydQwsgdwM=/1200x675/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1501379/original/078796300_1486550710-Gunung_Kawi.jpg" group-title="FILM HOROR", GUNUNG KAWI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401575732.mkv
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://i0.wp.com/www.biem.co/wp-content/uploads/2021/12/film-teluh.jpg", TELUH
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/877595.mp4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://i.ytimg.com/vi/6QOnXjWw9Xs/hq720.jpg", TUMBAL - THE RITUAL
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/886923.mp4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://blog-asset.jakmall.com/2024/10/silam.webp", SILAM
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/871366.mkv
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/06/24/Screenshot_20230624-184836_Instagram-2857002028.jpg", SESAT
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/16426.mp4
+
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://jadwalnonton.com/data/images/articles/2022/Inang-Film_478x280.jpg", INANG
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/881095.mp4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://cdns.klimg.com/resized/1200x600/p/photonews/potret-pemeran-film-horor-religi-qorin--9a0f38.jpg", QORIN
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/918948.mp4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://mdentertainment.com/pictures/wp-content/uploads/2022/12/3_11zon-32.jpg", RASUK 1
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/27497.mp4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://asset.kompas.com/crops/qZ0ecFt_6YEgH4dbLYZ94nzm4I0=/0x309:896x906/1200x800/data/photo/2019/09/24/5d897ae65e7bb.jpeg", RASUK 2
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/27496.mp4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://mediaindonesia.gumlet.io/news/2024/08/20/1724156188_80a45ef7512f3fc1ccdc.jpg?w=376&dpr=2.6", KUNTILANAK 1
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/818577.mp4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://i.ytimg.com/vi/DMrzdE66l2M/maxresdefault.jpg", KUNTILANAK 2
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/818578.mp4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://assets.promediateknologi.id/crop/141x171:879x623/750x500/webp/photo/2022/05/09/3329202728.jpg", KUNTILANAK 3
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/818579.mp4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://awsimages.detik.net.id/visual/2022/04/13/tutuge_169.jpeg?w=650", TUTUGE
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/923267.mp4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://i.ytimg.com/vi/Y0KavKkHOuE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAGMZ4qKCoLbDxKQcNJ4Wd--KlS9g", PAKU PONTIANAK (MALAYSIA)
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/428491.mp4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://i.ytimg.com/vi/8TVPxHVUWS8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC3wBW-B74Nyz02PI7qVmoWAsidEg",BAYI AJAIB
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/921634.mp4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://kaijuphile.com/wp-content/uploads/2025/05/Arwah-Noni-Belanda.webp", ARWAH NONI BELANDA
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/28886.mkv
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://i.ytimg.com/vi/bhgkOoWY228/sddefault.jpg", TUSUK JELANGKUNG
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/69280.mp4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://montasefilm.com/wp-content/uploads/2020/01/5e21454ce63b2.png", JANIN
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/20222.mp4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://asset-2.tribunnews.com/tribunnewswiki/foto/bank/images/Film-Wewe.jpg", WEWE
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/886924.mp4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://asset.kompas.com/crops/f6PAqrQko32dvTIX8aid7W268ug=/0x263:1000x930/1200x800/data/photo/2023/01/05/63b6a34ddef45.jpg", ANAK RATU IBLIS - ALENA
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/929400.mp4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://pic.bstarstatic.com/ugc/e6f2862cb56c67e250841d4570f27635.jpg", JERITAN MALAM
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/26619.mp4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c9fa7e7322fab4d011a8d628e3c48baf9f2586520296e87c1220e6101171054e.jpg", DANAU HITAM
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/16405.mp4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://imgx.sonora.id/crop/0x509:1080x1201/700x465/filters:format(webp):quality(50)/photo/2019/10/02/2844068544.jpg", SUNYARURI - DANUR 3
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/16406.mp4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://i.ytimg.com/vi/C_t6YKy9O8w/maxresdefault.jpg", GASING TENGKORAK
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/16408.mp4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://asset-2.tribunnews.com/tribunnewswiki/foto/bank/images/FIlm-Kafan-Sundel-Bolong.jpg", KAFAN SUNDEL BOLONG
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/16410.mp4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://i.ytimg.com/vi/C_t6YKy9O8w/maxresdefault.jpg", KALUNG JELANGKUNG
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/16411.mp4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://material.asset.catchplay.com/MDP-IN-001-A0043/artworks/posters/MDP-IN-001-A0043-P1200.jpg?hash=1759407572", POCONG RUMAH ANGKER
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/886916.mp4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://i.ytimg.com/vi/W-nrBbG_0ew/maxresdefault.jpg", MENGUSIK GERBANG IBLIS - TABU
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/886919.mp4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://asset-2.tribunnews.com/tribunnewswiki/foto/bank/images/Film-Bangkitnya-Suster-Gepeng.jpg", BANGKITNYA SUSTER GEPENG
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/16401.mp4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://i.ytimg.com/vi/SJrqVflIuKw/maxresdefault.jpg",ARWAH TUMBAL NYAI
+http://ktpremium.online:2095/movie/Halim8781/Halim8781/16400.mp4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://media.suara.com/pictures/970x544/2018/03/08/59530-poster-film-titisan-setan.jpg",Titisan Setan 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://www.googleapis.com/drive/v3/files/1gLXUYmhU0prZIO-movZzEwY-f4CbHlbx?alt=media&amp;key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://www.harapanrakyat.com/wp-content/uploads/2021/03/Sinopsis-Titisan-Setan-2-Ulah-Perempuan-Misterius-yang-Merugikan.jpg", Titisan Setan 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://www.googleapis.com/drive/v3/files/1URK_VslCvMuz7VmUzqW5-0ClKB-d40FI?alt=media&amp;key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://thumbor.prod.vidiocdn.com/dG0S3e8n5ZLry7MJBy8PkLsz13Q=/filters:quality(70)/vidio-web-prod-video/uploads/video/image/7539224/sinopsis-kabut-2021-film-horor-indonesia-13-1ffad2.jpg", Kabut
+https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=media&amp;key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+
+
+#EXTINF:-1 group-title="FILM HOROR" tvg-logo="https://mmc.tirto.id/image/2022/10/28/film-rumah-kaliurang_ratio-16x9.jpg", Rumah Kaliurang
+https://www.googleapis.com/drive/v3/files/1qH3QMgAj-NLg3uLcN3LFLZweLXcdG-Uq?alt=media&amp;key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+#EXTINF:-1 type="" group-title="FILM HOROR" tvg-logo="https://cdn.ngopibareng.id/uploads/2025/2025-01-29/sinopsis-film-pengantin-iblis-utang-dibayar-nyawa--thumbnail-245.webp",Pengantin Iblis
+https://playerx.rpmstream.online/hls/KbKGsH3b9pt2NZVOAXFK-A/gee/cvax3f5w/6sy3gk/tt/master.m3u8|referer=https://playerx.rpmstream.online/&origin=https://playerx.rpmstream.online&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tJtaTRmI9USyD9GR079DISbE7t0=/960x540/filters:quality(75)/vidio-web-prod-film/uploads/film/image_landscape/5961/makmum-37a39f.jpg" group-title="FILM HOROR", MAKMUM
+https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI8zBWKhKF-859A0efX50FNWF_VWykM5nfUA&s",Kisah Tanah Jawa: Pocong Gundul
+https://pixeldrain.com/api/file/xTZuUgAW?download
+
+
+
+
+
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://imgx.parapuan.co/crop/0x135:1080x817/260x140/filters:format(webp)/photo/2023/08/21/sinopsis-series-losmen-melatijp-20230821122246.jpg",Losmen Melati
+https://pixeldrain.com/api/file/zBP5ULUD?download
+
+
+
+
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://i.ytimg.com/vi/Au26Od1RpTs/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbBG48dMWGCtTExgh0GP8fWnFWsw",Malam Para Jahanam
+https://pixeldrain.com/api/file/a9Y8CEgx?download
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bihrapn.jpeg" group-title="FILM HOROR",40 Hari Bangkitnya Pocong
+https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://i.ytimg.com/vi/tNyCo3WtmzY/maxresdefault.jpg", Pemukiman Setan
+https://pixeldrain.com/api/file/gjPCoSJZ?download
+
+
+
+
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://i.ytimg.com/vi/tXbp2JK-QbM/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGCJp2UC0QIneJU1xCBwmVnDRVBQ",Saranjana: Kota Ghaib
+https://pixeldrain.com/api/file/vUGDTTXc?download
+
+
+
+
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://i.ytimg.com/vi/Q3bWmyvyA-I/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJNdqVZIsD3Ixrmm-Gx9fToC4iXQ",Siksa Neraka
+https://pixeldrain.com/api/file/Ya2YKE7h?download
+
+
+
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://i.ytimg.com/vi_webp/F0yPzEwP7dg/sddefault.webp",Kereta Berdarah
+https://pixeldrain.com/api/file/tVDXN7EM?download
+
+
+
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://cdns.klimg.com/resized/1200x600/p/headline/kuyang-the-movie-hadirkan-teror-mengeri-dd901d.jpg",Kuyang
+https://pixeldrain.com/api/file/BPrv72bw?download
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ratab1s.jpeg" group-title="FILM HOROR",Mumun
+https://www.googleapis.com/drive/v3/files/15YK42UQb5_lDJdhLgmJgjpHyMTRkP07C?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://i.ytimg.com/vi_webp/30bB-An0Zz4/sddefault.webp",Ritual Tumbal Terakhir
+https://pixeldrain.com/api/file/f9HdvnRd?download
+
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://assets.radartasik.id/main/2025/02/Pulung-Gantung-FotoJet-1200x675.webp" group-title="FILM HOROR",PULUNG GANTUNG (FHD)
+https://fs22.1cloudfile.com/4aPby/Pulung.Gantung.2024.1080p.WEB-DL.AAC5.1.H.264-PandaFlix.mkv?download_token=2997747b5175c46fc70f191bd50a62bdcb4d3e50d610168cd211d28600cecd90
+
+
+
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://i.ytimg.com/vi/3SPDmv9J6a0/maxresdefault.jpg", SEHIDUP SEMATI
+https://pixeldrain.com/api/file/zSNxqv5q?download
+
+
+
+
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://thumbor.prod.vidiocdn.com/ETjcVDUjvHRzNqFJh1WBLxye92g=/1280x720/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8084625/sinopsis-jagat-alam-gaib-sinden-gaib-2024-rekomendasi-film-horor-indonesia-4b2bcb.jpg",Sinden Gaib
+https://pixeldrain.com/api/file/ci2qdnsA?download
+
+
+
+
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://thumbor.prod.vidiocdn.com/q8EGRNte7XGed1vedTqTcWabjkg=/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8011821/trinil-48a2f1.jpg",Trinil - kembalikan tubuhku
+https://pixeldrain.com/api/file/gu6tTkv4?download
+
+
+
+#EXTINF:-1 tvg-id="qodrat" tvg-name="" tvg-logo="https://imusic.id/wp-content/uploads/2022/10/311316272_135221492596429_2385138342504836538_n.jpg" group-title="FILM HOROR",QODRAT (FHD)
+https://drive.usercontent.google.com/download?id=1V6SLExwnj7olzDuYh-1HcvsUdMrmA13y&export=download&authuser=0&confirm=t&uuid=a3773f99-0657-4898-ba57-06d17331d940&at=APcmpow_ZTsr7leOFtFfwF87vDO3:1744613025075
+
+
+
+#EXTINF:-1 tvg-id="painting" tvg-name="" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/01/08/ketindihan_169.png?w=1200" group-title="FILM HOROR",KETINDIHAN (FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+https://drive.usercontent.google.com/download?id=1M0-cDZv137tuR45slxHFOeYdUFebAbND&export=download&authuser=0&confirm=t&uuid=ef593f82-14ce-4182-afde-22b67401fb57&at=ALoNOgmE6_5eeLOkm-7B-rvNwT-Z:1748067298507
+
+
+
+
+#EXTINF:-1 type="movie" group-title="FILM HOROR" tvg-logo="https://asset-2.tribunnews.com/medan/foto/bank/images/MD-Pictures-kembali-memproduksi-film-horor-terbaru-berjudul-Sewu-Dino.jpg",SEWU DINO (FHD)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Sewu.Dino.2023.1080p.AMZN.WEB-DL.DDP5.1.H.265-KQRM.mkv
+
+
+
+#EXTINF:-1 type="movie" group-title="FILM HOROR" tvg-logo="https://cdns.klimg.com/resized/800x400/p/headline/sinopsis-dan-konsep-cerita-film-perjanj-5fa94a.jpg",PERJANJIAN GHAIB (FHD)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Perjanjian.Gaib.2023.mkv
+
+
+
+#EXTINF:-1 type="movie" group-title="FILM HOROR" tvg-logo="https://assets.pikiran-rakyat.com/crop/3x0:1279x645/720x0/webp/photo/2022/09/18/2587098442.jpg",HIDAYAH (FHD)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Hidayah%202023.mp4
+
+
+
+#EXTINF:-1 type="movie" group-title="FILM HOROR" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2023/01/20/para-betina-pengikut-iblis_169.jpeg?w=1200",PARA BETINA PENGIKUT IBLIS (FHD)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Para_Betina_Pengikut_Iblisjepstoe.mp4
+
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://i.ytimg.com/vi/iGtP3qJGsGI/hq720.jpg" group-title="FILM HOROR", KHANSAB (FHD)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Khanzab.2023.mp4
+
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://media.suara.com/pictures/653x366/2023/03/30/55649-poster-film-teman-tidur-instagramtemantidurthemovie.jpg" group-title="FILM HOROR",TEMAN TIDUR (FHD)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Teman.Tidur.2023.mp4
+
+
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.teater.co/imgs/article-tasbih-kosong-2023-1_890_490.webp" group-title="FILM HOROR",TASBIH KOSONG (FHD)
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Tasbih.Kosong.2023.1080p.WEB-DL.MalaySub.MSM_2.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/palu/foto/bank/images/Film-horor-Indonesia-berjudul-Thaghut.jpg" group-title="FILM HOROR",THAGHUT (FHD) 
+https://drive.usercontent.google.com/download?id=1wQui7I9Ucl9Sa1MU9ZbmIrleFbe_VEqf&export=download&authuser=0&confirm=t&uuid=ec6a583e-7b8a-44ba-9dd7-a93c9dd7a543&at=APvzH3oECIWDBprkqofOSf9Jz82S%3A1735813166311
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/x2GHfi-1gs4/maxresdefault.jpg" group-title="FILM HOROR",DOSEN GHAIB - SUDAH MALAM ATAU SUDAH TAHU (FHD) 
+https://drive.usercontent.google.com/download?id=1YslB3-jUVIsLr9EDSjaukX6dpwKZxX9R&export=download&authuser=0&confirm=t&uuid=357c1cc9-c82d-4901-b5a6-18db10f9902c&at=APvzH3rIBYS4a9CILesu8yIh3WCf%3A1735754447312
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3eDxKOXvgZ0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLABI6ZgMJk_VH1dsUreoV70UfLG8w"group-title="FILM HOROR",Menjelang Magrib
+https://www.googleapis.com/drive/v3/files/1DRC9yXAmzCudZIjptTTWU_X_9_OlMLF5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+#EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://imgx.parapuan.co/crop/0x0:0x0/x/photo/2024/09/30/sinopsis-film-sumala-vira-di-tik-20240930084405.jpg" group-title="FILM HOROR",SUMALA
+https://drive.usercontent.google.com/download?id=19wSa5iuLrVn8_uQ_R0uLX04PdE0QCV7t&export=download&authuser=1&confirm=t&uuid=0b07f81b-6d19-4a29-8fea-ee7ec791949b&at=APcmpoxKGEwsS-2Fpa_r34SLyEOe:1745250661194
+
+
+#EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://mmc.tirto.id/image/2024/12/11/film-hutang-nyawa_ratio-16x9.jpg" group-title="FILM HOROR",Hutang Nyawa
+https://drive.usercontent.google.com/download?id=1A8Jh5ZS_GqDNaX1aHVyMqxoI5SSC-ivE&export=download&authuser=1&confirm=t&uuid=2143a717-e836-4c2d-adc9-9af67f59b997&at=APcmpowm3hrltEFCLHTmrRj1GHwQ:1745280398123
+
+
+#EXTINF:-1 tvg-id="Dewan Negara" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/12/09/poster-film-racun-sangga_169.jpeg?w=1200" group-title="FILM HOROR",Racun Sangga
+https://drive.usercontent.google.com/download?id=1AEE0hVoIgqK3QG2Chl1DixPT6FKgib9N&export=download&authuser=1&confirm=t&uuid=6ba4cbdc-29e7-49d5-9f4b-bba3cf695cbf&at=APcmpox5oh3RmWHC3tJHeUpuTiD3:1745281393740
+
+
+
+#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01j2frpnsd591dr1m8fse0g4sx.jpg" group-title="FILM HOROR",KANG MAK (FHD) 
+https://drive.usercontent.google.com/download?id=1HLI1OZ6sJnN_6aVuJeVbq1CX6MN3os75&export=download&authuser=0&confirm=t&uuid=c2e93085-57d1-4be1-bdc3-00807a43582e&at=APvzH3rgln-RebiQU_tpIjD7DDzO%3A1735695013023
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4PXAJt.jpeg" group-title="FILM HOROR", Suzzanna: Bernapas Dalam Kubur
+https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+#EXTINF:-1 group-title="FILM HOROR"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUh6SKJWNTzWFZT-4q7QMMb5XiMT92X2XmCRcjD0ivG0LxHtU8WUTEt-4&s=10",POCONG NGESOT
+https://vod3.cf.dmcdn.net/sec2(Xw0XCzcBsIjS-_nnOdd5fOU3m_hpwTwZex2rUf_DWYwWVJmWkX0qE6T1ornKwtdV3NyjuBjDmHcpNeAWufGpeg7HFtU0LQLEcty7f2excNuIY-pVPYbwt00ayMamv1sDSaFJqx0rl0HB2ck7LW-KC9XESpGOPTud-oo5T8j5JElyvqlTss_F7sgnJiyniP98)/video/490/186/562681094_mp4_h264_aac_hq_2.m3u8
+
+
+
+
+
 
 
 
