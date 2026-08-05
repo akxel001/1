@@ -1,0 +1,184 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🎥 CCTV YOGYAKARTA", #INFO
+https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
+
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", VIEW SIMPANG TUGU
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Tugu.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", VIEW SELATAN TUGU
+https://cctvjss.jogjakota.go.id/margo-utomo/Toko-Cat-Wahyu.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", UTARA JL. GOWONGAN LOR
+https://cctvjss.jogjakota.go.id/margo-utomo/Gowongan-Lor.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", WIJAYA BARU TRAVEL
+https://cctvjss.jogjakota.go.id/margo-utomo/Wijaya-Baru-Travel.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", SELATAN OLIVE
+https://cctvjss.jogjakota.go.id/margo-utomo/Selatan-Olive.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", OPTIC TUGU
+https://cctvjss.jogjakota.go.id/margo-utomo/Optic-Tugu.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", UTARA TETEG
+https://cctvjss.jogjakota.go.id/margo-utomo/Wisma-Ratih.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO SELATAN TETEG
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_1_Selatan_Teteg.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO UTARA INNA
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_21_Utara_Inna_Malioboro.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO DEPAN TOKO SUBUR
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_2_Depan_Toko_Subur.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO DEPAN DPRD
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_4_Depan_DPRD.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO UTARA MALL
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_25_Utara_Mall.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO PERWAKILAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_5_Perwakilan.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO MALL UTARA
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_6_Mall_Utara.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO MUTIARA LAMA
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_8_Mutiara_Lama.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", DEPAN DISPAR
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_3_Depan_Dispar.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO MUTIARA BARU
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_9_Mutiara_Baru.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO DEPAN BPD KEPATIHAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_23_Depan_BPD_Kepatihan.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO MALL SELATAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_7_Mall_Selatan.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO TERANG BULAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_11_Terang_Bulan.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO SIMPANG PAJEKSAN SURYATMAJAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_22_Simpang_Pajeksan_Suryatmajan.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO GUNUNGMAS
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_13_Gunungmas.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO PASAR BERINGHARJO
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", MALIOBORO SIMPANG REKSOBAYAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", NOL KM. - GD. AGUNG
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_GdAgung.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", NOL KM
+https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/chunklist_w646827232.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", NOL KM UTARA
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_Utara.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", NOL KM TIMUR
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_Timur.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", PASAR GADING 1 (TIMUR)
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_PasarGading1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", PASAR GADING 2 (BARAT)
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_PasarGading2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV SUNGAI NGENTAK
+https://cctvjss.jogjakota.go.id/bpbd/BPBD_ngentak.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV RTHP BUMEN
+https://cctvjss.jogjakota.go.id/rthp/rthp_bumen.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", SIMPANG TEGALGENDU V. SELATAN
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Tegalgendu.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", SIMPANG BASEN
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Basen.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", RTHP GAJAH WONG EDU PARK 1
+https://cctvjss.jogjakota.go.id/rthp/rthp_gajahwong_edupark_1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", RTHP GAJAH WONG EDU PARK 2
+https://cctvjss.jogjakota.go.id/rthp/rthp_gajahwong_edupark_2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", RTHP GAJAH WONG EDU PARK 3
+https://cctvjss.jogjakota.go.id/rthp/rthp_gajahwong_edupark_3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", SIMPANG GAMBIRAN VIEW BARAT
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Gambiran_View_Barat.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", SIMPANG GAMBIRAN VIEW TIMUR
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Gambiran_View_Timur.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", SIMPANG GAMBIRAN 2 - JL.VETERAN
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Gambiran2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", SIMPANG REJOWINANGUN VIEW TIMUR
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Rejowinangun_View_Timur.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", KEMMJ-PENDOPO KEMANTREN
+https://cctvjss.jogjakota.go.id/kecamatan/KemMJ-PendopoKemantren.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", PASAR DEMANGAN VIEW SELATAN
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Pasar_Demangan_View_Selatan.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", PASAR DEMANGAN VIEW UTARA
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Utara.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV MALIOBORO WIJAYA BARU TRAVEL
+https://mam.jogjaprov.go.id:1937/atcs-kota/MargoUtomo_WijayaBaruTravel.stream/chunklist_w1923413933.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV SIMPANG BALAIKOTA
+https://mam.jogjaprov.go.id:1937/atcs-kota/SimpangBalaikota.stream/chunklist_w1392930099.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV PANTAI SADENG
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewSadeng.stream/chunklist_w429259440.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV VIEW NGLANGGERAN
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/chunklist_w240540471.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV VIEW ALUN-ALUN KIDUL JOGJA
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/chunklist_w1343274218.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV VIEW CANDI PRAMBANAN JOGJA
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/chunklist_w1145573537.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV MANGUNAN
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/chunklist_w1679859850.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV DEPAN GARUDA
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanGaruda.stream/chunklist_w743147999.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV BUKIT KLANGON
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBukitKlangon.stream/chunklist_w2106401630.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV CANDI IJO
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiIjo.stream/chunklist_w1226577194.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV DEPAN PLAZA MALIOBORO
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/chunklist_w913639221.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV TEBING BREKSI
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/chunklist_w130022970.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV CANDI BOKO
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiBoko.stream/chunklist_w1468652232.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV MANGUNAN
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/chunklist_w1597817762.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV CANDI RATU BOKO
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiBoko.stream/chunklist_w1595343271.m3u8
+
+#EXTINF:-1 group-title="🎥 CCTV YOGYAKARTA" tvg-logo="https://doran.id/wp-content/uploads/2024/09/image1.jpg", CCTV GUNUNG MERAPI
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w77489758.m3u8
