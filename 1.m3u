@@ -74,7 +74,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 =======================================
 
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/TRANSTV.png" group-title="NASIONAL", TransTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/TRANSTV.png" group-title="NASIONAL", TransTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 
