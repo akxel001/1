@@ -316,6 +316,8 @@ https://stream-eu-nc.arenastreaming.com:6244/stream?1767774423532
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
+#EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/indonesia_channel.png" group-title=="MOVIES" http-referrer="" http-user-agent="",The Indonesia Channel
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 
 #EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/FLIK.png" group-title="MOVIES",FLIK
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
