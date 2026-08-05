@@ -97,11 +97,9 @@ https://tvratu.my.id/vid/index.m3u8?id=777&type=hls
 
 
 
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="NASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7t2mbspy/TVONE.png",TV ONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd|referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/TVONE.png" group-title="NASIONAL", TVOne_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:124.0) Gecko/20100101 Firefox/124.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/KOMPAS.png" group-title="NASIONAL", KOMPAS TV
