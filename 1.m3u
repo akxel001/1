@@ -29,7 +29,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 =======================================
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/SCTV.png" group-title=""NASIONAL", SCTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/SCTV.png" group-title="NASIONAL", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=204
