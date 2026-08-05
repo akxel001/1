@@ -676,6 +676,9 @@ http://74.91.26.218:82/live/vlzrf.m3u8
 #EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/stepehncow.png",STEPHEN CHOW MOVIES
 http://74.91.26.218:82/live/vlzxc.m3u8
 
+#EXTINF:-1 tvg-id="SARI-SARI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sari-Sari_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20151206073105" group-title="Extra Channel",sari mabuhai 🇵🇭
+https://live20.bozztv.com/giatvplayout7/giatv-210273/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/sonypix_combined.png",SONY PIX
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/276918.m3u8
