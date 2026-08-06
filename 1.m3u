@@ -1,6 +1,4 @@
 #EXTM3U
-#########################################################"Nasional"########################################################################################
-
 ==================================================Indonesia=Channels==================================================
 
 #EXTINF:-1 group-title="NASIONAL" tvg-name="MNCTV" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/MNC.png",MNCTV
@@ -33,7 +31,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=204
-https://tvratu.my.id/vid/index.mpd?id=204
+https://beetv.my.id/stream/vd.m3u8?ch=sctv
 
 
 
@@ -44,7 +42,7 @@ https://tvratu.my.id/vid/index.mpd?id=204
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=205&type=drm
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
 
 
@@ -89,9 +87,11 @@ http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/METROTV.png" group-title="NASIONAL", METRO TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:124.0) Gecko/20100101 Firefox/124.0
-https://tvratu.my.id/vid/index.m3u8?id=777&type=hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/METROTV.png" group-title="NASIONAL",METRO TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://edge-medcom.streamized.net/live-edge/smil:metro.smil/playlist.m3u8
 
 
 
@@ -680,10 +680,6 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="MoviesNow.in@SD" group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/movies_now_combined.png",Movies Now
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="RomedyNow.in@SD" group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/romedy_now_combined.png",Romedy Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
