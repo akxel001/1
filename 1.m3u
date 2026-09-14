@@ -53,78 +53,118 @@ https://parahyangan.staratv.id/hls/0/stream.m3u8
 https://cianjur.staratv.id/hls/0/stream.m3u8
 
 #########################################################"TV NASINAL"########################################################################################
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RCTI.png" group-title="NASIONAL",RCTI KP
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RCTI.png" group-title="TV NASIONAL",RCTI OT
+https://ogietv.biz.id:443/Livetv/234/1316.m3u8
+
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MNC.png" group-title="TV NASIONAL",MNC TV OT
+https://ogietv.biz.id:443/Livetv/234/1317.m3u8
+
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="TV NASIONAL",GTV OT
+https://ogietv.biz.id:443/Livetv/234/1318.m3u8
+
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INEWS.png" group-title="TV NASIONAL",INEWS OT
+https://ogietv.biz.id:443/Livetv/234/1336.m3u8
+
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SCTV.png" group-title="TV NASIONAL",SCTV OT
+https://ogietv.biz.id:443/Livetv/234/1324.m3u8
+
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INDOSIAR.png" group-title="TV NASIONAL",INDOSIAR OT
+https://ogietv.biz.id:443/Livetv/234/1325.m3u8
+
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANSTV.png" group-title="TV NASIONAL",TRANS TV OT
+https://ogietv.biz.id:443/Livetv/234/1310.m3u8
+
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/METROTV.png" group-title="TV NASIONAL",METRO TV OT
+https://ogietv.biz.id:443/Livetv/234/1330.m3u8
+
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/KOMPAS.png" group-title="TV NASIONAL",KOMPAS TV OT
+https://ogietv.biz.id:443/Livetv/234/1331.m3u8
+
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RTV.png" group-title="TV NASIONAL",RTV OT
+https://ogietv.biz.id:443/Livetv/234/1340.m3u8
+
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVONE.png" group-title="TV NASIONAL",TVONE OT
+https://ogietv.biz.id:443/Livetv/234/1345.m3u8
+
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNN.png" group-title="TV NASIONAL",CNN INDONESIA OT
+https://ogietv.biz.id:443/Livetv/234/1496.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RCTI.png" group-title="TV NASIONAL",RCTI KP
 http://ktpremium.world:2095/live/LT8011/827317/73606.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SCTV.png" group-title="NASIONAL",SCTV KP
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SCTV.png" group-title="TV NASIONAL",SCTV KP
 http://ktpremium.world:2095/live/LT8011/827317/73607.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANSTV.png" group-title="NASIONAL",TRANS TV KP
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANSTV.png" group-title="TV NASIONAL",TRANS TV KP
 http://ktpremium.world:2095/live/LT8011/827317/73608.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANS7.png" group-title="NASIONAL",TRANS 7 KP
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANS7.png" group-title="TV NASIONAL",TRANS 7 KP
 http://ktpremium.world:2095/live/LT8011/827317/73609.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVONE.png" group-title="NASIONAL",TV ONE KP
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVONE.png" group-title="TV NASIONAL",TV ONE KP
 http://ktpremium.world:2095/live/LT8011/827317/73610.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/METROTV.png" group-title="NASIONAL",METRO TV KP
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/METROTV.png" group-title="TV NASIONAL",METRO TV KP
 http://ktpremium.world:2095/live/LT8011/827317/73611.m3u8
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/KOMPAS.png" group-title="NASIONAL",KOMPAS TV KP
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/KOMPAS.png" group-title="TV NASIONAL",KOMPAS TV KP
 http://ktpremium.world:2095/live/LT8011/827317/73612.m3u8
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNN.png" group-title="NASIONAL",CNN INDONESIA KP
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNN.png" group-title="TV NASIONAL",CNN INDONESIA KP
 http://ktpremium.world:2095/live/LT8011/827317/73613.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="NASIONAL",MD TV KP
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="TV NASIONAL",MD TV KP
 http://ktpremium.world:2095/live/LT8011/827317/73615.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MNC.png" group-title="NASIONAL",MNC TV KP
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MNC.png" group-title="TV NASIONAL",MNC TV KP
 http://ktpremium.world:2095/live/LT8011/827317/73616.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INDOSIAR.png" group-title="NASIONAL",INDOSIAR KP
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INDOSIAR.png" group-title="TV NASIONAL",INDOSIAR KP
 http://ktpremium.world:2095/live/LT8011/827317/73617.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ANTV.png" group-title="NASIONAL",ANTV KP
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ANTV.png" group-title="TV NASIONAL",ANTV KP
 http://ktpremium.world:2095/live/LT8011/827317/73618.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="NASIONAL",GTV KP
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="TV NASIONAL",GTV KP
 http://ktpremium.world:2095/live/LT8011/827317/73619.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVRI.png" group-title="NASIONAL",TVRI
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVRI.png" group-title="TV NASIONAL",TVRI
 http://ktpremium.world:2095/live/LT8011/827317/73620.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GARUDA.png" group-title="NASIONAL",GARUDA TV KP
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GARUDA.png" group-title="TV NASIONAL",GARUDA TV KP
 http://ktpremium.world:2095/live/LT8011/827317/73631.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MOJI.png" group-title="NASIONAL",MOJI TV KP
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MOJI.png" group-title="TV NASIONAL",MOJI TV KP
 http://ktpremium.world:2095/live/LT8011/827317/901194.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RCTI.png" group-title="NASIONAL",RCTI HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RCTI.png" group-title="TV NASIONAL",RCTI HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302297
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SCTV.png" group-title="NASIONAL",SCTV HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SCTV.png" group-title="TV NASIONAL",SCTV HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302301
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INDOSIAR.png" group-title="NASIONAL",INDOSIAR HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INDOSIAR.png" group-title="TV NASIONAL",INDOSIAR HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302264
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANSTV.png" group-title="NASIONAL",TRANS TV HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANSTV.png" group-title="TV NASIONAL",TRANS TV HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302312
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANS7.png" group-title="NASIONAL",TRANS 7 HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANS7.png" group-title="TV NASIONAL",TRANS 7 HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ANTV.png" group-title="NASIONAL",ANTV HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ANTV.png" group-title="TV NASIONAL",ANTV HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302206
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="NASIONAL",GTV HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="TV NASIONAL",GTV HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302247
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MNC.png" group-title="NASIONAL",MNC TV HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MNC.png" group-title="TV NASIONAL",MNC TV HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302278
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/NET.png" group-title="NASIONAL",NET HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/NET.png" group-title="TV NASIONAL",NET HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302288
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MOJI.png" group-title="NASIONAL",MOJI HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MOJI.png" group-title="TV NASIONAL",MOJI HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302279
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVONE.png" group-title="NASIONAL",TVONE HD
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVONE.png" group-title="TV NASIONAL",TVONE HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/501281
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/METROTV.png" group-title="NASIONAL",METRO TV HD
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/METROTV.png" group-title="TV NASIONAL",METRO TV HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302273
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/KOMPAS.png" group-title="NASIONAL",KOMPAS TV HD
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/KOMPAS.png" group-title="TV NASIONAL",KOMPAS TV HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302271
 
 
@@ -2344,6 +2384,50 @@ http://ktpremium.world:2095/live/LT8011/827317/1113872.m3u8
 http://ktpremium.world:2095/live/LT8011/827317/1113873.m3u8
 #EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",三立国际台
 http://ktpremium.world:2095/live/LT8011/827317/1113874.m3u8
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="OT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CINEMAX.png" group-title="OT",CINEMAX HD
+https://ogietv.biz.id:443/Livetv/234/1372.m3u8
+
+#EXTINF:-1 tvg-id="OT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO.png" group-title="OT",HBO HD
+https://ogietv.biz.id:443/Livetv/234/1363.m3u8
+
+#EXTINF:-1 tvg-id="OT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO-SIGNATURE.png" group-title="OT",HBO SIGNATURE HD
+https://ogietv.biz.id:443/Livetv/234/1365.m3u8
+
+#EXTINF:-1 tvg-id="OT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO-HITS.png" group-title="OT",HBO HITS HD
+https://ogietv.biz.id:443/Livetv/234/1367.m3u8
+
+#EXTINF:-1 tvg-id="OT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO-FAMILY.png" group-title="OT",HBO FAMILY HD
+https://ogietv.biz.id:443/Livetv/234/1370.m3u8
+
+#EXTINF:-1 tvg-id="OT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="OT",BIOSKOP INDONESIA HD
+https://ogietv.biz.id:443/Livetv/234/1377.m3u8
+
+#EXTINF:-1 tvg-id="OT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/FLIK.png" group-title="OT",FLIK HD
+https://ogietv.biz.id:443/Livetv/234/1379.m3u8
+
+#EXTINF:-1 tvg-id="OT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CW.png" group-title="OT",CINEMAWORLD HD
+https://ogietv.biz.id:443/Livetv/234/1382.m3u8
+
+#EXTINF:-1 tvg-id="OT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CCM.png" group-title="OT",CELESTIAL MOVIES HD
+https://ogietv.biz.id:443/Livetv/234/1385.m3u8
+
+#EXTINF:-1 tvg-id="OT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/WB.png" group-title="OT",WARNER TV HD
+https://ogietv.biz.id:443/Livetv/234/1387.m3u8
+
+#EXTINF:-1 tvg-id="OT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GALAXY-P.png" group-title="OT",GALAXY PREMIUM HD
+https://ogietv.biz.id:443/Livetv/234/1390.m3u8
+
+#EXTINF:-1 tvg-id="OT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVNM.png" group-title="OT",TVN MOVIES HD
+https://ogietv.biz.id:443/Livetv/234/1401.m3u8
+
+#EXTINF:-1 tvg-id="OT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AXN.png" group-title="OT",AXN HD
+https://ogietv.biz.id:443/Livetv/234/1402.m3u8
+
 
 
 
