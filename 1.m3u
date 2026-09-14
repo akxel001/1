@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="RADIO" ch-number="80" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Rasilima.png",RASILIMA FM
 https://stream-eu-nc.arenastreaming.com:6244/stream?1767774423532
 
+
+
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Noah.png", Non-Stop music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCXWOf2fdWef8tbv1X27JHzw
@@ -1786,6 +1789,13 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302243
 
 
 
+#EXTINF:-1 tvg-id="DRAMA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CDrama.png" group-title="DRAMA",CITRA DRAMA KP
+http://ktpremium.world:2095/live/LT8011/827317/901193.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="DRAMA",ASTRO RANIA HD(TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/908356.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="DRAMA",ASTRO AURA HD(TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/908357.m3u8
+
 
 
 
@@ -1857,10 +1867,8 @@ http://ktpremium.world:2095/live/LT8011/827317/912833.m3u8
 http://ktpremium.world:2095/live/LT8011/827317/25862.m3u8
 #EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO OASIS HD
 http://ktpremium.world:2095/live/LT8011/827317/25864.m3u8
-#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO RANIA HD(TOKEN)
-http://ktpremium.world:2095/live/LT8011/827317/908356.m3u8
-#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO AURA HD(TOKEN)
-http://ktpremium.world:2095/live/LT8011/827317/908357.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",CELEBRITIESTV
+http://ktpremium.world:2095/live/LT8011/827317/73614.m3u8
 #EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TV ALHIJRAH
 http://ktpremium.world:2095/live/LT8011/827317/25906.m3u8
 #EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",COLORS HD
