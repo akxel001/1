@@ -49,6 +49,40 @@ https://parahyangan.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/staratv_combined.png" group-title="MUSIC",Stara TV Cianjur
 https://cianjur.staratv.id/hls/0/stream.m3u8
 
+#########################################################"TV NASINAL"########################################################################################
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RCTI.png" group-title="NASIONAL",RCTI KP
+http://ktpremium.world:2095/live/LT8011/827317/73606.m3u8
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SCTV.png" group-title="NASIONAL",SCTV KP
+http://ktpremium.world:2095/live/LT8011/827317/73607.m3u8
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANSTV.png" group-title="NASIONAL",TRANS TV KP
+http://ktpremium.world:2095/live/LT8011/827317/73608.m3u8
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANS7.png" group-title="NASIONAL",TRANS 7 KP
+http://ktpremium.world:2095/live/LT8011/827317/73609.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVONE.png" group-title="NASIONAL",TV ONE KP
+http://ktpremium.world:2095/live/LT8011/827317/73610.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/METROTV.png" group-title="NASIONAL",METRO TV KP
+http://ktpremium.world:2095/live/LT8011/827317/73611.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/KOMPAS.png" group-title="NASIONAL",KOMPAS TV KP
+http://ktpremium.world:2095/live/LT8011/827317/73612.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNN.png" group-title="NASIONAL",CNN INDONESIA KP
+http://ktpremium.world:2095/live/LT8011/827317/73613.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="NASIONAL",MD TV KP
+http://ktpremium.world:2095/live/LT8011/827317/73615.m3u8
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MNC.png" group-title="NASIONAL",MNC TV KP
+http://ktpremium.world:2095/live/LT8011/827317/73616.m3u8
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INDOSIAR.png" group-title="NASIONAL",INDOSIAR KP
+http://ktpremium.world:2095/live/LT8011/827317/73617.m3u8
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ANTV.png" group-title="NASIONAL",ANTV KP
+http://ktpremium.world:2095/live/LT8011/827317/73618.m3u8
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="NASIONAL",GTV KP
+http://ktpremium.world:2095/live/LT8011/827317/73619.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVRI.png" group-title="NASIONAL",TVRI
+http://ktpremium.world:2095/live/LT8011/827317/73620.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GARUDA.png" group-title="NASIONAL",GARUDA TV KP
+http://ktpremium.world:2095/live/LT8011/827317/73631.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MOJI.png" group-title="NASIONAL",MOJI TV KP
+http://ktpremium.world:2095/live/LT8011/827317/901194.m3u8
+
 
 
 
@@ -1975,48 +2009,7 @@ http://ktpremium.world:2095/live/LT8011/827317/26297.m3u8
 http://ktpremium.world:2095/live/LT8011/827317/897360.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",INEWTV
 http://ktpremium.world:2095/live/LT8011/827317/73605.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RCTI.png" group-title="KTPREMIUM",RCTI
-http://ktpremium.world:2095/live/LT8011/827317/73606.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SCTV.png" group-title="KTPREMIUM",SCTV
-http://ktpremium.world:2095/live/LT8011/827317/73607.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANSTV.png" group-title="KTPREMIUM",TRANS TV
-http://ktpremium.world:2095/live/LT8011/827317/73608.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANS7.png" group-title="KTPREMIUM",TRANS 7
-http://ktpremium.world:2095/live/LT8011/827317/73609.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVONE.png" group-title="KTPREMIUM",TV ONE
-http://ktpremium.world:2095/live/LT8011/827317/73610.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/METROTV.png" group-title="KTPREMIUM",METRO TV
-http://ktpremium.world:2095/live/LT8011/827317/73611.m3u8
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/KOMPAS.png" group-title="KTPREMIUM",KOMPAS TV
-http://ktpremium.world:2095/live/LT8011/827317/73612.m3u8
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNN.png" group-title="KTPREMIUM",CNN INDONESIA
-http://ktpremium.world:2095/live/LT8011/827317/73613.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",CELEBRITIESTV
-http://ktpremium.world:2095/live/LT8011/827317/73614.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",MD TV
-http://ktpremium.world:2095/live/LT8011/827317/73615.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MNC.png" group-title="KTPREMIUM",MNC TV
-http://ktpremium.world:2095/live/LT8011/827317/73616.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INDOSIAR.png" group-title="KTPREMIUM",INDOSIAR
-http://ktpremium.world:2095/live/LT8011/827317/73617.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ANTV.png" group-title="KTPREMIUM",ANTV
-http://ktpremium.world:2095/live/LT8011/827317/73618.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="KTPREMIUM",GTV
-http://ktpremium.world:2095/live/LT8011/827317/73619.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVRI.png" group-title="KTPREMIUM",TVRI
-http://ktpremium.world:2095/live/LT8011/827317/73620.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",DHOHO TV
-http://ktpremium.world:2095/live/LT8011/827317/73626.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",JTV
-http://ktpremium.world:2095/live/LT8011/827317/73627.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CMuslim.png" group-title="KTPREMIUM",TV9 NU
-http://ktpremium.world:2095/live/LT8011/827317/73629.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GARUDA.png" group-title="KTPREMIUM",GARUDA TV
-http://ktpremium.world:2095/live/LT8011/827317/73631.m3u8
-#EXTINF:-1 tvg-id="DRAMA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CDrama.png" group-title="KTPREMIUM",CITRA DRAMA
-http://ktpremium.world:2095/live/LT8011/827317/901193.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MOJI.png" group-title="KTPREMIUM",MOJI TV
-http://ktpremium.world:2095/live/LT8011/827317/901194.m3u8
+
 #EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ZEE.png" group-title="KTPREMIUM",ALJAZEERA
 http://ktpremium.world:2095/live/LT8011/827317/73642.m3u8
 #EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNN.png" group-title="KTPREMIUM",CNN INTERNATIONAL
