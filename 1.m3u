@@ -2072,180 +2072,592 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302243
 
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INEWS.png" group-title="KTPREMIUM",INEWTV
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO 30
+http://ktpremium.world:2095/live/LT8011/827317/1022746.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TV1
+http://ktpremium.world:2095/live/LT8011/827317/25808.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TV1  (DIRECT SOURCE)
+http://ktpremium.world:2095/live/LT8011/827317/912825.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TV2
+http://ktpremium.world:2095/live/LT8011/827317/25809.m3u8
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TV3
+http://ktpremium.world:2095/live/LT8011/827317/25810.m3u8
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TV3 (A)
+http://ktpremium.world:2095/live/LT8011/827317/912827.m3u8
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TV3 (B)
+http://ktpremium.world:2095/live/LT8011/827317/912828.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",NTV7
+http://ktpremium.world:2095/live/LT8011/827317/25811.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",8TV
+http://ktpremium.world:2095/live/LT8011/827317/25812.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TV9
+http://ktpremium.world:2095/live/LT8011/827317/25813.m3u8
+#EXTINF:-1 tvg-id="DRAMA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",DRAMA HEBAT
+http://ktpremium.world:2095/live/LT8011/827317/999746.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",OH MY CERIA
+http://ktpremium.world:2095/live/LT8011/827317/1019162.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",JOM NGAJI
+http://ktpremium.world:2095/live/LT8011/827317/1019163.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",FILEM MANTAP
+http://ktpremium.world:2095/live/LT8011/827317/1025978.m3u8
+#EXTINF:-1 tvg-id="DRAMA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",DRAMA HOTPOT
+http://ktpremium.world:2095/live/LT8011/827317/1025979.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Ent.png" group-title="KTPREMIUM",LAWAK SENTRAL
+http://ktpremium.world:2095/live/LT8011/827317/1025980.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TVS
+http://ktpremium.world:2095/live/LT8011/827317/656643.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",TV IKIM
+http://ktpremium.world:2095/live/LT8011/827317/656644.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",OKEY TV
+http://ktpremium.world:2095/live/LT8011/827317/656682.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",OKEY TV (DIRECT SOURCE)
+http://ktpremium.world:2095/live/LT8011/827317/25875.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",BERITA RTM
+http://ktpremium.world:2095/live/LT8011/827317/900904.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",[SG] CHANNEL 5
+http://ktpremium.world:2095/live/LT8011/827317/25833.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",[SG] CHANNEL 8
+http://ktpremium.world:2095/live/LT8011/827317/25834.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",[SG] CHANNEL U
+http://ktpremium.world:2095/live/LT8011/827317/25835.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",[SG] CNA
+http://ktpremium.world:2095/live/LT8011/827317/25837.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",[SG] SURIA
+http://ktpremium.world:2095/live/LT8011/827317/25844.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",[SG] VASANTHAM
+http://ktpremium.world:2095/live/LT8011/827317/25848.m3u8
+#EXTINF:-1 tvg-id="DRAMA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO CITRA(TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/25852.m3u8
+#EXTINF:-1 tvg-id="DRAMA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO CITRA (B)
+http://ktpremium.world:2095/live/LT8011/827317/913177.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO RIA HD(TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/25855.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO RIA HD (B)
+http://ktpremium.world:2095/live/LT8011/827317/912833.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO PRIMA HD(TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/25862.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO OASIS HD
+http://ktpremium.world:2095/live/LT8011/827317/25864.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO RANIA HD(TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/908356.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO AURA HD(TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/908357.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TV ALHIJRAH
+http://ktpremium.world:2095/live/LT8011/827317/25906.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",COLORS HD
+http://ktpremium.world:2095/live/LT8011/827317/25928.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO VAANAVIL
+http://ktpremium.world:2095/live/LT8011/827317/25959.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO VINMEEN
+http://ktpremium.world:2095/live/LT8011/827317/1012902.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO VELLITHIRAI
+http://ktpremium.world:2095/live/LT8011/827317/918423.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",SUN TV
+http://ktpremium.world:2095/live/LT8011/827317/911358.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",SUN MUSIC
+http://ktpremium.world:2095/live/LT8011/827317/25933.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",ADITHYA
+http://ktpremium.world:2095/live/LT8011/827317/26242.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",SUN NEWS
+http://ktpremium.world:2095/live/LT8011/827317/911013.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",KTV
+http://ktpremium.world:2095/live/LT8011/827317/511756.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",SUN LIFE
+http://ktpremium.world:2095/live/LT8011/827317/25934.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO STAR VIJAY HD
+http://ktpremium.world:2095/live/LT8011/827317/25944.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",COLORS TAMIL
+http://ktpremium.world:2095/live/LT8011/827317/25947.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",Z TAMIL HD
+http://ktpremium.world:2095/live/LT8011/827317/25949.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",ABO MOVIES THANGATHIRAI
+http://ktpremium.world:2095/live/LT8011/827317/1012903.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",Z CINEMA HD
+http://ktpremium.world:2095/live/LT8011/827317/911366.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",爱奇艺 IQIYI
+http://ktpremium.world:2095/live/LT8011/827317/25961.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",AEC HD
+http://ktpremium.world:2095/live/LT8011/827317/25968.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO QJ(TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/25970.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",翡翠华丽台
+http://ktpremium.world:2095/live/LT8011/827317/25972.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO AOD(双音轨)
+http://ktpremium.world:2095/live/LT8011/827317/912839.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",欢喜台
+http://ktpremium.world:2095/live/LT8011/827317/25973.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TVB 星河(双音轨)
+http://ktpremium.world:2095/live/LT8011/827317/25977.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TVB 经典台
+http://ktpremium.world:2095/live/LT8011/827317/25979.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Ent.png" group-title="KTPREMIUM",TVB ENTERTAINMENT NEWS HD
+http://ktpremium.world:2095/live/LT8011/827317/918425.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",天映频道 HD(双音轨)
+http://ktpremium.world:2095/live/LT8011/827317/25981.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",天映经典 (双音轨)
+http://ktpremium.world:2095/live/LT8011/827317/25982.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",PHOENIX CHINESE CHANNEL HD
+http://ktpremium.world:2095/live/LT8011/827317/25984.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",PHOENIX INFO NEWS HD
+http://ktpremium.world:2095/live/LT8011/827317/25985.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TVBS ASIA HD
+http://ktpremium.world:2095/live/LT8011/827317/25986.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",中天亚洲
+http://ktpremium.world:2095/live/LT8011/827317/25987.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HITS.png" group-title="KTPREMIUM",HITS NOW
+http://ktpremium.world:2095/live/LT8011/827317/25990.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVNM.png" group-title="KTPREMIUM",TVN HD
+http://ktpremium.world:2095/live/LT8011/827317/26001.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVNM.png" group-title="KTPREMIUM",TVN MOVIES
+http://ktpremium.world:2095/live/LT8011/827317/26003.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",KBS WORLD HD
+http://ktpremium.world:2095/live/LT8011/827317/26006.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO DAEBAK
+http://ktpremium.world:2095/live/LT8011/827317/26009.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",K-PLUS
+http://ktpremium.world:2095/live/LT8011/827317/26029.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",BOO
+http://ktpremium.world:2095/live/LT8011/827317/834387.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO SHOWTIME HD
+http://ktpremium.world:2095/live/LT8011/827317/916397.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO.png" group-title="KTPREMIUM",HBO HD(SUB)
+http://ktpremium.world:2095/live/LT8011/827317/26076.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CK.png" group-title="KTPREMIUM",ROCK X STREAM HD
+http://ktpremium.world:2095/live/LT8011/827317/916401.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HITS.png" group-title="KTPREMIUM",HBO HITS (SUB)
+http://ktpremium.world:2095/live/LT8011/827317/26077.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO.png" group-title="KTPREMIUM",HBO SIGNATURE (SUB)
+http://ktpremium.world:2095/live/LT8011/827317/26080.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CK.png" group-title="KTPREMIUM",ROCK ACTION
+http://ktpremium.world:2095/live/LT8011/827317/916400.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO.png" group-title="KTPREMIUM",HBO FAMILY (SUB)
+http://ktpremium.world:2095/live/LT8011/827317/656642.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",FAM TIME
+http://ktpremium.world:2095/live/LT8011/827317/916398.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CINEMAX.png" group-title="KTPREMIUM",CINEMAX (SUB)
+http://ktpremium.world:2095/live/LT8011/827317/901187.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO SHOWCASE
+http://ktpremium.world:2095/live/LT8011/827317/916399.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/THRILL.png" group-title="KTPREMIUM",THRILL
+http://ktpremium.world:2095/live/LT8011/827317/26094.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",CINEEDGE
+http://ktpremium.world:2095/live/LT8011/827317/26097.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HITS.png" group-title="KTPREMIUM",HITS MOVIES HD
+http://ktpremium.world:2095/live/LT8011/827317/26102.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",[UK] SKY NEWS HD
+http://ktpremium.world:2095/live/LT8011/827317/26156.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ONE.png" group-title="KTPREMIUM",EURONEWS
+http://ktpremium.world:2095/live/LT8011/827317/26158.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",ABC AUSTRALIA
+http://ktpremium.world:2095/live/LT8011/827317/26160.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",DW HD
+http://ktpremium.world:2095/live/LT8011/827317/26162.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",FRANCE24 HD
+http://ktpremium.world:2095/live/LT8011/827317/26165.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO AWANI HD
+http://ktpremium.world:2095/live/LT8011/827317/26167.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",BERNAMA NEWS
+http://ktpremium.world:2095/live/LT8011/827317/26169.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNN.png" group-title="KTPREMIUM",CNN HD
+http://ktpremium.world:2095/live/LT8011/827317/26171.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",BBC NEWS HD
+http://ktpremium.world:2095/live/LT8011/827317/26174.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",AL-JAZZERA HD
+http://ktpremium.world:2095/live/LT8011/827317/26177.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",BLOOMBERG TV
+http://ktpremium.world:2095/live/LT8011/827317/26179.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CTV.png" group-title="KTPREMIUM",CCTV4 HD
+http://ktpremium.world:2095/live/LT8011/827317/26181.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",CGTN
+http://ktpremium.world:2095/live/LT8011/827317/26192.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNBC.png" group-title="KTPREMIUM",CNBC ASIA HD
+http://ktpremium.world:2095/live/LT8011/827317/26195.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RE.png" group-title="KTPREMIUM",LOVE NATURE
+http://ktpremium.world:2095/live/LT8011/827317/916402.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",GLOBAL TREKKER
+http://ktpremium.world:2095/live/LT8011/827317/916403.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CW.png" group-title="KTPREMIUM",NATGEO HD
+http://ktpremium.world:2095/live/LT8011/827317/26197.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CW.png" group-title="KTPREMIUM",NATGEO WILD HD
+http://ktpremium.world:2095/live/LT8011/827317/26205.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",DISCOVERY HD
+http://ktpremium.world:2095/live/LT8011/827317/26207.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",DISCOVERY ASIA
+http://ktpremium.world:2095/live/LT8011/827317/26209.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/NET.png" group-title="KTPREMIUM",ANIMAL PLANET HD
+http://ktpremium.world:2095/live/LT8011/827317/26211.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CW.png" group-title="KTPREMIUM",HISTORY HD
+http://ktpremium.world:2095/live/LT8011/827317/26213.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",CERIA (TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/912821.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TUTOR TV
+http://ktpremium.world:2095/live/LT8011/827317/912561.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ANIMAX
+http://ktpremium.world:2095/live/LT8011/827317/26240.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ANIPLUS
+http://ktpremium.world:2095/live/LT8011/827317/1122906.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",BLIPPI AND FRIENDS
+http://ktpremium.world:2095/live/LT8011/827317/1012102.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",MOONBUG KIDS
+http://ktpremium.world:2095/live/LT8011/827317/26200.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CA.png" group-title="KTPREMIUM",CARTOON NTWK HD
+http://ktpremium.world:2095/live/LT8011/827317/26273.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CK.png" group-title="KTPREMIUM",NICKELODEON HD
+http://ktpremium.world:2095/live/LT8011/827317/26275.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CK.png" group-title="KTPREMIUM",NICK JR
+http://ktpremium.world:2095/live/LT8011/827317/26276.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",BABY TV
+http://ktpremium.world:2095/live/LT8011/827317/26277.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AXN.png" group-title="KTPREMIUM",AXN HD
+http://ktpremium.world:2095/live/LT8011/827317/26282.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HITS.png" group-title="KTPREMIUM",HITS HD
+http://ktpremium.world:2095/live/LT8011/827317/26284.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TLC HD
+http://ktpremium.world:2095/live/LT8011/827317/26285.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",[UK] FOOD NTWK HD
+http://ktpremium.world:2095/live/LT8011/827317/26286.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/NET.png" group-title="KTPREMIUM",ASIAN FOOD NETWORK
+http://ktpremium.world:2095/live/LT8011/827317/916125.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",LIFETIME
+http://ktpremium.world:2095/live/LT8011/827317/656641.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CK.png" group-title="KTPREMIUM",ROCK ENTERTAINMENT HD
+http://ktpremium.world:2095/live/LT8011/827317/656633.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CK.png" group-title="KTPREMIUM",ROCK ACTION HD
+http://ktpremium.world:2095/live/LT8011/827317/656639.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",C&I HD
+http://ktpremium.world:2095/live/LT8011/827317/26288.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",BBC EARTH HD
+http://ktpremium.world:2095/live/LT8011/827317/26290.m3u8
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="KTPREMIUM",HGTV HD
+http://ktpremium.world:2095/live/LT8011/827317/26294.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",[UK] DMAX HD
+http://ktpremium.world:2095/live/LT8011/827317/26296.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CEnt.png" group-title="KTPREMIUM",COMEDY CENTRAL
+http://ktpremium.world:2095/live/LT8011/827317/26297.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",RTB SUKMAINDERA
+http://ktpremium.world:2095/live/LT8011/827317/897360.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",INEWTV
 http://ktpremium.world:2095/live/LT8011/827317/73605.m3u8
-
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RCTI.png" group-title="KTPREMIUM",RCTI
 http://ktpremium.world:2095/live/LT8011/827317/73606.m3u8
-
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SCTV.png" group-title="KTPREMIUM",SCTV
 http://ktpremium.world:2095/live/LT8011/827317/73607.m3u8
-
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANSTV.png" group-title="KTPREMIUM",TRANS TV
 http://ktpremium.world:2095/live/LT8011/827317/73608.m3u8
-
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANS7.png" group-title="KTPREMIUM",TRANS 7
 http://ktpremium.world:2095/live/LT8011/827317/73609.m3u8
-
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVONE.png" group-title="KTPREMIUM",TV ONE
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVONE.png" group-title="KTPREMIUM",TV ONE
 http://ktpremium.world:2095/live/LT8011/827317/73610.m3u8
-
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/METROTV.png" group-title="KTPREMIUM",METRO TV
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/METROTV.png" group-title="KTPREMIUM",METRO TV
 http://ktpremium.world:2095/live/LT8011/827317/73611.m3u8
-
 #EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/KOMPAS.png" group-title="KTPREMIUM",KOMPAS TV
 http://ktpremium.world:2095/live/LT8011/827317/73612.m3u8
-
 #EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNN.png" group-title="KTPREMIUM",CNN INDONESIA
 http://ktpremium.world:2095/live/LT8011/827317/73613.m3u8
-
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Celebrity-Tv.png" group-title="KTPREMIUM",CELEBRITIESTV
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",CELEBRITIESTV
 http://ktpremium.world:2095/live/LT8011/827317/73614.m3u8
-
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",MD TV
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",MD TV
 http://ktpremium.world:2095/live/LT8011/827317/73615.m3u8
-
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MNC.png" group-title="KTPREMIUM",MNC TV
 http://ktpremium.world:2095/live/LT8011/827317/73616.m3u8
-
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INDOSIAR.png" group-title="KTPREMIUM",INDOSIAR
 http://ktpremium.world:2095/live/LT8011/827317/73617.m3u8
-
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ANTV.png" group-title="KTPREMIUM",ANTV
 http://ktpremium.world:2095/live/LT8011/827317/73618.m3u8
-
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="KTPREMIUM",GTV
 http://ktpremium.world:2095/live/LT8011/827317/73619.m3u8
-
 #EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVRI.png" group-title="KTPREMIUM",TVRI
 http://ktpremium.world:2095/live/LT8011/827317/73620.m3u8
-
 #EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",DHOHO TV
 http://ktpremium.world:2095/live/LT8011/827317/73626.m3u8
-
 #EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",JTV
 http://ktpremium.world:2095/live/LT8011/827317/73627.m3u8
-
-#EXTINF:-1 tvg-id="RELIGI" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CMuslim.png" group-title="KTPREMIUM",TV9 NU
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CMuslim.png" group-title="KTPREMIUM",TV9 NU
 http://ktpremium.world:2095/live/LT8011/827317/73629.m3u8
-
 #EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GARUDA.png" group-title="KTPREMIUM",GARUDA TV
 http://ktpremium.world:2095/live/LT8011/827317/73631.m3u8
-
 #EXTINF:-1 tvg-id="DRAMA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CDrama.png" group-title="KTPREMIUM",CITRA DRAMA
 http://ktpremium.world:2095/live/LT8011/827317/901193.m3u8
-
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MOJI.png" group-title="KTPREMIUM",MOJI TV
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MOJI.png" group-title="KTPREMIUM",MOJI TV
 http://ktpremium.world:2095/live/LT8011/827317/901194.m3u8
-
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/IMC.png" group-title="KTPREMIUM",IMC
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ZEE.png" group-title="KTPREMIUM",ALJAZEERA
+http://ktpremium.world:2095/live/LT8011/827317/73642.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNN.png" group-title="KTPREMIUM",CNN INTERNATIONAL
+http://ktpremium.world:2095/live/LT8011/827317/73643.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",DW (ENGLISH)
+http://ktpremium.world:2095/live/LT8011/827317/73644.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",FRANCE 24
+http://ktpremium.world:2095/live/LT8011/827317/73645.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",NEWS ASIA
+http://ktpremium.world:2095/live/LT8011/827317/73646.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",KBS WORLD
+http://ktpremium.world:2095/live/LT8011/827317/73647.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",ABC AUSTRALIA
+http://ktpremium.world:2095/live/LT8011/827317/73648.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ONE.png" group-title="KTPREMIUM",EURONEWS
+http://ktpremium.world:2095/live/LT8011/827317/73650.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",BBC WORLD NEWS
+http://ktpremium.world:2095/live/LT8011/827317/73651.m3u8
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNBC.png" group-title="KTPREMIUM",CNBC INDONESIA
+http://ktpremium.world:2095/live/LT8011/827317/73652.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TRT WORLD
+http://ktpremium.world:2095/live/LT8011/827317/73653.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/IMC.png" group-title="KTPREMIUM",IMC
 http://ktpremium.world:2095/live/LT8011/827317/73869.m3u8
-
 #EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SINDONEWS.png" group-title="KTPREMIUM",SINDO NEWS
 http://ktpremium.world:2095/live/LT8011/827317/73873.m3u8
-
-#EXTINF:-1 tvg-id="ASIAN" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CD.png" group-title="KTPREMIUM",JIANGSU TV
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",CRIME & INVESTIGATION
+http://ktpremium.world:2095/live/LT8011/827317/73870.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",JIANGSU TV
 http://ktpremium.world:2095/live/LT8011/827317/73878.m3u8
-
-#EXTINF:-1 tvg-id="ASIAN" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CD.png" group-title="KTPREMIUM",HUNAN TV
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",HUNAN TV
 http://ktpremium.world:2095/live/LT8011/827317/73879.m3u8
-
-#EXTINF:-1 tvg-id="ASIAN" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CD.png" group-title="KTPREMIUM",SHANGHAI DRAGON TV
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",SHANGHAI DRAGON TV
 http://ktpremium.world:2095/live/LT8011/827317/73880.m3u8
-
-#EXTINF:-1 tvg-id="ASIAN" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CD.png" group-title="KTPREMIUM",ANHUI TV
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",ANHUI TV
 http://ktpremium.world:2095/live/LT8011/827317/73882.m3u8
-
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVNM.png" group-title="KTPREMIUM",TVN
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ANIPLUS
+http://ktpremium.world:2095/live/LT8011/827317/73884.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ANIMAX
+http://ktpremium.world:2095/live/LT8011/827317/73883.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/NET.png" group-title="KTPREMIUM",CARTOON NETWORK
+http://ktpremium.world:2095/live/LT8011/827317/73934.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CD.png" group-title="KTPREMIUM",DISNEY CHANNEL
+http://ktpremium.world:2095/live/LT8011/827317/73938.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",MOONBUG KID
+http://ktpremium.world:2095/live/LT8011/827317/73945.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CK.png" group-title="KTPREMIUM",NICK JUNIOR
+http://ktpremium.world:2095/live/LT8011/827317/73946.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CK.png" group-title="KTPREMIUM",NICKELODEON
+http://ktpremium.world:2095/live/LT8011/827317/73947.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CW.png" group-title="KTPREMIUM",NATGEO WILD
+http://ktpremium.world:2095/live/LT8011/827317/73965.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CW.png" group-title="KTPREMIUM",NATGEO
+http://ktpremium.world:2095/live/LT8011/827317/73966.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CW.png" group-title="KTPREMIUM",HISTORY
+http://ktpremium.world:2095/live/LT8011/827317/73968.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/NET.png" group-title="KTPREMIUM",ANIMAL PLANET
+http://ktpremium.world:2095/live/LT8011/827317/73969.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",DISCOVERY CHANNEL
+http://ktpremium.world:2095/live/LT8011/827317/73970.m3u8
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="KTPREMIUM",HGTV
+http://ktpremium.world:2095/live/LT8011/827317/73975.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TLC
+http://ktpremium.world:2095/live/LT8011/827317/73977.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVNM.png" group-title="KTPREMIUM",TVN
 http://ktpremium.world:2095/live/LT8011/827317/73985.m3u8
-
 #EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVNM.png" group-title="KTPREMIUM",TVN MOVIES
 http://ktpremium.world:2095/live/LT8011/827317/73986.m3u8
-
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO DAEBAK
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO DAEBAK
 http://ktpremium.world:2095/live/LT8011/827317/73987.m3u8
-
-#EXTINF:-1 tvg-id="ASIAN" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",ARIRANG
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",ARIRANG
 http://ktpremium.world:2095/live/LT8011/827317/73990.m3u8
-
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/NTV.png" group-title="KTPREMIUM",NUSANTARATV
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",SPORTS PLUS2
+http://ktpremium.world:2095/live/LT8011/827317/1036053.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO ARENA
+http://ktpremium.world:2095/live/LT8011/827317/26308.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO ARENA HD (B)
+http://ktpremium.world:2095/live/LT8011/827317/913178.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO STADIUM
+http://ktpremium.world:2095/live/LT8011/827317/26306.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO STADIUM (B)
+http://ktpremium.world:2095/live/LT8011/827317/913179.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",ARENA BOLA 1 (TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/912889.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",ARENA BOLA 2(TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/912890.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO PREMIER LEAGUE (TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/26312.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO PREMIER LEAGUE (B)
+http://ktpremium.world:2095/live/LT8011/827317/694537.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO PREMIER LEAGUE 2 (TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/26313.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO PREMIER LEAGUE 2 (B)
+http://ktpremium.world:2095/live/LT8011/827317/694538.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO PREMIER LEAGUE 3
+http://ktpremium.world:2095/live/LT8011/827317/1010852.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO PREMIER LEAGUE 4(LIVE EVENT ONLY)
+http://ktpremium.world:2095/live/LT8011/827317/1010853.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO PREMIER LEAGUE 5(LIVE EVENT ONLY)
+http://ktpremium.world:2095/live/LT8011/827317/1010854.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO GRANDSTAND (TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/26314.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO GRANDSTAND(B)
+http://ktpremium.world:2095/live/LT8011/827317/694540.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO FOOTBALL
+http://ktpremium.world:2095/live/LT8011/827317/26315.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO FOOTBALL(B)
+http://ktpremium.world:2095/live/LT8011/827317/694542.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO BADMINTON
+http://ktpremium.world:2095/live/LT8011/827317/1010678.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO BADMINTON 2(LIVE EVENT ONLY)
+http://ktpremium.world:2095/live/LT8011/827317/1010679.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",ASTRO SPORTS PLUS
+http://ktpremium.world:2095/live/LT8011/827317/1010680.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",BEIN SPORTS 1(TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/26321.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",BEIN SPORTS 2(TOKEN)
+http://ktpremium.world:2095/live/LT8011/827317/912557.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",BEIN SPORTS 3
+http://ktpremium.world:2095/live/LT8011/827317/26322.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Ent.png" group-title="KTPREMIUM",BEIN SPORTS 4(LIVE EVENT ONLY)
+http://ktpremium.world:2095/live/LT8011/827317/1011373.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Ent.png" group-title="KTPREMIUM",BEIN SPORTS 5(LIVE EVENT ONLY)
+http://ktpremium.world:2095/live/LT8011/827317/1011374.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SPOTV.png" group-title="KTPREMIUM",SPOTV
+http://ktpremium.world:2095/live/LT8011/827317/26318.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SPOTV.png" group-title="KTPREMIUM",SPOTV 2
+http://ktpremium.world:2095/live/LT8011/827317/73957.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",W-SPORTS
+http://ktpremium.world:2095/live/LT8011/827317/26317.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",GOLF CHANNEL HD
+http://ktpremium.world:2095/live/LT8011/827317/26326.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RE.png" group-title="KTPREMIUM",PREMIER SPORTS RUGBY
+http://ktpremium.world:2095/live/LT8011/827317/916970.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CB.png" group-title="KTPREMIUM",CRICBUZZ
+http://ktpremium.world:2095/live/LT8011/827317/26309.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",SUKAN RTM
+http://ktpremium.world:2095/live/LT8011/827317/793981.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Fight Sports.png" group-title="KTPREMIUM",FIGHT SPORTS
+http://ktpremium.world:2095/live/LT8011/827317/73960.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TENNIS
+http://ktpremium.world:2095/live/LT8011/827317/73956.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CMuslim.png" group-title="KTPREMIUM",CELESTIAL MOVIES
+http://ktpremium.world:2095/live/LT8011/827317/73655.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CCM.png" group-title="KTPREMIUM",CELESTIAL CLASSIC MOVIE
+http://ktpremium.world:2095/live/LT8011/827317/73656.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/THRILL.png" group-title="KTPREMIUM",THRILL
+http://ktpremium.world:2095/live/LT8011/827317/73660.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AXN.png" group-title="KTPREMIUM",AXN
+http://ktpremium.world:2095/live/LT8011/827317/73661.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HITS.png" group-title="KTPREMIUM",HITS
+http://ktpremium.world:2095/live/LT8011/827317/73662.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HITS.png" group-title="KTPREMIUM",HITS MOVIES
+http://ktpremium.world:2095/live/LT8011/827317/73855.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO.png" group-title="KTPREMIUM",HBO
+http://ktpremium.world:2095/live/LT8011/827317/73858.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HITS.png" group-title="KTPREMIUM",HBO HITS
+http://ktpremium.world:2095/live/LT8011/827317/73860.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO.png" group-title="KTPREMIUM",HBO SIGNATURE
+http://ktpremium.world:2095/live/LT8011/827317/73861.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO.png" group-title="KTPREMIUM",HBO FAMILY
+http://ktpremium.world:2095/live/LT8011/827317/901195.m3u8
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CINEMAX.png" group-title="KTPREMIUM",CINEMAX
+http://ktpremium.world:2095/live/LT8011/827317/901196.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GALAXY.png" group-title="KTPREMIUM",GALAXY PREMIUM
+http://ktpremium.world:2095/live/LT8011/827317/73863.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GALAXY.png" group-title="KTPREMIUM",GALAXY HD
+http://ktpremium.world:2095/live/LT8011/827317/812074.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CD.png" group-title="KTPREMIUM",DISNEY.JR
+http://ktpremium.world:2095/live/LT8011/827317/511324.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CD.png" group-title="KTPREMIUM",DISNEY XD
+http://ktpremium.world:2095/live/LT8011/827317/511328.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",NUSANTARATV
 http://ktpremium.world:2095/live/LT8011/827317/34721.m3u8
-
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TV3 (C)
+http://ktpremium.world:2095/live/LT8011/827317/694449.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",ARIRANG
+http://ktpremium.world:2095/live/LT8011/827317/694473.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Ent.png" group-title="KTPREMIUM",CGTN DOCUMENTARY
+http://ktpremium.world:2095/live/LT8011/827317/694497.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",ZOOMOO KIDS
+http://ktpremium.world:2095/live/LT8011/827317/695556.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="KTPREMIUM",KBS WORLD
+http://ktpremium.world:2095/live/LT8011/827317/870506.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TATV
 http://ktpremium.world:2095/live/LT8011/827317/886796.m3u8
-
-#EXTINF:-1 tvg-id="RELIGI" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",DHAMMA TV
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",DHAMMA TV
 http://ktpremium.world:2095/live/LT8011/827317/886807.m3u8
-
-#EXTINF:-1 tvg-id="RELIGI" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CMuslim.png" group-title="KTPREMIUM",TVMU
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",TVMU
 http://ktpremium.world:2095/live/LT8011/827317/886811.m3u8
-
-#EXTINF:-1 tvg-id="RELIGI" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CMuslim.png" group-title="KTPREMIUM",MQTV
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",MQTV
 http://ktpremium.world:2095/live/LT8011/827317/886836.m3u8
-
-#EXTINF:-1 tvg-id="RELIGI" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",DAAI TV
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",DAAI TV
 http://ktpremium.world:2095/live/LT8011/827317/921746.m3u8
-
 #EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BANDUNG.png" group-title="KTPREMIUM",BANDUNG TV
 http://ktpremium.world:2095/live/LT8011/827317/921747.m3u8
-
-#EXTINF:-1 tvg-id="RELIGI" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",EWTN
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AE.png" group-title="KTPREMIUM",[SG] ANIMAX
+http://ktpremium.world:2095/live/LT8011/827317/933048.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CK.png" group-title="KTPREMIUM",[TW] ROCKACTION
+http://ktpremium.world:2095/live/LT8011/827317/933050.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",EWTN
 http://ktpremium.world:2095/live/LT8011/827317/946466.m3u8
-
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RTV.png" group-title="KTPREMIUM",RTV
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RTV.png" group-title="KTPREMIUM",RTV
 http://ktpremium.world:2095/live/LT8011/827317/946467.m3u8
-
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNBC.png" group-title="KTPREMIUM",IDX CHANNEL
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",IDX CHANNEL
 http://ktpremium.world:2095/live/LT8011/827317/946468.m3u8
-
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/VP.png" group-title="KTPREMIUM",VISIONPRIME
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/VP.png" group-title="KTPREMIUM",VISIONPRIME
 http://ktpremium.world:2095/live/LT8011/827317/946469.m3u8
-
 #EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CINEMACHI.png" group-title="KTPREMIUM",CINEMACHI
 http://ktpremium.world:2095/live/LT8011/827317/946470.m3u8
-
-#EXTINF:-1 tvg-id="RELIGI" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MUSLIM.png" group-title="KTPREMIUM",MAKKAH TV
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MUSLIM.png" group-title="KTPREMIUM",MAKKAH TV
 http://ktpremium.world:2095/live/LT8011/827317/947789.m3u8
-
 #EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RCTV.png" group-title="KTPREMIUM",RCTV
 http://ktpremium.world:2095/live/LT8011/827317/947917.m3u8
-
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Ent.png" group-title="KTPREMIUM",ENTERTAINMENT
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",东森YOYO
+http://ktpremium.world:2095/live/LT8011/827317/991028.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Ent.png" group-title="KTPREMIUM",ENTERTAINMENT
 http://ktpremium.world:2095/live/LT8011/827317/947784.m3u8
-
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BTV.png" group-title="KTPREMIUM",BTV
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",RTM SNAP
+http://ktpremium.world:2095/live/LT8011/827317/1033035.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",RTM LEAD
+http://ktpremium.world:2095/live/LT8011/827317/1033036.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",RTM APETITO
+http://ktpremium.world:2095/live/LT8011/827317/1033037.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",RTM FITRAH
+http://ktpremium.world:2095/live/LT8011/827317/1033038.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",RTM JUNIOR
+http://ktpremium.world:2095/live/LT8011/827317/1033039.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",RTM ROLL
+http://ktpremium.world:2095/live/LT8011/827317/1033040.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",RTM AURA
+http://ktpremium.world:2095/live/LT8011/827317/1033041.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BTV.png" group-title="KTPREMIUM",BTV
 http://ktpremium.world:2095/live/LT8011/827317/947788.m3u8
-
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",UGTV
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="KTPREMIUM",UGTV
 http://ktpremium.world:2095/live/LT8011/827317/947786.m3u8
-
 #EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/NTV.png" group-title="KTPREMIUM",SNTV
 http://ktpremium.world:2095/live/LT8011/827317/947787.m3u8
-
 #EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BANDUNG.png" group-title="KTPREMIUM",BANDUNG TV
 http://ktpremium.world:2095/live/LT8011/827317/947692.m3u8
-
-#EXTINF:-1 tvg-id="ASIAN" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/staratv_combined.png" group-title="KTPREMIUM",STARA TV
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/staratv_combined.png" group-title="KTPREMIUM",STARA TV
 http://ktpremium.world:2095/live/LT8011/827317/947693.m3u8
-
 #EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SINDONEWS.png" group-title="KTPREMIUM",SINDO NEWS TV
 http://ktpremium.world:2095/live/LT8011/827317/947694.m3u8
-
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Uniquest.png" group-title="KTPREMIUM",UNIQUES
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Uniquest.png" group-title="KTPREMIUM",UNIQUES
 http://ktpremium.world:2095/live/LT8011/827317/947785.m3u8
-
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SINPO.png" group-title="KTPREMIUM",SINPO TV
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SINPO.png" group-title="KTPREMIUM",SINPO TV
 http://ktpremium.world:2095/live/LT8011/827317/947915.m3u8
-
 #EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Salira.png" group-title="KTPREMIUM",SALIRA TV
 http://ktpremium.world:2095/live/LT8011/827317/947916.m3u8
-
 #EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RTV.png" group-title="KTPREMIUM",BRTV
 http://ktpremium.world:2095/live/LT8011/827317/991027.m3u8
-
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",MDTV
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Sportstar.png" group-title="KTPREMIUM",NBA TV
+http://ktpremium.world:2095/live/LT8011/827317/1106290.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",MDTV
 http://ktpremium.world:2095/live/LT8011/827317/1106292.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",ORIGINALS
+http://ktpremium.world:2095/live/LT8011/827317/1109828.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",CINEEDGE
+http://ktpremium.world:2095/live/LT8011/827317/1109829.m3u8
+#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",SUPERRIX
+http://ktpremium.world:2095/live/LT8011/827317/1109830.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",DUNIA SINEMA
+http://ktpremium.world:2095/live/LT8011/827317/1113867.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",DEGUP
+http://ktpremium.world:2095/live/LT8011/827317/1113868.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INDOSIAR.png" group-title="KTPREMIUM",SIAR
+http://ktpremium.world:2095/live/LT8011/827317/1113869.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",SENSASI
+http://ktpremium.world:2095/live/LT8011/827317/1113870.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Inspira.png" group-title="KTPREMIUM",INSPIRASI
+http://ktpremium.world:2095/live/LT8011/827317/1113871.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",PESONA
+http://ktpremium.world:2095/live/LT8011/827317/1113872.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",SALAM
+http://ktpremium.world:2095/live/LT8011/827317/1113873.m3u8
+#EXTINF:-1 tvg-id="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="KTPREMIUM",三立国际台
+http://ktpremium.world:2095/live/LT8011/827317/1113874.m3u8
 
 
 
