@@ -2128,6 +2128,9 @@ https://vod3.cf.dmcdn.net/sec2(Xw0XCzcBsIjS-_nnOdd5fOU3m_hpwTwZex2rUf_DWYwWVJmWk
 
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/HITS.png" group-title="TRANSVISION",HITS MY
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/30351
+
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="TRANSVISION",BIOSKOP INDONESIA
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302218
 
