@@ -141,36 +141,16 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302271
 
 
 
-
-#########################################################"Entertainment"########################################################################################
-
-
-
-#EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/indonesia_channel.png" group-title="ENTERTAINMENT" http-referrer="" http-user-agent="",The Indonesia Channel
+#EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/indonesia_channel.png" group-title="Extra Channel" http-referrer="" http-user-agent="",The Indonesia Channel
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/First-Lifestyle.png" group-title="ENTERTAINMENT",First Lifestyle
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/First-Lifestyle.png" group-title="Extra Channel",First Lifestyle
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ########################################################"Extra Channel"########################################################################################
