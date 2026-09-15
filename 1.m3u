@@ -1095,6 +1095,126 @@ https://ogietv.biz.id:443/Livetv/234/1402.m3u8
 
 
 
+#EXTM3U
+
+#==================================================
+# 1. TV NASIONAL INDONESIA
+#==================================================
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INDOSIAR.png" group-title="filex-2",Indosiar HD
+http://filex.me:8080/live/3114654477/5787654467/302264.ts
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RCTI.png" group-title="filex-2",RCTI HD
+http://filex.me:8080/live/3114654477/5787654467/302297.ts
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SCTV.png" group-title="filex-2",SCTV HD
+http://filex.me:8080/live/3114654477/5787654467/302301.ts
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MNCTV.png" group-title="filex-2",MNC TV HD
+http://filex.me:8080/live/3114654477/5787654467/302278.ts
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="filex-2",GTV HD
+http://filex.me:8080/live/3114654477/5787654467/302247.ts
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANSTV.png" group-title="filex-2",Trans TV HD
+http://filex.me:8080/live/3114654477/5787654467/302312.ts
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANS7.png" group-title="filex-2",Trans 7 HD
+http://filex.me:8080/live/3114654477/5787654467/302311.ts
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ANTV.png" group-title="filex-2",ANTV HD
+http://filex.me:8080/live/3114654477/5787654467/302206.ts
+
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/NET.png" group-title="filex-2",NET HD
+http://filex.me:8080/live/3114654477/5787654467/302288.ts
+
+#EXTINF:-1 tvg-id="MOJI.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MOJI.png" group-title="filex-2",MOJI HD
+http://filex.me:8080/live/3114654477/5787654467/302279.ts
+
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RTV.png" group-title="filex-2",Rajawali TV (RTV) HD
+http://filex.me:8080/live/3114654477/5787654467/501272.ts
+
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVONE.png" group-title="filex-2",TV ONE HD
+http://filex.me:8080/live/3114654477/5787654467/302314.ts
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/METROTV.png" group-title="filex-2",Metro TV HD
+http://filex.me:8080/live/3114654477/5787654467/302273.ts
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/KOMPASTV.png" group-title="filex-2",Kompas TV HD
+http://filex.me:8080/live/3114654477/5787654467/302271.ts
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INEWS.png" group-title="filex-2",iNews HD
+http://filex.me:8080/live/3114654477/5787654467/501254.ts
+
+#EXTINF:-1 tvg-id="CNBC.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNBC.png" group-title="filex-2",CNBC Indonesia HD
+http://filex.me:8080/live/3114654477/5787654467/302229.ts
+
+#EXTINF:-1 tvg-id="CNN.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNN.png" group-title="filex-2",CNN Indonesia HD
+http://filex.me:8080/live/3114654477/5787654467/302230.ts
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVRI.png" group-title="filex-2",TVRI Nasional HD
+http://filex.me:8080/live/3114654477/5787654467/302318.ts
+
+
+#==================================================
+# 2. MOVIES & HIBURAN INDONESIA
+#==================================================
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO.png" group-title="filex-2",HBO HD
+http://filex.me:8080/live/3114654477/5787654467/302248.ts
+
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBOHITS.png" group-title="filex-2",HBO HITS HD
+http://filex.me:8080/live/3114654477/5787654467/302250.ts
+
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBOSIGNATURE.png" group-title="filex-2",HBO Signature HD
+http://filex.me:8080/live/3114654477/5787654467/302251.ts
+
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBOFAMILY.png" group-title="filex-2",HBO Family HD
+http://filex.me:8080/live/3114654477/5787654467/302249.ts
+
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CINEMAX.png" group-title="filex-2",Cinemax HD
+http://filex.me:8080/live/3114654477/5787654467/302227.ts
+
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CELESTIALMOVIES.png" group-title="filex-2",Celestial Movies HD
+http://filex.me:8080/live/3114654477/5787654467/302223.ts
+
+#EXTINF:-1 tvg-id="CCM.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CCM.png" group-title="filex-2",CCM (Celestial Classic Movies) HD
+http://filex.me:8080/live/3114654477/5787654467/501234.ts
+
+#EXTINF:-1 tvg-id="FLIK.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/FLIK.png" group-title="filex-2",FLIK HD (Film Indonesia)
+http://filex.me:8080/live/3114654477/5787654467/302244.ts
+
+#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BIOSKOPINDONESIA.png" group-title="filex-2",Bioskop Indonesia HD
+http://filex.me:8080/live/3114654477/5787654467/302218.ts
+
+#EXTINF:-1 tvg-id="Cinemaworld.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CINEMAWORLD.png" group-title="filex-2",Cinemaworld HD
+http://filex.me:8080/live/3114654477/5787654467/302226.ts
+
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GALAXYPREMIUM.png" group-title="filex-2",Galaxy Premium HD
+http://filex.me:8080/live/3114654477/5787654467/302245.ts
+
+#EXTINF:-1 tvg-id="WarnerTV.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/WARNERTV.png" group-title="filex-2",Warner TV HD
+http://filex.me:8080/live/3114654477/5787654467/501308.ts
+
+#EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVNMOVIES.png" group-title="filex-2",tvN Movies HD
+http://filex.me:8080/live/3114654477/5787654467/302317.ts
+
+#EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AXN.png" group-title="filex-2",AXN HD
+http://filex.me:8080/live/3114654477/5787654467/302208.ts
+
+#EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/THRILL.png" group-title="filex-2",Thrill HD
+http://filex.me:8080/live/3114654477/5787654467/302309.ts
+
+#EXTINF:-1 tvg-id="ZEEBioskop.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ZEEBIOSKOP.png" group-title="filex-2",ZEE Bioskop HD
+http://filex.me:8080/live/3114654477/5787654467/302327.ts
+
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ROCKACTION.png" group-title="filex-2",ROCK Action HD
+http://filex.me:8080/live/3114654477/5787654467/302298.ts
+
+
+
+
+
 
 
 
