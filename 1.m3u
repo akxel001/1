@@ -93,41 +93,6 @@ https://ogietv.biz.id:443/Livetv/234/1496.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RCTI.png" group-title="TV NASIONAL",RCTI KP
-http://ktpremium.world:2095/live/LT8011/827317/73606.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SCTV.png" group-title="TV NASIONAL",SCTV KP
-http://ktpremium.world:2095/live/LT8011/827317/73607.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANSTV.png" group-title="TV NASIONAL",TRANS TV KP
-http://ktpremium.world:2095/live/LT8011/827317/73608.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANS7.png" group-title="TV NASIONAL",TRANS 7 KP
-http://ktpremium.world:2095/live/LT8011/827317/73609.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVONE.png" group-title="TV NASIONAL",TV ONE KP
-http://ktpremium.world:2095/live/LT8011/827317/73610.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/METROTV.png" group-title="TV NASIONAL",METRO TV KP
-http://ktpremium.world:2095/live/LT8011/827317/73611.m3u8
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/KOMPAS.png" group-title="TV NASIONAL",KOMPAS TV KP
-http://ktpremium.world:2095/live/LT8011/827317/73612.m3u8
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNN.png" group-title="TV NASIONAL",CNN INDONESIA KP
-http://ktpremium.world:2095/live/LT8011/827317/73613.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="TV NASIONAL",MD TV KP
-http://ktpremium.world:2095/live/LT8011/827317/73615.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MNC.png" group-title="TV NASIONAL",MNC TV KP
-http://ktpremium.world:2095/live/LT8011/827317/73616.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INDOSIAR.png" group-title="TV NASIONAL",INDOSIAR KP
-http://ktpremium.world:2095/live/LT8011/827317/73617.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ANTV.png" group-title="TV NASIONAL",ANTV KP
-http://ktpremium.world:2095/live/LT8011/827317/73618.m3u8
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="TV NASIONAL",GTV KP
-http://ktpremium.world:2095/live/LT8011/827317/73619.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVRI.png" group-title="TV NASIONAL",TVRI
-http://ktpremium.world:2095/live/LT8011/827317/73620.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GARUDA.png" group-title="TV NASIONAL",GARUDA TV KP
-http://ktpremium.world:2095/live/LT8011/827317/73631.m3u8
-#EXTINF:-1 tvg-id="INDONESIA" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MOJI.png" group-title="TV NASIONAL",MOJI TV KP
-http://ktpremium.world:2095/live/LT8011/827317/901194.m3u8
-
-
-
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RCTI.png" group-title="TV NASIONAL",RCTI HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302297
 
