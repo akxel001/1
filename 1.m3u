@@ -1374,43 +1374,43 @@ http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/501306
 http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/501308
 #EXTINF:-1 tvg-id="501254" tvg-name="Inews HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="Test",Inews HD
 http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/501254
-#EXTINF:-1 tvg-id="TRANS2-21" tvg-name="CHANNEL 21 (TRANS2)" group-title="Test-2",CHANNEL 21 (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-21" tvg-name="CHANNEL 21 (TRANS2)" group-title="Transvision",CHANNEL 21 (TRANS2)
 http://202.150.161.212:5000/live/channel21/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-22" tvg-name="CHANNEL 22 (TRANS2)" group-title="Test-2",CHANNEL 22 (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-22" tvg-name="CHANNEL 22 (TRANS2)" group-title="Transvision",CHANNEL 22 (TRANS2)
 http://202.150.161.212:5000/live/channel22/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-23" tvg-name="CHANNEL 23 (TRANS2)" group-title="Test-2",CHANNEL 23 (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-23" tvg-name="CHANNEL 23 (TRANS2)" group-title="Transvision",CHANNEL 23 (TRANS2)
 http://202.150.161.212:5000/live/channel23/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-24" tvg-name="CHANNEL 24 (TRANS2)" group-title="Test-2",CHANNEL 24 (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-24" tvg-name="CHANNEL 24 (TRANS2)" group-title="Transvision",CHANNEL 24 (TRANS2)
 http://202.150.161.212:5000/live/channel24/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-25" tvg-name="CHANNEL 25 (TRANS2)" group-title="Test-2",CHANNEL 25 (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-25" tvg-name="CHANNEL 25 (TRANS2)" group-title="Transvision",CHANNEL 25 (TRANS2)
 http://202.150.161.212:5000/live/channel25/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-26" tvg-name="CHANNEL 26 (TRANS2)" group-title="Test-2",CHANNEL 26 (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-26" tvg-name="CHANNEL 26 (TRANS2)" group-title="Transvision",CHANNEL 26 (TRANS2)
 http://202.150.161.212:5000/live/channel26/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-27" tvg-name="CHANNEL 27 (TRANS2)" group-title="Test-2",CHANNEL 27 (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-27" tvg-name="CHANNEL 27 (TRANS2)" group-title="Transvision",CHANNEL 27 (TRANS2)
 http://202.150.161.212:5000/live/channel27/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-28" tvg-name="CHANNEL 28 (TRANS2)" group-title="Test-2",CHANNEL 28 (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-28" tvg-name="CHANNEL 28 (TRANS2)" group-title="Transvision",CHANNEL 28 (TRANS2)
 http://202.150.161.212:5000/live/channel28/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-29" tvg-name="CHANNEL 29 (TRANS2)" group-title="Test-2",CHANNEL 29 (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-29" tvg-name="CHANNEL 29 (TRANS2)" group-title="Transvision",CHANNEL 29 (TRANS2)
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-30" tvg-name="TVN MOVIES (TRANS2)" group-title="Test-2",TVN MOVIES (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-30" tvg-name="TVN MOVIES (TRANS2)" group-title="Transvision",TVN MOVIES (TRANS2)
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-31" tvg-name="MDTV (TRANS2)" group-title="Test-2",MDTV (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-31" tvg-name="MDTV (TRANS2)" group-title="Transvision",MDTV (TRANS2)
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-32" tvg-name="CHANNEL 32 (TRANS2)" group-title="Test-2",CHANNEL 32 (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-32" tvg-name="CHANNEL 32 (TRANS2)" group-title="Transvision",CHANNEL 32 (TRANS2)
 http://202.150.161.212:5000/live/channel32/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-33" tvg-name="CHANNEL 33 (TRANS2)" group-title="Test-2",CHANNEL 33 (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-33" tvg-name="CHANNEL 33 (TRANS2)" group-title="Transvision",CHANNEL 33 (TRANS2)
 http://202.150.161.212:5000/live/channel33/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-34" tvg-name="CHANNEL 34 (TRANS2)" group-title="Test-2",CHANNEL 34 (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-34" tvg-name="CHANNEL 34 (TRANS2)" group-title="Transvision",CHANNEL 34 (TRANS2)
 http://202.150.161.212:5000/live/channel34/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-35" tvg-name="BIOSKOP INDONESIA (TRANS2)" group-title="Test-2",BIOSKOP INDONESIA (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-35" tvg-name="BIOSKOP INDONESIA (TRANS2)" group-title="Transvision",BIOSKOP INDONESIA (TRANS2)
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-36" tvg-name="CHANNEL 36 (TRANS2)" group-title="Test-2",CHANNEL 36 (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-36" tvg-name="CHANNEL 36 (TRANS2)" group-title="Transvision",CHANNEL 36 (TRANS2)
 http://202.150.161.212:5000/live/channel36/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-37" tvg-name="CHANNEL 37 (TRANS2)" group-title="Test-2",CHANNEL 37 (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-37" tvg-name="CHANNEL 37 (TRANS2)" group-title="Transvision",CHANNEL 37 (TRANS2)
 http://202.150.161.212:5000/live/channel37/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-38" tvg-name="JTV (TRANS2)" group-title="Test-2",JTV (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-38" tvg-name="JTV (TRANS2)" group-title="Transvision",JTV (TRANS2)
 http://202.150.161.212:5000/live/channel38/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-39" tvg-name="MOJI (TRANS2)" group-title="Test-2",MOJI (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-39" tvg-name="MOJI (TRANS2)" group-title="Transvision",MOJI (TRANS2)
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-40" tvg-name="CHANNEL 40 (TRANS2)" group-title="Test-2",CHANNEL 40 (TRANS2)
+#EXTINF:-1 tvg-id="TRANS2-40" tvg-name="CHANNEL 40 (TRANS2)" group-title="Transvision",CHANNEL 40 (TRANS2)
 http://202.150.161.212:5000/live/channel40/playlist.m3u8
