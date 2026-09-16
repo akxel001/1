@@ -979,10 +979,10 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/501237
 #EXTINF:-1 tvg-id="ASIAN" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CD.png" group-title="FILEX",CHINESE DRAMA HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/501236
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="FILEX",ETV BIOSKOP HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="Test",ETV BIOSKOP HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302240
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="FILEX",ETV BIOSKOP 02 HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="Test",ETV BIOSKOP 02 HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/501242
 
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="FILEX",ETV BIOSKOP 03 HD
@@ -1140,7 +1140,7 @@ http://filex.me:8080/live/3114654477/5787654467/302298.ts
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RE.png" group-title="FILEX-2",ROCK ENTERTAINMENT HD
 http://filex.me:8080/live/3114654477/5787654467/302299.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="FILEX-2",ETV BIOSKOP HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="Test",ETV BIOSKOP HD
 http://filex.me:8080/live/3114654477/5787654467/302240.ts
 
 #EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="FILEX-2",ETV BIOSKOP 04 HD
