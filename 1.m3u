@@ -55,41 +55,17 @@ https://cianjur.staratv.id/hls/0/stream.m3u8
 #########################################################"TV NASINAL"########################################################################################
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RCTI.png" group-title="TV NASIONAL",RCTI OT
-https://ogietv.biz.id:443/Livetv/234/1316.m3u8
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MNC.png" group-title="TV NASIONAL",MNC TV OT
-https://ogietv.biz.id:443/Livetv/234/1317.m3u8
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="TV NASIONAL",GTV OT
-https://ogietv.biz.id:443/Livetv/234/1318.m3u8
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INEWS.png" group-title="TV NASIONAL",INEWS OT
-https://ogietv.biz.id:443/Livetv/234/1336.m3u8
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SCTV.png" group-title="TV NASIONAL",SCTV OT
-https://ogietv.biz.id:443/Livetv/234/1324.m3u8
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INDOSIAR.png" group-title="TV NASIONAL",INDOSIAR OT
-https://ogietv.biz.id:443/Livetv/234/1325.m3u8
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANSTV.png" group-title="TV NASIONAL",TRANS TV OT
-https://ogietv.biz.id:443/Livetv/234/1310.m3u8
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/METROTV.png" group-title="TV NASIONAL",METRO TV OT
-https://ogietv.biz.id:443/Livetv/234/1330.m3u8
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/KOMPAS.png" group-title="TV NASIONAL",KOMPAS TV OT
-https://ogietv.biz.id:443/Livetv/234/1331.m3u8
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RTV.png" group-title="TV NASIONAL",RTV OT
-https://ogietv.biz.id:443/Livetv/234/1340.m3u8
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVONE.png" group-title="TV NASIONAL",TVONE OT
-https://ogietv.biz.id:443/Livetv/234/1345.m3u8
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNN.png" group-title="TV NASIONAL",CNN INDONESIA OT
-https://ogietv.biz.id:443/Livetv/234/1496.m3u8
 
 
 
