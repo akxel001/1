@@ -1292,7 +1292,7 @@ http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/501268
 http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/501277
 #EXTINF:-1 tvg-id="501278" tvg-name="TV MU HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c670d341a55f851a059f320c0b831037.png" group-title="Singh@Filex",TV MU HD
 http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/501278
-#EXTINF:-1 tvg-id="501280" tvg-name="TVN HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/tvN.png" group-title="Singh@Filex",TVN HD
+#EXTINF:-1 tvg-id="501280" tvg-name="TVN HD" tvg-logo="" group-title="Singh@Filex",TVN HD
 http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/501280
 #EXTINF:-1 tvg-id="501281" tvg-name="TVone HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/tvOne.png" group-title="Singh@Filex",TVone HD
 http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/501281
@@ -1396,7 +1396,7 @@ http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1164000.m3u8
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1164002.m3u8
 #EXTINF:-1 tvg-id="TVN MOVIES HD" tvg-name="TVN MOVIES HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/tvN_Movies.png" group-title="premium-pro",TVN MOVIES HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163945.m3u8
-#EXTINF:-1 tvg-id="TVN HD" tvg-name="TVN HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/tvN.png" group-title="premium-pro",TVN HD
+#EXTINF:-1 tvg-id="TVN HD" tvg-name="TVN HD" tvg-logo="" group-title="premium-pro",TVN HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163942.m3u8
 #EXTINF:-1 tvg-id="K PLUS HD" tvg-name="K PLUS HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K_Plus.png" group-title="premium-pro",K PLUS HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163826.m3u8
