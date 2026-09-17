@@ -1376,29 +1376,29 @@ http://202.150.161.212:5000/live/channel39/playlist.m3u8
 http://202.150.161.212:5000/live/channel40/playlist.m3u8
 
 ### CATEGORY: premium-pro ###
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" group-title="premium-pro",HBO HD
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO.png" group-title="premium-pro",HBO HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163799.m3u8
-#EXTINF:-1 tvg-id="HBO HITS HD" tvg-name="HBO HITS HD" group-title="premium-pro",HBO HITS HD
+#EXTINF:-1 tvg-id="HBO HITS HD" tvg-name="HBO HITS HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO_Hits.png" group-title="premium-pro",HBO HITS HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163802.m3u8
-#EXTINF:-1 tvg-id="HBO FAMILY HD" tvg-name="HBO FAMILY HD" group-title="premium-pro",HBO FAMILY HD
+#EXTINF:-1 tvg-id="HBO FAMILY HD" tvg-name="HBO FAMILY HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO_Family.png" group-title="premium-pro",HBO FAMILY HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163795.m3u8
-#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="CINEMAX HD" group-title="premium-pro",CINEMAX HD
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="CINEMAX HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Cinemax.png" group-title="premium-pro",CINEMAX HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163740.m3u8
-#EXTINF:-1 tvg-id="HITS HD" tvg-name="HITS HD" group-title="premium-pro",HITS HD
+#EXTINF:-1 tvg-id="HITS HD" tvg-name="HITS HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HITS.png" group-title="premium-pro",HITS HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163811.m3u8
-#EXTINF:-1 tvg-id="HITS MOVIES HD" tvg-name="HITS MOVIES HD" group-title="premium-pro",HITS MOVIES HD
+#EXTINF:-1 tvg-id="HITS MOVIES HD" tvg-name="HITS MOVIES HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HITS_Movies.png" group-title="premium-pro",HITS MOVIES HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163814.m3u8
-#EXTINF:-1 tvg-id="HITS NOW HD" tvg-name="HITS NOW HD" group-title="premium-pro",HITS NOW HD
+#EXTINF:-1 tvg-id="HITS NOW HD" tvg-name="HITS NOW HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HITS_Now.png" group-title="premium-pro",HITS NOW HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163817.m3u8
-#EXTINF:-1 tvg-id="CELESTIAL MOVIES HD" tvg-name="CELESTIAL MOVIES HD" group-title="premium-pro",CELESTIAL MOVIES HD
+#EXTINF:-1 tvg-id="CELESTIAL MOVIES HD" tvg-name="CELESTIAL MOVIES HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Celestial_Movies.png" group-title="premium-pro",CELESTIAL MOVIES HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1164000.m3u8
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" group-title="premium-pro",AXN HD
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AXN.png" group-title="premium-pro",AXN HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1164002.m3u8
-#EXTINF:-1 tvg-id="TVN MOVIES HD" tvg-name="TVN MOVIES HD" group-title="premium-pro",TVN MOVIES HD
+#EXTINF:-1 tvg-id="TVN MOVIES HD" tvg-name="TVN MOVIES HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/tvN_Movies.png" group-title="premium-pro",TVN MOVIES HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163945.m3u8
 #EXTINF:-1 tvg-id="TVN HD" tvg-name="TVN HD" group-title="premium-pro",TVN HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163942.m3u8
-#EXTINF:-1 tvg-id="K PLUS HD" tvg-name="K PLUS HD" group-title="premium-pro",K PLUS HD
+#EXTINF:-1 tvg-id="K PLUS HD" tvg-name="K PLUS HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K_Plus.png" group-title="premium-pro",K PLUS HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163826.m3u8
 #EXTINF:-1 tvg-id="KBS WORLD HD" tvg-name="KBS WORLD HD" group-title="premium-pro",KBS WORLD HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163829.m3u8
