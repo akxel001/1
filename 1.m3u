@@ -1396,7 +1396,7 @@ http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1164000.m3u8
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1164002.m3u8
 #EXTINF:-1 tvg-id="TVN MOVIES HD" tvg-name="TVN MOVIES HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/tvN_Movies.png" group-title="premium-pro",TVN MOVIES HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163945.m3u8
-#EXTINF:-1 tvg-id="TVN HD" tvg-name="TVN HD" group-title="premium-pro",TVN HD
+#EXTINF:-1 tvg-id="TVN HD" tvg-name="TVN HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/tvN.png" group-title="premium-pro",TVN HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163942.m3u8
 #EXTINF:-1 tvg-id="K PLUS HD" tvg-name="K PLUS HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K_Plus.png" group-title="premium-pro",K PLUS HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163826.m3u8
