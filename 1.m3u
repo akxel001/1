@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="RADIO" ch-number="80" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Rasilima.png",RASILIMA FM
+#EXTINF:-1 group-title="RADIO" ch-number="80" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Rasilima_FM.png",RASILIMA FM
 https://stream-eu-nc.arenastreaming.com:6244/stream?1767774423532
 
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Noah.png", Non-Stop music
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Noah_Music.png", Non-Stop music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCXWOf2fdWef8tbv1X27JHzw
 
@@ -19,12 +19,12 @@ https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCXWOf2fdWef8tbv1X27JHzw
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
-#EXTINF:-1 tvg-country"ID" tvg-logo="https://i.ibb.co.com/cSXzq1yw/CARUBAN.png" group-title="MUSIC",CarubanTV
+#EXTINF:-1 tvg-country"ID" tvg-logo="https://i.ibb.co.com/cSXzq1yw/Caruban_TV.png" group-title="MUSIC",CarubanTV
 https://stream.carubantv.id/hls/1/stream.m3u8?cachebust=9cd08107
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/musica.png",MUSICA
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Musica.png",MUSICA
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -37,16 +37,16 @@ https://tvratu.my.id/vid/index.mpd?id=7619&type=dash
 https://mic.siar.us/mic/live/mic.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/staratv_combined.png" group-title="MUSIC",Stara TV Jakarta
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Stara_TV.png" group-title="MUSIC",Stara TV Jakarta
 https://jakarta.staratv.id/hls/1/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/staratv_combined.png" group-title="MUSIC",Stara TV Majalengka
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Stara_TV.png" group-title="MUSIC",Stara TV Majalengka
 https://stream.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/staratv_combined.png" group-title="MUSIC",Stara TV Bandung
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Stara_TV.png" group-title="MUSIC",Stara TV Bandung
 https://parahyangan.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/staratv_combined.png" group-title="MUSIC",Stara TV Cianjur
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Stara_TV.png" group-title="MUSIC",Stara TV Cianjur
 https://cianjur.staratv.id/hls/0/stream.m3u8
 
 #########################################################"TV NASINAL"########################################################################################
@@ -72,13 +72,13 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302297
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SCTV.png" group-title="TV NASIONAL",SCTV HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302301
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INDOSIAR.png" group-title="TV NASIONAL",INDOSIAR HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Indosiar.png" group-title="TV NASIONAL",INDOSIAR HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302264
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANSTV.png" group-title="TV NASIONAL",TRANS TV HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Trans_TV.png" group-title="TV NASIONAL",TRANS TV HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302312
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANS7.png" group-title="TV NASIONAL",TRANS 7 HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Trans_7.png" group-title="TV NASIONAL",TRANS 7 HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311
 
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ANTV.png" group-title="TV NASIONAL",ANTV HD
@@ -87,22 +87,22 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302206
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="TV NASIONAL",GTV HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302247
 "
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MNC.png" group-title="TV NASIONAL",MNC TV HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MNCTV.png" group-title="TV NASIONAL",MNC TV HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302278
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/NET.png" group-title="TV NASIONAL",NET HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/NET_TV.png" group-title="TV NASIONAL",NET HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302288
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MOJI.png" group-title="TV NASIONAL",MOJI HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Moji.png" group-title="TV NASIONAL",MOJI HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302279
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVONE.png" group-title="TV NASIONAL",TVONE HD
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/tvOne.png" group-title="TV NASIONAL",TVONE HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/501281
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/METROTV.png" group-title="TV NASIONAL",METRO TV HD
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Metro_TV.png" group-title="TV NASIONAL",METRO TV HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302273
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/KOMPAS.png" group-title="TV NASIONAL",KOMPAS TV HD
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Kompas_TV.png" group-title="TV NASIONAL",KOMPAS TV HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302271
 
 
@@ -114,11 +114,11 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302271
 
 
 
-#EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/indonesia_channel.png" group-title="Extra Channel" http-referrer="" http-user-agent="",The Indonesia Channel
+#EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/The_Indonesia_Channel.png" group-title="Extra Channel" http-referrer="" http-user-agent="",The Indonesia Channel
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/First-Lifestyle.png" group-title="Extra Channel",First Lifestyle
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/First_Lifestyle.png" group-title="Extra Channel",First Lifestyle
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -128,37 +128,37 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLi
 
 ########################################################"Extra Channel"########################################################################################
 
-#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/jackiechan.png",JACKIE CHAN MOVIES
+#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Jackie_Chan.png",JACKIE CHAN MOVIES
 http://74.91.26.218:82/live/vlcl.m3u8
-#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/andylau.png",ANDY LAU MOVIES
+#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Andy_Lau.png",ANDY LAU MOVIES
 http://74.91.26.218:82/live/vlldh.m3u8
-#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/chowyunfat.png",CHOW YUN-FAT MOVIES
+#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Chow_Yun_Fat.png",CHOW YUN-FAT MOVIES
 http://74.91.26.218:82/live/vlzrf.m3u8
-#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/stepehncow.png",STEPHEN CHOW MOVIES
+#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Stephen_Chow.png",STEPHEN CHOW MOVIES
 http://74.91.26.218:82/live/vlzxc.m3u8
 
-#EXTINF:-1 tvg-id="SARI-SARI" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/sari_sari_channel.png" group-title="Extra Channel",sari mabuhai
+#EXTINF:-1 tvg-id="SARI-SARI" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Sari_Sari_Channel.png" group-title="Extra Channel",sari mabuhai
 https://live20.bozztv.com/giatvplayout7/giatv-210273/tracks-v1a1/mono.ts.m3u8
 
 
 
-#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/movies_now.png",Movies Now
+#EXTINF:-1 group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Movies_Now.png",Movies Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/mn_plus_combined.png",MN+
+#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD" group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/MN_Plus.png",MN+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="MNX.in@SD" group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/mnx_combined.png",MNX
+#EXTINF:-1 tvg-id="MNX.in@SD" group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/MNX.png",MNX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 
-#EXTINF:-1 tvg-id="RomedyNow.in@SD" group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/romedy_now_combined.png",Romedy Now
+#EXTINF:-1 tvg-id="RomedyNow.in@SD" group-title="Extra Channel" tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Romedy_Now.png",Romedy Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
@@ -943,10 +943,10 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Relen
 
 
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="Singh@Filex",ETV BIOSKOP HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Bioskop_Indonesia.png" group-title="Singh@Filex",ETV BIOSKOP HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302240
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="Singh@Filex",ETV BIOSKOP 02 HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Bioskop_Indonesia.png" group-title="Singh@Filex",ETV BIOSKOP 02 HD
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/501242
 
 
@@ -986,13 +986,13 @@ http://filex.me:8080/live/3114654477/5787654467/302297.ts
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SCTV.png" group-title="FILEX-2",SCTV HD
 http://filex.me:8080/live/3114654477/5787654467/302301.ts
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INDOSIAR.png" group-title="FILEX-2",INDOSIAR HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Indosiar.png" group-title="FILEX-2",INDOSIAR HD
 http://filex.me:8080/live/3114654477/5787654467/302264.ts
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANSTV.png" group-title="FILEX-2",TRANS TV HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Trans_TV.png" group-title="FILEX-2",TRANS TV HD
 http://filex.me:8080/live/3114654477/5787654467/302312.ts
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TRANS7.png" group-title="FILEX-2",TRANS 7 HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Trans_7.png" group-title="FILEX-2",TRANS 7 HD
 http://filex.me:8080/live/3114654477/5787654467/302311.ts
 
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ANTV.png" group-title="FILEX-2",ANTV HD
@@ -1001,37 +1001,37 @@ http://filex.me:8080/live/3114654477/5787654467/302206.ts
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="FILEX-2",GTV HD
 http://filex.me:8080/live/3114654477/5787654467/302247.ts
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MNC.png" group-title="FILEX-2",MNC TV HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MNCTV.png" group-title="FILEX-2",MNC TV HD
 http://filex.me:8080/live/3114654477/5787654467/302278.ts
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/NET.png" group-title="FILEX-2",NET HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/NET_TV.png" group-title="FILEX-2",NET HD
 http://filex.me:8080/live/3114654477/5787654467/302288.ts
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/MOJI.png" group-title="FILEX-2",MOJI HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Moji.png" group-title="FILEX-2",MOJI HD
 http://filex.me:8080/live/3114654477/5787654467/302279.ts
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVONE.png" group-title="FILEX-2",TV ONE HD
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/tvOne.png" group-title="FILEX-2",TV ONE HD
 http://filex.me:8080/live/3114654477/5787654467/501281.ts
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/METROTV.png" group-title="FILEX-2",METRO TV HD
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Metro_TV.png" group-title="FILEX-2",METRO TV HD
 http://filex.me:8080/live/3114654477/5787654467/302273.ts
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/KOMPAS.png" group-title="FILEX-2",KOMPAS TV HD
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Kompas_TV.png" group-title="FILEX-2",KOMPAS TV HD
 http://filex.me:8080/live/3114654477/5787654467/302271.ts
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/INEWS.png" group-title="FILEX-2",INEWS HD
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/iNews.png" group-title="FILEX-2",INEWS HD
 http://filex.me:8080/live/3114654477/5787654467/501254.ts
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNN.png" group-title="FILEX-2",CNN INDONESIA HD
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNN_Indonesia.png" group-title="FILEX-2",CNN INDONESIA HD
 http://filex.me:8080/live/3114654477/5787654467/302230.ts
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNBC.png" group-title="FILEX-2",CNBC INDONESIA HD
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNBC_Indonesia.png" group-title="FILEX-2",CNBC INDONESIA HD
 http://filex.me:8080/live/3114654477/5787654467/302229.ts
 
-#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BERITASATU.png" group-title="FILEX-2",BERITA SATU HD
+#EXTINF:-1 tvg-id="NEWS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Berita_Satu.png" group-title="FILEX-2",BERITA SATU HD
 http://filex.me:8080/live/3114654477/5787654467/302216.ts
 
-#EXTINF:-1 tvg-id="GENERAL" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/NTV.png" group-title="FILEX-2",NUSANTARA TV HD
+#EXTINF:-1 tvg-id="GENERAL" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Nusantara_TV.png" group-title="FILEX-2",NUSANTARA TV HD
 http://filex.me:8080/live/3114654477/5787654467/302291.ts
 
 #EXTINF:-1 tvg-id="GENERAL" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVRI.png" group-title="FILEX-2",TVRI DKI JAKARTA HD
@@ -1040,82 +1040,82 @@ http://filex.me:8080/live/3114654477/5787654467/501286.ts
 #EXTINF:-1 tvg-id="GENERAL" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVRI.png" group-title="FILEX-2",TVRI WORLD HD
 http://filex.me:8080/live/3114654477/5787654467/501305.ts
 
-#EXTINF:-1 tvg-id="GENERAL" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Ent.png" group-title="FILEX-2",DA AI TV HD
+#EXTINF:-1 tvg-id="GENERAL" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Entertainment.png" group-title="FILEX-2",DA AI TV HD
 http://filex.me:8080/live/3114654477/5787654467/302232.ts
 
 #EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO.png" group-title="FILEX-2",HBO HD
 http://filex.me:8080/live/3114654477/5787654467/302248.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO-HITS.png" group-title="FILEX-2",HBO HITS HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO_Hits.png" group-title="FILEX-2",HBO HITS HD
 http://filex.me:8080/live/3114654477/5787654467/302250.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO-SIGNATURE.png" group-title="FILEX-2",HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO_Signature.png" group-title="FILEX-2",HBO SIGNATURE HD
 http://filex.me:8080/live/3114654477/5787654467/501251.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO-FAMILY.png" group-title="FILEX-2",HBO FAMILY HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO_Family.png" group-title="FILEX-2",HBO FAMILY HD
 http://filex.me:8080/live/3114654477/5787654467/302249.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CINEMAX.png" group-title="FILEX-2",CINEMAX HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Cinemax.png" group-title="FILEX-2",CINEMAX HD
 http://filex.me:8080/live/3114654477/5787654467/302227.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="FILEX-2",CELESTIAL MOVIES HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Bioskop_Indonesia.png" group-title="FILEX-2",CELESTIAL MOVIES HD
 http://filex.me:8080/live/3114654477/5787654467/302223.ts
 
 #EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/FLIK.png" group-title="FILEX-2",FLIK HD
 http://filex.me:8080/live/3114654477/5787654467/302244.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="FILEX-2",BIOSKOP INDONESIA HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Bioskop_Indonesia.png" group-title="FILEX-2",BIOSKOP INDONESIA HD
 http://filex.me:8080/live/3114654477/5787654467/302218.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CW.png" group-title="FILEX-2",CINEMAWORLD HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CinemaWorld.png" group-title="FILEX-2",CINEMAWORLD HD
 http://filex.me:8080/live/3114654477/5787654467/302226.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GALAXY-P.png" group-title="FILEX-2",GALAXY PREMIUM HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Galaxy_Premium.png" group-title="FILEX-2",GALAXY PREMIUM HD
 http://filex.me:8080/live/3114654477/5787654467/302245.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GALAXY.png" group-title="FILEX-2",GALAXY HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Galaxy.png" group-title="FILEX-2",GALAXY HD
 http://filex.me:8080/live/3114654477/5787654467/501247.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/WB.png" group-title="FILEX-2",WARNER TV HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Warner_TV.png" group-title="FILEX-2",WARNER TV HD
 http://filex.me:8080/live/3114654477/5787654467/501308.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVNM.png" group-title="FILEX-2",TVN MOVIES HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/tvN_Movies.png" group-title="FILEX-2",TVN MOVIES HD
 http://filex.me:8080/live/3114654477/5787654467/302317.ts
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/TVNM.png" group-title="FILEX-2",TVN HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/tvN_Movies.png" group-title="FILEX-2",TVN HD
 http://filex.me:8080/live/3114654477/5787654467/501280.ts
 
 #EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AXN.png" group-title="FILEX-2",AXN HD
 http://filex.me:8080/live/3114654477/5787654467/302208.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/THRILL.png" group-title="FILEX-2",THRILL HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Thrill.png" group-title="FILEX-2",THRILL HD
 http://filex.me:8080/live/3114654477/5787654467/302309.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ZEE.png" group-title="FILEX-2",ZEE BIOSKOP HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Zee_Bioskop.png" group-title="FILEX-2",ZEE BIOSKOP HD
 http://filex.me:8080/live/3114654477/5787654467/302327.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Rock-Action.png" group-title="FILEX-2",ROCK ACTION HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Rock_Action.png" group-title="FILEX-2",ROCK ACTION HD
 http://filex.me:8080/live/3114654477/5787654467/302298.ts
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RE.png" group-title="FILEX-2",ROCK ENTERTAINMENT HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Rock_Entertainment.png" group-title="FILEX-2",ROCK ENTERTAINMENT HD
 http://filex.me:8080/live/3114654477/5787654467/302299.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="Singh@Filex",ETV BIOSKOP HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Bioskop_Indonesia.png" group-title="Singh@Filex",ETV BIOSKOP HD
 http://filex.me:8080/live/3114654477/5787654467/302240.ts
 
-#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/BI.png" group-title="FILEX-2",ETV BIOSKOP 04 HD
+#EXTINF:-1 tvg-id="MOVIES" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Bioskop_Indonesia.png" group-title="FILEX-2",ETV BIOSKOP 04 HD
 http://filex.me:8080/live/3114654477/5787654467/302243.ts
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CDrama.png" group-title="FILEX-2",CITRA DRAMA HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Citra_Drama.png" group-title="FILEX-2",CITRA DRAMA HD
 http://filex.me:8080/live/3114654477/5787654467/501237.ts
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CDrama.png" group-title="FILEX-2",CHINESE DRAMA HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Citra_Drama.png" group-title="FILEX-2",CHINESE DRAMA HD
 http://filex.me:8080/live/3114654477/5787654467/501236.ts
 
-#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K.png" group-title="FILEX-2",K+ HD
+#EXTINF:-1 tvg-id="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/K_Plus.png" group-title="FILEX-2",K+ HD
 http://filex.me:8080/live/3114654477/5787654467/501258.ts
 
-#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CK.png" group-title="FILEX-2",DUNIA ANAK HD
+#EXTINF:-1 tvg-id="KIDS" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Cinemachi_Kids.png" group-title="FILEX-2",DUNIA ANAK HD
 http://filex.me:8080/live/3114654477/5787654467/302237.ts
 
 
