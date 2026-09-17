@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="spt1" tvg-name="spt1" group-title="Q24",spt1
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919398&extension=m3u8
+#EXTINF:-1 tvg-id="spt2" tvg-name="spt2" group-title="Q24",spt2
+http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919397&extension=m3u8
