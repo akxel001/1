@@ -44,3 +44,31 @@ https://wpvsahsvl0yo.localrestaurantfind.site/uZMYvw8Oc8R7B2ub/hls3/01/05911/olu
 http://vidsemar.pages.dev/terraluna2/204.mpd
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Indosiar.png" group-title="VDO",INDOSIAR (VD1)
 http://vidsemar.pages.dev/terraluna2/205.mpd
+#EXTINF:-1 tvg-id="axn" tvg-name="axn" group-title="Q24",axn
+http://88.212.15.19/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-id="cinemax" tvg-name="cinemax" group-title="Q24",cinemax
+http://filex.me:8080/live/3114654477/5787654467/302227.ts
+#EXTINF:-1 tvg-id="gtv #2" tvg-name="gtv #2" group-title="Q24",gtv #2
+http://filex.me:8080/live/3114654477/5787654467/302247.ts
+#EXTINF:-1 tvg-id="zee" tvg-name="zee" group-title="Q24",zee
+http://filex.me:8080/live/3114654477/5787654467/302327.m3u8
+#EXTINF:-1 tvg-id="inews" tvg-name="inews" group-title="DAR",inews
+http://filex.me:8080/live/@singh_tesla_7207492/puWnhEGsXpK3/501254.m3u8
+#EXTINF:-1 tvg-id="gtv" tvg-name="gtv" group-title="DAR",gtv
+http://filex.me:8080/live/@singh_tesla_7207492/puWnhEGsXpK3/302247.m3u8
+#EXTINF:-1 tvg-id="mnctv" tvg-name="mnctv" group-title="DAR",mnctv
+http://filex.me:8080/live/@singh_tesla_7207492/puWnhEGsXpK3/302278.m3u8
+#EXTINF:-1 tvg-id="tran7" tvg-name="tran7" group-title="DAR",tran7
+http://filex.me:8080/live/@singh_tesla_7207492/puWnhEGsXpK3/302311.m3u8
+#EXTINF:-1 tvg-id="Trans7 HD" tvg-name="Trans7 HD" tvg-logo="https://i.imgur.com/NvICauU.jpeg" group-title="DAR",Trans7 HD
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/tran7.m3u8
+#EXTINF:-1 tvg-id="TransTV HD (V+)" tvg-name="TransTV HD (V+)" tvg-logo="https://i.imgur.com/OTsfSpu.jpeg" group-title="DAR",TransTV HD (V+)
+https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="MNC TV (V+)" tvg-name="MNC TV (V+)" tvg-logo="https://i.imgur.com/7xdcxPm.jpeg" group-title="DAR",MNC TV (V+)
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/mnctv.m3u8
+#EXTINF:-1 tvg-id="inewstv hd" tvg-name="inewstv hd" tvg-logo="https://i.imgur.com/zXwjQyE.jpeg" group-title="DAR",inewstv hd
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/inews.m3u8
+#EXTINF:-1 tvg-id="LC - Lcham4" tvg-name="LC - Lcham4" group-title="CSF",LC - Lcham4
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor4/playlist.m3u8
+#EXTINF:-1 tvg-id="LC - Lcham3" tvg-name="LC - Lcham3" group-title="CSF",LC - Lcham3
+https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
