@@ -1334,45 +1334,45 @@ http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/501306
 http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/501308
 #EXTINF:-1 tvg-id="501254" tvg-name="Inews HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/iNews.png" group-title="Singh@Filex",Inews HD
 http://filex.me:8080/@singh_tesla_7207492/puWnhEGsXpK3/501254
-#EXTINF:-1 tvg-id="TRANS2-21" tvg-name="CHANNEL 21 (TRANS2)" group-title="Transvision",CHANNEL 21 (TRANS2)
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" group-title="Transvision",France 24
 http://202.150.161.212:5000/live/channel21/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-22" tvg-name="CHANNEL 22 (TRANS2)" group-title="Transvision",CHANNEL 22 (TRANS2)
+#EXTINF:-1 tvg-id="NHK World Premium" tvg-name="NHK World Premium" group-title="Transvision",NHK World Premium
 http://202.150.161.212:5000/live/channel22/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-23" tvg-name="CHANNEL 23 (TRANS2)" group-title="Transvision",CHANNEL 23 (TRANS2)
+#EXTINF:-1 tvg-id="RTV HD" tvg-name="RTV HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RTV.png" group-title="Transvision",RTV HD
 http://202.150.161.212:5000/live/channel23/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-24" tvg-name="CHANNEL 24 (TRANS2)" group-title="Transvision",CHANNEL 24 (TRANS2)
+#EXTINF:-1 tvg-id="WION News" tvg-name="WION News" group-title="Transvision",WION News
 http://202.150.161.212:5000/live/channel24/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-25" tvg-name="CHANNEL 25 (TRANS2)" group-title="Transvision",CHANNEL 25 (TRANS2)
+#EXTINF:-1 tvg-id="Toon Goggles" tvg-name="Toon Goggles" group-title="Transvision",Toon Goggles
 http://202.150.161.212:5000/live/channel25/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-26" tvg-name="CHANNEL 26 (TRANS2)" group-title="Transvision",CHANNEL 26 (TRANS2)
+#EXTINF:-1 tvg-id="ID Cyclist" tvg-name="ID Cyclist" group-title="Transvision",ID Cyclist
 http://202.150.161.212:5000/live/channel26/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-27" tvg-name="CHANNEL 27 (TRANS2)" group-title="Transvision",CHANNEL 27 (TRANS2)
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" group-title="Transvision",Cartoon Network HD
 http://202.150.161.212:5000/live/channel27/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-28" tvg-name="CHANNEL 28 (TRANS2)" group-title="Transvision",CHANNEL 28 (TRANS2)
+#EXTINF:-1 tvg-id="IMC HD" tvg-name="IMC HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/IMC.png" group-title="Transvision",IMC HD
 http://202.150.161.212:5000/live/channel28/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-29" tvg-name="CHANNEL 29 (TRANS2)" group-title="Transvision",CHANNEL 29 (TRANS2)
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="Warner TV HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Warner_TV.png" group-title="Transvision",Warner TV HD
 http://202.150.161.212:5000/live/channel29/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-30" tvg-name="TVN MOVIES (TRANS2)" group-title="Transvision",TVN MOVIES (TRANS2)
+#EXTINF:-1 tvg-id="tvN Movies HD" tvg-name="tvN Movies HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/tvN_Movies.png" group-title="Transvision",tvN Movies HD
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-31" tvg-name="MDTV (TRANS2)" group-title="Transvision",MDTV (TRANS2)
+#EXTINF:-1 tvg-id="MDTV" tvg-name="MDTV" group-title="Transvision",MDTV
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-32" tvg-name="CHANNEL 32 (TRANS2)" group-title="Transvision",CHANNEL 32 (TRANS2)
+#EXTINF:-1 tvg-id="TV5Monde" tvg-name="TV5Monde" group-title="Transvision",TV5Monde
 http://202.150.161.212:5000/live/channel32/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-33" tvg-name="CHANNEL 33 (TRANS2)" group-title="Transvision",CHANNEL 33 (TRANS2)
+#EXTINF:-1 tvg-id="Arirang TV" tvg-name="Arirang TV" group-title="Transvision",Arirang TV
 http://202.150.161.212:5000/live/channel33/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-34" tvg-name="CHANNEL 34 (TRANS2)" group-title="Transvision",CHANNEL 34 (TRANS2)
+#EXTINF:-1 tvg-id="Knowledge+ HD" tvg-name="Knowledge+ HD" group-title="Transvision",Knowledge+ HD
 http://202.150.161.212:5000/live/channel34/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-35" tvg-name="BIOSKOP INDONESIA (TRANS2)" group-title="Transvision",BIOSKOP INDONESIA (TRANS2)
+#EXTINF:-1 tvg-id="Bioskop Indonesia HD" tvg-name="Bioskop Indonesia HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Bioskop_Indonesia.png" group-title="Transvision",Bioskop Indonesia HD
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-36" tvg-name="CHANNEL 36 (TRANS2)" group-title="Transvision",CHANNEL 36 (TRANS2)
+#EXTINF:-1 tvg-id="Jendela TV" tvg-name="Jendela TV" group-title="Transvision",Jendela TV
 http://202.150.161.212:5000/live/channel36/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-37" tvg-name="CHANNEL 37 (TRANS2)" group-title="Transvision",CHANNEL 37 (TRANS2)
+#EXTINF:-1 tvg-id="U Channel" tvg-name="U Channel" group-title="Transvision",U Channel
 http://202.150.161.212:5000/live/channel37/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-38" tvg-name="JTV (TRANS2)" group-title="Transvision",JTV (TRANS2)
+#EXTINF:-1 tvg-id="JTV HD" tvg-name="JTV HD" group-title="Transvision",JTV HD
 http://202.150.161.212:5000/live/channel38/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-39" tvg-name="MOJI (TRANS2)" group-title="Transvision",MOJI (TRANS2)
+#EXTINF:-1 tvg-id="MOJI HD" tvg-name="MOJI HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Moji.png" group-title="Transvision",MOJI HD
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
-#EXTINF:-1 tvg-id="TRANS2-40" tvg-name="CHANNEL 40 (TRANS2)" group-title="Transvision",CHANNEL 40 (TRANS2)
+#EXTINF:-1 tvg-id="Seru TV" tvg-name="Seru TV" group-title="Transvision",Seru TV
 http://202.150.161.212:5000/live/channel40/playlist.m3u8
 
 ### CATEGORY: premium-pro ###
