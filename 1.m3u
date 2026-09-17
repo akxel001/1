@@ -1374,3 +1374,41 @@ http://202.150.161.212:5000/live/channel38/playlist.m3u8
 http://202.150.161.212:5000/live/channel39/playlist.m3u8
 #EXTINF:-1 tvg-id="TRANS2-40" tvg-name="CHANNEL 40 (TRANS2)" group-title="Transvision",CHANNEL 40 (TRANS2)
 http://202.150.161.212:5000/live/channel40/playlist.m3u8
+
+### CATEGORY: premium-pro ###
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" group-title="premium-pro",HBO HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163799.m3u8
+#EXTINF:-1 tvg-id="HBO HITS HD" tvg-name="HBO HITS HD" group-title="premium-pro",HBO HITS HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163802.m3u8
+#EXTINF:-1 tvg-id="HBO FAMILY HD" tvg-name="HBO FAMILY HD" group-title="premium-pro",HBO FAMILY HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163795.m3u8
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="CINEMAX HD" group-title="premium-pro",CINEMAX HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163740.m3u8
+#EXTINF:-1 tvg-id="HITS HD" tvg-name="HITS HD" group-title="premium-pro",HITS HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163811.m3u8
+#EXTINF:-1 tvg-id="HITS MOVIES HD" tvg-name="HITS MOVIES HD" group-title="premium-pro",HITS MOVIES HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163814.m3u8
+#EXTINF:-1 tvg-id="HITS NOW HD" tvg-name="HITS NOW HD" group-title="premium-pro",HITS NOW HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163817.m3u8
+#EXTINF:-1 tvg-id="CELESTIAL MOVIES HD" tvg-name="CELESTIAL MOVIES HD" group-title="premium-pro",CELESTIAL MOVIES HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1164000.m3u8
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" group-title="premium-pro",AXN HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1164002.m3u8
+#EXTINF:-1 tvg-id="TVN MOVIES HD" tvg-name="TVN MOVIES HD" group-title="premium-pro",TVN MOVIES HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163945.m3u8
+#EXTINF:-1 tvg-id="TVN HD" tvg-name="TVN HD" group-title="premium-pro",TVN HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163942.m3u8
+#EXTINF:-1 tvg-id="K PLUS HD" tvg-name="K PLUS HD" group-title="premium-pro",K PLUS HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163826.m3u8
+#EXTINF:-1 tvg-id="KBS WORLD HD" tvg-name="KBS WORLD HD" group-title="premium-pro",KBS WORLD HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163829.m3u8
+#EXTINF:-1 tvg-id="Astro Citra" tvg-name="Astro Citra" group-title="premium-pro",Astro Citra
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163672.m3u8
+#EXTINF:-1 tvg-id="ASTRO AURA HD" tvg-name="ASTRO AURA HD" group-title="premium-pro",ASTRO AURA HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163662.m3u8
+#EXTINF:-1 tvg-id="ASTRO RANIA HD" tvg-name="ASTRO RANIA HD" group-title="premium-pro",ASTRO RANIA HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163687.m3u8
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" group-title="premium-pro",COMEDY CENTRAL
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163965.m3u8
+#EXTINF:-1 tvg-id="LIFETIME HD" tvg-name="LIFETIME HD" group-title="premium-pro",LIFETIME HD
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163835.m3u8
