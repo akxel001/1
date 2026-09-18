@@ -1412,3 +1412,98 @@ http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163687.m3u8
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163965.m3u8
 #EXTINF:-1 tvg-id="LIFETIME HD" tvg-name="LIFETIME HD" group-title="premium-pro",LIFETIME HD
 http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163835.m3u8
+
+#EXTINF:-1 tvg-id="RCTI HD" tvg-name="RCTI HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/RCTI.png" group-title="013",RCTI HD
+http://013tv.com:8080/F33848/cbd9779b/157591
+#EXTINF:-1 tvg-id="SCTV HD" tvg-name="SCTV HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/SCTV.png" group-title="013",SCTV HD
+http://013tv.com:8080/F33848/cbd9779b/162141
+#EXTINF:-1 tvg-id="Indosiar HD" tvg-name="Indosiar HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Indosiar.png" group-title="013",Indosiar HD
+http://013tv.com:8080/F33848/cbd9779b/162138
+#EXTINF:-1 tvg-id="Trans TV HD" tvg-name="Trans TV HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Trans_TV.png" group-title="013",Trans TV HD
+http://013tv.com:8080/F33848/cbd9779b/162503
+#EXTINF:-1 tvg-id="Trans 7 HD" tvg-name="Trans 7 HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Trans_7.png" group-title="013",Trans 7 HD
+http://013tv.com:8080/F33848/cbd9779b/162502
+#EXTINF:-1 tvg-id="MNC TV HD" tvg-name="MNC TV HD" group-title="013",MNC TV HD
+http://013tv.com:8080/F33848/cbd9779b/165054
+#EXTINF:-1 tvg-id="GTV HD" tvg-name="GTV HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/GTV.png" group-title="013",GTV HD
+http://013tv.com:8080/F33848/cbd9779b/157578
+#EXTINF:-1 tvg-id="iNews HD" tvg-name="iNews HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/iNews.png" group-title="013",iNews HD
+http://013tv.com:8080/F33848/cbd9779b/157579
+#EXTINF:-1 tvg-id="ANTV HD" tvg-name="ANTV HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/ANTV.png" group-title="013",ANTV HD
+http://013tv.com:8080/F33848/cbd9779b/165072
+#EXTINF:-1 tvg-id="tvOne HD" tvg-name="tvOne HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/tvOne.png" group-title="013",tvOne HD
+http://013tv.com:8080/F33848/cbd9779b/310084
+#EXTINF:-1 tvg-id="Metro TV HD" tvg-name="Metro TV HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Metro_TV.png" group-title="013",Metro TV HD
+http://013tv.com:8080/F33848/cbd9779b/165059
+#EXTINF:-1 tvg-id="Kompas TV HD" tvg-name="Kompas TV HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Kompas_TV.png" group-title="013",Kompas TV HD
+http://013tv.com:8080/F33848/cbd9779b/165060
+#EXTINF:-1 tvg-id="Moji HD" tvg-name="Moji HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Moji.png" group-title="013",Moji HD
+http://013tv.com:8080/F33848/cbd9779b/298550
+#EXTINF:-1 tvg-id="NET HD" tvg-name="NET HD" group-title="013",NET HD
+http://013tv.com:8080/F33848/cbd9779b/80292
+#EXTINF:-1 tvg-id="BTV / Berita Satu HD" tvg-name="BTV / Berita Satu HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Berita_Satu.png" group-title="013",BTV / Berita Satu HD
+http://013tv.com:8080/F33848/cbd9779b/162513
+#EXTINF:-1 tvg-id="CNN Indonesia HD" tvg-name="CNN Indonesia HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNN_Indonesia.png" group-title="013",CNN Indonesia HD
+http://013tv.com:8080/F33848/cbd9779b/162137
+#EXTINF:-1 tvg-id="CNBC Indonesia HD" tvg-name="CNBC Indonesia HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CNBC_Indonesia.png" group-title="013",CNBC Indonesia HD
+http://013tv.com:8080/F33848/cbd9779b/165062
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Nusantara_TV.png" group-title="013",Nusantara TV
+http://013tv.com:8080/F33848/cbd9779b/166410
+#EXTINF:-1 tvg-id="DA AI TV" tvg-name="DA AI TV" group-title="013",DA AI TV
+http://013tv.com:8080/F33848/cbd9779b/165061
+#EXTINF:-1 tvg-id="Bali TV" tvg-name="Bali TV" group-title="013",Bali TV
+http://013tv.com:8080/F33848/cbd9779b/197962
+#EXTINF:-1 tvg-id="Bandung TV" tvg-name="Bandung TV" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Bandung_TV.png" group-title="013",Bandung TV
+http://013tv.com:8080/F33848/cbd9779b/166416
+#EXTINF:-1 tvg-id="Radar Cirebon TV" tvg-name="Radar Cirebon TV" group-title="013",Radar Cirebon TV
+http://013tv.com:8080/F33848/cbd9779b/300662
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO.png" group-title="013",HBO HD
+http://013tv.com:8080/F33848/cbd9779b/306484
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-name="HBO Hits HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO_Hits.png" group-title="013",HBO Hits HD
+http://013tv.com:8080/F33848/cbd9779b/306486
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO_Family.png" group-title="013",HBO Family HD
+http://013tv.com:8080/F33848/cbd9779b/197055
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/HBO_Signature.png" group-title="013",HBO Signature HD
+http://013tv.com:8080/F33848/cbd9779b/306483
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Cinemax.png" group-title="013",Cinemax HD
+http://013tv.com:8080/F33848/cbd9779b/197964
+#EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Celestial_Movies.png" group-title="013",Celestial Movies HD
+http://013tv.com:8080/F33848/cbd9779b/165065
+#EXTINF:-1 tvg-id="CinemaWorld HD" tvg-name="CinemaWorld HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/CinemaWorld.png" group-title="013",CinemaWorld HD
+http://013tv.com:8080/F33848/cbd9779b/165082
+#EXTINF:-1 tvg-id="tvN Movies HD" tvg-name="tvN Movies HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/tvN_Movies.png" group-title="013",tvN Movies HD
+http://013tv.com:8080/F33848/cbd9779b/157596
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="Warner TV HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Warner_TV.png" group-title="013",Warner TV HD
+http://013tv.com:8080/F33848/cbd9779b/157594
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/AXN.png" group-title="013",AXN HD
+http://013tv.com:8080/F33848/cbd9779b/165079
+#EXTINF:-1 tvg-id="FLIK HD" tvg-name="FLIK HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/FLIK.png" group-title="013",FLIK HD
+http://013tv.com:8080/F33848/cbd9779b/165095
+#EXTINF:-1 tvg-id="Galaxy HD" tvg-name="Galaxy HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Galaxy.png" group-title="013",Galaxy HD
+http://013tv.com:8080/F33848/cbd9779b/264773
+#EXTINF:-1 tvg-id="Galaxy Premium HD" tvg-name="Galaxy Premium HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Galaxy_Premium.png" group-title="013",Galaxy Premium HD
+http://013tv.com:8080/F33848/cbd9779b/264774
+#EXTINF:-1 tvg-id="Zee Bioskop HD" tvg-name="Zee Bioskop HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Zee_Bioskop.png" group-title="013",Zee Bioskop HD
+http://013tv.com:8080/F33848/cbd9779b/157584
+#EXTINF:-1 tvg-id="Bioskop Indonesia HD" tvg-name="Bioskop Indonesia HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Bioskop_Indonesia.png" group-title="013",Bioskop Indonesia HD
+http://013tv.com:8080/F33848/cbd9779b/264801
+#EXTINF:-1 tvg-id="Citra Drama HD" tvg-name="Citra Drama HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Citra_Drama.png" group-title="013",Citra Drama HD
+http://013tv.com:8080/F33848/cbd9779b/264748
+#EXTINF:-1 tvg-id="Chinese Drama HD" tvg-name="Chinese Drama HD" group-title="013",Chinese Drama HD
+http://013tv.com:8080/F33848/cbd9779b/298516
+#EXTINF:-1 tvg-id="Thrill HD" tvg-name="Thrill HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Thrill.png" group-title="013",Thrill HD
+http://013tv.com:8080/F33848/cbd9779b/157580
+#EXTINF:-1 tvg-id="IMC HD" tvg-name="IMC HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/IMC.png" group-title="013",IMC HD
+http://013tv.com:8080/F33848/cbd9779b/264769
+#EXTINF:-1 tvg-id="K+ HD" tvg-name="K+ HD" group-title="013",K+ HD
+http://013tv.com:8080/F33848/cbd9779b/197969
+#EXTINF:-1 tvg-id="Vision Prime HD" tvg-name="Vision Prime HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Vision_Prime.png" group-title="013",Vision Prime HD
+http://013tv.com:8080/F33848/cbd9779b/197958
+#EXTINF:-1 tvg-id="ETV Bioskop 01 HD" tvg-name="ETV Bioskop 01 HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Bioskop_Indonesia.png" group-title="013",ETV Bioskop 01 HD
+http://013tv.com:8080/F33848/cbd9779b/298526
+#EXTINF:-1 tvg-id="ETV Bioskop 02 HD" tvg-name="ETV Bioskop 02 HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Bioskop_Indonesia.png" group-title="013",ETV Bioskop 02 HD
+http://013tv.com:8080/F33848/cbd9779b/298513
+#EXTINF:-1 tvg-id="ETV Bioskop 03 HD" tvg-name="ETV Bioskop 03 HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Bioskop_Indonesia.png" group-title="013",ETV Bioskop 03 HD
+http://013tv.com:8080/F33848/cbd9779b/298514
+#EXTINF:-1 tvg-id="ETV Bioskop 04 HD" tvg-name="ETV Bioskop 04 HD" tvg-logo="https://raw.githubusercontent.com/akxel001/image/main/Bioskop_Indonesia.png" group-title="013",ETV Bioskop 04 HD
+http://013tv.com:8080/F33848/cbd9779b/298529
