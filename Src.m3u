@@ -96,3 +96,9 @@ http://filex.me:8080/live/3114654477/5787654467/302297.ts
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDTuhanBenarkahKauMendengarku.m3u8
 #EXTINF:-1 tvg-id="ZIP WIRE" tvg-name="ZIP WIRE" tvg-logo="https://i.ytimg.com/vi/M9tHmu0wNHM/maxresdefault.jpg" group-title="MWR",ZIP WIRE
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/ZipWire.m3u8
+#EXTINF:-1 tvg-id="Bri Super League" tvg-name="Bri Super League" tvg-logo="https://i.imgur.com/Jo2sCpR.jpeg" group-title="DAR",Bri Super League
+https://tvratu.my.id/vid/index.mpd?id=205
+#EXTINF:-1 tvg-id="BRI SUPER LEAGUE 2" tvg-name="BRI SUPER LEAGUE 2" tvg-logo="https://i.imgur.com/Jo2sCpR.jpeg" group-title="DAR",BRI SUPER LEAGUE 2
+https://live3.dyrur1.com/live/73576634_54f4516666701f63bb9173c8782d5852_1080p.m3u8?auth_key=1789747440-0-0-49a3a36cbf825f7fa749e7572a0d1998
+#EXTINF:-1 tvg-id="DensTV" tvg-name="DensTV" group-title="DAR",DensTV
+https://pull.streamviewk7x.click/livesp/sd-6MxiKav4RtRZ1E415L_hd.m3u8?txSecret=76a6eb15e45c77eb190f226c9bad4b56&txTime=6AAE7940
