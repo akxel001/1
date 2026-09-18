@@ -90,3 +90,5 @@ https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/32aa4a6344fd435bb78826c719c11923/index.mpd
 #EXTINF:-1 tvg-id="Fa4" tvg-name="Fa4" group-title="CSF",Fa4
 http://193.47.62.53/hls/HOOOQQQQA.m3u8
+#EXTINF:-1 tvg-id="rcti #2" tvg-name="rcti #2" group-title="Q24",rcti #2
+http://filex.me:8080/live/3114654477/5787654467/302297.ts
