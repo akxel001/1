@@ -72,3 +72,9 @@ https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/inews.m3u8
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor4/playlist.m3u8
 #EXTINF:-1 tvg-id="LC - Lcham3" tvg-name="LC - Lcham3" group-title="CSF",LC - Lcham3
 https://dga1op10s1u3lea.82250d06d39d38.click/live/selcuktabiispor/playlist.m3u8
+#EXTINF:-1 tvg-id="transtv" tvg-name="transtv" group-title="DAR",transtv
+http://filex.me:8080/live/@singh_tesla_7207492/puWnhEGsXpK3/302312.m3u8
+#EXTINF:-1 tvg-id="TRANSTV" tvg-name="TRANSTV" tvg-logo="https://i.imgur.com/nZkEVmb.jpeg" group-title="DAR",TRANSTV
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/transtv.m3u8
+#EXTINF:-1 tvg-id="CNN Indo" tvg-name="CNN Indo" tvg-logo="https://i.imgur.com/PfH7DFq.jpeg" group-title="DAR",CNN Indo
+https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
