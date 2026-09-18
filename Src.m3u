@@ -84,3 +84,7 @@ http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #EXTINF:-1 tvg-id="sctv" tvg-name="sctv" group-title="Q24",sctv
 http://013tv.com:8080/F33848/cbd9779b/162141
+#EXTINF:-1 tvg-id="INDOSIAR (VD)" tvg-name="INDOSIAR (VD)" tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="MWR",INDOSIAR (VD)
+https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
+#EXTINF:-1 tvg-id="SindoNews (V+)" tvg-name="SindoNews (V+)" tvg-logo="https://www.visionplus.id/images/repository/386/437386-SNAPSHOT-m.png" group-title="MWR",SindoNews (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/32aa4a6344fd435bb78826c719c11923/index.mpd
