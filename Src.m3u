@@ -92,3 +92,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/32aa4a6344fd435bb78826c719c11923/in
 http://193.47.62.53/hls/HOOOQQQQA.m3u8
 #EXTINF:-1 tvg-id="rcti #2" tvg-name="rcti #2" group-title="Q24",rcti #2
 http://filex.me:8080/live/3114654477/5787654467/302297.ts
+#EXTINF:-1 tvg-id="BENARKAH KAU MENDENGARKU?" tvg-name="BENARKAH KAU MENDENGARKU?" tvg-logo="https://i.ytimg.com/vi/YtqVzRuKAdU/maxresdefault.jpg" group-title="MWR",BENARKAH KAU MENDENGARKU?
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDTuhanBenarkahKauMendengarku.m3u8
+#EXTINF:-1 tvg-id="ZIP WIRE" tvg-name="ZIP WIRE" tvg-logo="https://i.ytimg.com/vi/M9tHmu0wNHM/maxresdefault.jpg" group-title="MWR",ZIP WIRE
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/ZipWire.m3u8
