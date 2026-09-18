@@ -82,3 +82,5 @@ https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 #EXTINF:-1 tvg-id="SCTV vdo" tvg-name="SCTV vdo" tvg-logo="https://i.imgur.com/LIXv99J.jpeg" group-title="DAR",SCTV vdo
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+#EXTINF:-1 tvg-id="sctv" tvg-name="sctv" group-title="Q24",sctv
+http://013tv.com:8080/F33848/cbd9779b/162141
