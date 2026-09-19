@@ -548,3 +548,9 @@ https://live1.dyrur1.com/live/72221276_6c1f122c25d9ae25aa7685b5ada75f01_720p.m3u
 https://live4.dyrur1.com/live/l6kegi8n5p4tv75_8732fc45d7fc4a55c1f419bb43908a8b_720p.m3u8?auth_key=1789844611-0-0-3f3fc8ce30c58af6982e67024300e0ef
 #EXTINF:-1 tvg-id="21:00 WIB Everton vs Ipswitch Town" tvg-name="21:00 WIB Everton vs Ipswitch Town" tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="INA",21:00 WIB Everton vs Ipswitch Town
 https://live5.dyrur1.com/live/wv78xivzr6dsokr_984e0ff6b67e794d0739220bd366e617_720p.m3u8?auth_key=1789844611-0-0-33ae3495487c0480991cd3d358a0f7df
+#EXTINF:-1 tvg-id="Lib1" tvg-name="Lib1" group-title="CSF",Lib1
+http://193.47.62.44/hls/HHHHAAAAAA.m3u8
+#EXTINF:-1 tvg-id="Bun1" tvg-name="Bun1" group-title="CSF",Bun1
+https://edgestream2.pro/hls/ueyeztrazb4.m3u8
+#EXTINF:-1 tvg-id="23:30 WIB Nottingham Forest vs Coventry City" tvg-name="23:30 WIB Nottingham Forest vs Coventry City" tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="INA",23:30 WIB Nottingham Forest vs Coventry City
+https://play.aarray.cn/rrty/hd-zh-1-4558576_gqzm.m3u8?auth_key=1789840095-0-0-46ec7922b28021b54600dd4745f1c607&token=5f176787191afe38&device=4&platform=rrty
