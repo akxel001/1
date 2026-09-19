@@ -98,3 +98,5 @@ https://tvratu.my.id/vid/index.mpd?id=205
 https://live3.dyrur1.com/live/73576634_54f4516666701f63bb9173c8782d5852_1080p.m3u8?auth_key=1789747440-0-0-49a3a36cbf825f7fa749e7572a0d1998
 #EXTINF:-1 tvg-id="DensTV" tvg-name="DensTV" group-title="DAR",DensTV
 https://pull.streamviewk7x.click/livesp/sd-6MxiKav4RtRZ1E415L_hd.m3u8?txSecret=76a6eb15e45c77eb190f226c9bad4b56&txTime=6AAE7940
+#EXTINF:-1 tvg-id="gtv" tvg-name="gtv" group-title="DAR",gtv
+http://31.43.191.125:8080/live/VIP019201762490519102/18754640ce7b/34331.m3u8
