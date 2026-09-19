@@ -5,3 +5,149 @@ https://green-night-d2b4.iontv.workers.dev/p?u=aHR0cHM6Ly92aWRlby5kZXRpay5jb20vd
 https://green-night-d2b4.iontv.workers.dev/p?u=aHR0cHM6Ly92aWRlby5kZXRpay5jb20vdHJhbnN0di1zZWMvc21pbDp0cmFuc3R2LnNtaWwvY2h1bmtsaXN0X3cxNjgxNjU5NzY1X2I1NDQxMDBfc2xlbmdfdGtkMjkzZW1GMGIydGxibk4wWVhKMGRHbHRaVDB3Sm5kdmQzcGhkRzlyWlc1bGJtUjBhVzFsUFRFM09EazFNalUxTkRFM01UVW1kMjkzZW1GMGIydGxibWhoYzJnOVpqWnVkVXgwUzIwNE1GRkVlV014UkRsbmVqUkhSbGhqVFVSdk1sTkRlSFJKWWtoQ1FWbHdlbmhMVFQwPS5tM3U4&r=https%3A%2F%2F20.detik.com%2Flive%2Ftrans-tv&o=https%3A%2F%2F20.detik.com&k=cshx%3D3bcdb206
 #EXTINF:-1 tvg-id="TransTv #6" tvg-name="TransTv #6" group-title="INDO-Q24",TransTv #6
 https://green-night-d2b4.iontv.workers.dev/p?u=aHR0cHM6Ly92aWRlby5kZXRpay5jb20vdHJhbnN0di1zZWMvc21pbDp0cmFuc3R2LnNtaWwvY2h1bmtsaXN0X3cxNjgxNjU5NzY1X2IzNDQxMDBfc2xlbmdfdGtkMjkzZW1GMGIydGxibk4wWVhKMGRHbHRaVDB3Sm5kdmQzcGhkRzlyWlc1bGJtUjBhVzFsUFRFM09EazFNalUxTkRFM01UVW1kMjkzZW1GMGIydGxibWhoYzJnOVpqWnVkVXgwUzIwNE1GRkVlV014UkRsbmVqUkhSbGhqVFVSdk1sTkRlSFJKWWtoQ1FWbHdlbmhMVFQwPS5tM3U4&r=https%3A%2F%2F20.detik.com%2Flive%2Ftrans-tv&o=https%3A%2F%2F20.detik.com&k=cshx%3D3bcdb206
+#EXTINF:-1 tvg-id="METRO TV" tvg-name="METRO TV" tvg-logo="https://i.ibb.co.com/qSMBW0D/METROTV.png" group-title="INDO-INA",METRO TV
+https://edge-medcom.streamized.net/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC INDONESIA" tvg-name="CNBC INDONESIA" tvg-logo="https://i.ibb.co.com/fY8VBrgB/CNBC.png" group-title="INDO-INA",CNBC INDONESIA
+https://green-night-d2b4.iontv.workers.dev/cnbc.m3u8
+#EXTINF:-1 tvg-id="BERITASATU" tvg-name="BERITASATU" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png" group-title="INDO-INA",BERITASATU
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/89c624c5-4b4f-473c-b50d-1a156a1c0174/720p/index.m3u8
+#EXTINF:-1 tvg-id="Bandung TV" tvg-name="Bandung TV" tvg-logo="https://i.ibb.co.com/nMRML1qp/BANDUNG.png" group-title="INDO-INA",Bandung TV
+http://202.150.153.254:443/bandungtvWEBSITE.m3u8
+#EXTINF:-1 tvg-id="Matrix TV Jogjakarta" tvg-name="Matrix TV Jogjakarta" tvg-logo="https://i.ibb.co.com/gLsTjbxs/IMG-20251231-124917.png" group-title="INDO-INA",Matrix TV Jogjakarta
+https://stream.matrixtv.id/hls/2/stream.m3u8
+#EXTINF:-1 tvg-id="CarubanTV" tvg-name="CarubanTV" tvg-logo="https://i.ibb.co.com/cSXzq1yw/CARUBAN.png" group-title="INDO-INA",CarubanTV
+https://stream.carubantv.id/hls/1/stream.m3u8?cachebust=9cd08107
+#EXTINF:-1 tvg-id="LingkarTV" tvg-name="LingkarTV" tvg-logo="https://i.ibb.co.com/r2GJQJGP/LINGKAR.png" group-title="INDO-INA",LingkarTV
+https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="TVRI Aceh" tvg-name="TVRI Aceh" tvg-logo="https://iili.io/JmF1BWb.png" group-title="INDO-INA",TVRI Aceh
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTINF:-1 tvg-id="TVRI Bali" tvg-name="TVRI Bali" tvg-logo="https://iili.io/JmF1x0Q.png" group-title="INDO-INA",TVRI Bali
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:-1 tvg-id="TVRI Bangka Belitung" tvg-name="TVRI Bangka Belitung" tvg-logo="https://iili.io/JmF1zgV.png" group-title="INDO-INA",TVRI Bangka Belitung
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:-1 tvg-id="TVRI Bengkulu" tvg-name="TVRI Bengkulu" tvg-logo="https://iili.io/JmF1TdB.png" group-title="INDO-INA",TVRI Bengkulu
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+#EXTINF:-1 tvg-id="TVRI Gorontalo" tvg-name="TVRI Gorontalo" tvg-logo="https://iili.io/JmF1Ae1.png" group-title="INDO-INA",TVRI Gorontalo
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+#EXTINF:-1 tvg-id="TVRI Jakarta" tvg-name="TVRI Jakarta" tvg-logo="https://iili.io/JmF17zg.png" group-title="INDO-INA",TVRI Jakarta
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+#EXTINF:-1 tvg-id="TVRI Jambi" tvg-name="TVRI Jambi" tvg-logo="https://iili.io/JmF1RmF.png" group-title="INDO-INA",TVRI Jambi
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+#EXTINF:-1 tvg-id="TVRI Jawa Barat" tvg-name="TVRI Jawa Barat" tvg-logo="https://iili.io/JmF1YXa.png" group-title="INDO-INA",TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1 tvg-id="TVRI Jawa Tengah" tvg-name="TVRI Jawa Tengah" tvg-logo="https://iili.io/JmF1GdN.png" group-title="INDO-INA",TVRI Jawa Tengah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1 tvg-id="TVRI Kalimantan Barat" tvg-name="TVRI Kalimantan Barat" tvg-logo="https://iili.io/JmF1M7I.png" group-title="INDO-INA",TVRI Kalimantan Barat
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+#EXTINF:-1 tvg-id="TVRI Kalimantan Selatan" tvg-name="TVRI Kalimantan Selatan" tvg-logo="https://iili.io/JmF1WmX.png" group-title="INDO-INA",TVRI Kalimantan Selatan
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+#EXTINF:-1 tvg-id="TVRI Kalimantan Tengah" tvg-name="TVRI Kalimantan Tengah" tvg-logo="https://iili.io/JmF1hIn.png" group-title="INDO-INA",TVRI Kalimantan Tengah
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+#EXTINF:-1 tvg-id="TVRI Kalimantan Timur" tvg-name="TVRI Kalimantan Timur" tvg-logo="https://iili.io/JmF1jXs.png" group-title="INDO-INA",TVRI Kalimantan Timur
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+#EXTINF:-1 tvg-id="TVRI Lampung" tvg-name="TVRI Lampung" tvg-logo="https://iili.io/JmF1krl.png" group-title="INDO-INA",TVRI Lampung
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+#EXTINF:-1 tvg-id="TVRI Maluku" tvg-name="TVRI Maluku" tvg-logo="https://iili.io/JmF1wLG.png" group-title="INDO-INA",TVRI Maluku
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+#EXTINF:-1 tvg-id="TVRI NTB" tvg-name="TVRI NTB" tvg-logo="https://iili.io/JmF1e14.png" group-title="INDO-INA",TVRI NTB
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:-1 tvg-id="TVRI NTT" tvg-name="TVRI NTT" tvg-logo="https://iili.io/JmF1gp9.png" group-title="INDO-INA",TVRI NTT
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+#EXTINF:-1 tvg-id="TVRI Papua" tvg-name="TVRI Papua" tvg-logo="https://iili.io/JmF1822.png" group-title="INDO-INA",TVRI Papua
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+#EXTINF:-1 tvg-id="TVRI Papua Barat" tvg-name="TVRI Papua Barat" tvg-logo="https://iili.io/d9HAivV.png" group-title="INDO-INA",TVRI Papua Barat
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+#EXTINF:-1 tvg-id="TVRI Riau" tvg-name="TVRI Riau" tvg-logo="https://iili.io/JmF1S7S.png" group-title="INDO-INA",TVRI Riau
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
+#EXTINF:-1 tvg-id="TVRI Sulawesi Barat" tvg-name="TVRI Sulawesi Barat" tvg-logo="https://iili.io/JmF1PLb.png" group-title="INDO-INA",TVRI Sulawesi Barat
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+#EXTINF:-1 tvg-id="TVRI Sulawesi Selatan" tvg-name="TVRI Sulawesi Selatan" tvg-logo="https://iili.io/JmF16hu.png" group-title="INDO-INA",TVRI Sulawesi Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+#EXTINF:-1 tvg-id="TVRI Sulawesi Tengah" tvg-name="TVRI Sulawesi Tengah" tvg-logo="https://iili.io/JmF1t2V.png" group-title="INDO-INA",TVRI Sulawesi Tengah
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+#EXTINF:-1 tvg-id="TVRI Sulawesi Tenggara" tvg-name="TVRI Sulawesi Tenggara" tvg-logo="https://iili.io/JmF1Kbe.png" group-title="INDO-INA",TVRI Sulawesi Tenggara
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+#EXTINF:-1 tvg-id="TVRI Sulawesi Utara" tvg-name="TVRI Sulawesi Utara" tvg-logo="https://iili.io/JmF1Fe9.png" group-title="INDO-INA",TVRI Sulawesi Utara
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+#EXTINF:-1 tvg-id="TVRI Sumatera Barat" tvg-name="TVRI Sumatera Barat" tvg-logo="https://iili.io/JmF1357.png" group-title="INDO-INA",TVRI Sumatera Barat
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+#EXTINF:-1 tvg-id="TVRI Sumatera Selatan" tvg-name="TVRI Sumatera Selatan" tvg-logo="https://iili.io/JmF12JS.png" group-title="INDO-INA",TVRI Sumatera Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+#EXTINF:-1 tvg-id="TVRI Sumatera Utara" tvg-name="TVRI Sumatera Utara" tvg-logo="https://iili.io/JmF1oqx.png" group-title="INDO-INA",TVRI Sumatera Utara
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+#EXTINF:-1 tvg-id="TVRI Yogyakarta" tvg-name="TVRI Yogyakarta" tvg-logo="https://iili.io/JmF1Csj.png" group-title="INDO-INA",TVRI Yogyakarta
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+#EXTINF:-1 tvg-id="Kec. Arjawinangun - Simpang Pasar Junjang 2" tvg-name="Kec. Arjawinangun - Simpang Pasar Junjang 2" group-title="INDO-INA",Kec. Arjawinangun - Simpang Pasar Junjang 2
+https://cctv-backend.cirebonkab.go.id:6969/memfs/6cb72e32-4f64-4550-8557-a83b9c8e891a_output_0.m3u8?session=FgX3jEgDNwTtrTzQ8MnR6R
+#EXTINF:-1 tvg-id="Kec. Ciwaringin - Simpang Ciwaringin" tvg-name="Kec. Ciwaringin - Simpang Ciwaringin" group-title="INDO-INA",Kec. Ciwaringin - Simpang Ciwaringin
+https://cctv-backend.cirebonkab.go.id:6969/memfs/7dbb977f-10ba-44be-8f19-2a9fb8979f66_output_0.m3u8?session=NybKRKaJW3ZPSHNG3THo4d
+#EXTINF:-1 tvg-id="Kec. Palimanan - Simpang Palimanan" tvg-name="Kec. Palimanan - Simpang Palimanan" group-title="INDO-INA",Kec. Palimanan - Simpang Palimanan
+https://cctv-backend.cirebonkab.go.id:6969/memfs/dd29bcf6-7848-4332-85ac-8ddf65222d6b_output_0.m3u8?session=QsHybFjC3JwtcrfGVjDyz4
+#EXTINF:-1 tvg-id="Kec. Plumbon - Exit Tol 1" tvg-name="Kec. Plumbon - Exit Tol 1" group-title="INDO-INA",Kec. Plumbon - Exit Tol 1
+https://cctv-backend.cirebonkab.go.id:6969/memfs/88f8003a-9c18-4f0a-b4fa-f5b2c4f62143_output_0.m3u8?session=k25eAZnCDQ9ZENF4YKZZsQ
+#EXTINF:-1 tvg-id="Kec. Weru - Simpang Plered 3" tvg-name="Kec. Weru - Simpang Plered 3" group-title="INDO-INA",Kec. Weru - Simpang Plered 3
+https://cctv-backend.cirebonkab.go.id:6969/memfs/bcf098d1-1af4-459e-8d4a-8b94a8aed0e4_output_0.m3u8?session=8H6e3JJDh9XV8AdHt2qgeY
+#EXTINF:-1 tvg-id="Kec. Kedawung - Bundaran Kedawung 2" tvg-name="Kec. Kedawung - Bundaran Kedawung 2" group-title="INDO-INA",Kec. Kedawung - Bundaran Kedawung 2
+https://cctv-backend.cirebonkab.go.id:6969/memfs/a71f2a04-c4c0-4280-9d71-d572d01fe1e6_output_0.m3u8?session=EEBUcUUaKRWPzKjWusLkUf
+#EXTINF:-1 tvg-id="Kec. Gn. Jati - Jl. Makam Sunan" tvg-name="Kec. Gn. Jati - Jl. Makam Sunan" group-title="INDO-INA",Kec. Gn. Jati - Jl. Makam Sunan
+https://cctv-backend.cirebonkab.go.id:6969/memfs/3aa30f9f-06c8-41c7-9571-04fc18c7fc7a_output_0.m3u8?session=XYeu9sk45dQXbzGhBPeWU4
+#EXTINF:-1 tvg-id="Kec. Dukupuntang - Simpang Pasar Kramat 2" tvg-name="Kec. Dukupuntang - Simpang Pasar Kramat 2" group-title="INDO-INA",Kec. Dukupuntang - Simpang Pasar Kramat 2
+https://cctv-backend.cirebonkab.go.id:6969/memfs/40ea0ae3-26cf-4fa5-8802-48198d143f14_output_0.m3u8?session=8mf8REGU4EaSuxsRRfZQUq
+#EXTINF:-1 tvg-id="Kec. Sumber - Simpang Kenanga" tvg-name="Kec. Sumber - Simpang Kenanga" group-title="INDO-INA",Kec. Sumber - Simpang Kenanga
+https://cctv-backend.cirebonkab.go.id:6969/memfs/f7b1c4fe-8bee-4624-8e91-7765d5640ee8_output_0.m3u8?session=AKfcgP2rd28FGwwxMeZsTE
+#EXTINF:-1 tvg-id="Kec. Sumber - Simpang Taman PKK" tvg-name="Kec. Sumber - Simpang Taman PKK" group-title="INDO-INA",Kec. Sumber - Simpang Taman PKK
+https://cctv-backend.cirebonkab.go.id:6969/memfs/0d3f6af6-b408-4739-914c-4fe42da1489a_output_0.m3u8?session=GHA8GMQAT4Z7N8wSCmthFd
+#EXTINF:-1 tvg-id="Kec. Sumber - Simpang Pasar Sumber 1" tvg-name="Kec. Sumber - Simpang Pasar Sumber 1" group-title="INDO-INA",Kec. Sumber - Simpang Pasar Sumber 1
+https://cctv-backend.cirebonkab.go.id:6969/memfs/9e5cb528-a433-468d-9570-be0ec1316120_output_0.m3u8?session=msMso7LjubfLieczigtpz9
+#EXTINF:-1 tvg-id="Kec. Sumber - Simpang Disdik" tvg-name="Kec. Sumber - Simpang Disdik" group-title="INDO-INA",Kec. Sumber - Simpang Disdik
+https://cctv-backend.cirebonkab.go.id:6969/memfs/157dd0a9-f3e6-4ea6-afad-f56b645e49ec_output_0.m3u8?session=bP2tJpHMqd9ykRLwjkHVf3
+#EXTINF:-1 tvg-id="Kec. Sumber - Alun-alun Pataraksa" tvg-name="Kec. Sumber - Alun-alun Pataraksa" group-title="INDO-INA",Kec. Sumber - Alun-alun Pataraksa
+https://cctv-backend.cirebonkab.go.id:6969/memfs/4c99a769-bce9-47f4-86ea-683aab391d25_output_0.m3u8?session=M6VAcqefBd756pPYRmw97e
+#EXTINF:-1 tvg-id="Kec. Sumber - Simpang DPRD" tvg-name="Kec. Sumber - Simpang DPRD" group-title="INDO-INA",Kec. Sumber - Simpang DPRD
+https://cctv-backend.cirebonkab.go.id:6969/memfs/f8083a29-d000-449a-9cb9-5491afa300f9_output_0.m3u8?session=DtAW4JBggKdFLuVJXjmnyK
+#EXTINF:-1 tvg-id="Kec. Sumber - Jalan Kantor DPRD" tvg-name="Kec. Sumber - Jalan Kantor DPRD" group-title="INDO-INA",Kec. Sumber - Jalan Kantor DPRD
+https://cctv-backend.cirebonkab.go.id:6969/memfs/02201aa3-ae20-41d8-9a8e-bf2f13cad662_output_0.m3u8?session=PPWAUdokF7kHTEokigCjCD
+#EXTINF:-1 tvg-id="Kec. Sumber - Jalan Kantor Bupati" tvg-name="Kec. Sumber - Jalan Kantor Bupati" group-title="INDO-INA",Kec. Sumber - Jalan Kantor Bupati
+https://cctv-backend.cirebonkab.go.id:6969/memfs/880e7686-641a-4517-ad40-e7c6729e6cc8_output_0.m3u8?session=P27ydS9mmEUMSrNi49LQDG
+#EXTINF:-1 tvg-id="Kec. Sumber - Simpang Babakan Sumber" tvg-name="Kec. Sumber - Simpang Babakan Sumber" group-title="INDO-INA",Kec. Sumber - Simpang Babakan Sumber
+https://cctv-backend.cirebonkab.go.id:6969/memfs/d53579b1-67a7-4577-931e-dd491f332d4b_output_0.m3u8?session=m5s4zsCpCdVT5azPVtPMk3
+#EXTINF:-1 tvg-id="Kec. Astanajapura - Exit Tol 1" tvg-name="Kec. Astanajapura - Exit Tol 1" group-title="INDO-INA",Kec. Astanajapura - Exit Tol 1
+https://cctv-backend.cirebonkab.go.id:6969/memfs/9b4e3bec-18b3-4604-bfb3-62f0cff4750d_output_0.m3u8?session=ExkGNpq4rAJomiXcs7FMLi
+#EXTINF:-1 tvg-id="Kec. Lemahabang - Pasar Cipeujeuh Wetan" tvg-name="Kec. Lemahabang - Pasar Cipeujeuh Wetan" group-title="INDO-INA",Kec. Lemahabang - Pasar Cipeujeuh Wetan
+https://cctv-backend.cirebonkab.go.id:6969/memfs/55cfddc7-66d0-4731-a5f2-359594fee9ca_output_0.m3u8?session=TMBKPRWNU47LUMkTjRcUet
+#EXTINF:-1 tvg-id="Kec. Gebang - Simpang Pasar Gebang" tvg-name="Kec. Gebang - Simpang Pasar Gebang" group-title="INDO-INA",Kec. Gebang - Simpang Pasar Gebang
+https://cctv-backend.cirebonkab.go.id:6969/memfs/1f5811df-8482-4a55-b00e-f4010c78bbee_output_0.m3u8?session=ccRLxSKbvPrYGx3kykdTJj
+#EXTINF:-1 tvg-id="Kec. Pabuaran - Simpang Pasar Pabuaran" tvg-name="Kec. Pabuaran - Simpang Pasar Pabuaran" group-title="INDO-INA",Kec. Pabuaran - Simpang Pasar Pabuaran
+https://cctv-backend.cirebonkab.go.id:6969/memfs/26d5ad8b-8f22-4002-b31f-387e1cd2cbee_output_0.m3u8?session=jP9dMkaPyrtGKutF2rYuoZ
+#EXTINF:-1 tvg-id="Kec. Losari - Simpang Terminal Losari 1" tvg-name="Kec. Losari - Simpang Terminal Losari 1" group-title="INDO-INA",Kec. Losari - Simpang Terminal Losari 1
+https://cctv-backend.cirebonkab.go.id:6969/memfs/a87b98b8-be04-4415-a0ad-8d5d582c17e4_output_0.m3u8?session=mooKDFVZRV6xLirz7FMcwW
+#EXTINF:-1 tvg-id="Kec. Losari - Simpang Terminal Losari 2" tvg-name="Kec. Losari - Simpang Terminal Losari 2" group-title="INDO-INA",Kec. Losari - Simpang Terminal Losari 2
+https://cctv-backend.cirebonkab.go.id:6969/memfs/a33ab3f4-2d64-42f4-8f8b-733ba260fcc4_output_0.m3u8?session=8YDTksfKmwpgKyPEGTumrY
+#EXTINF:-1 tvg-id="ATCS Simpang Samsat" tvg-name="ATCS Simpang Samsat" group-title="INDO-INA",ATCS Simpang Samsat
+https://cctv.cirebonkota.go.id/hls/atcs-simpang-samsat/index.m3u8
+#EXTINF:-1 tvg-id="ATCS Simpang Perumnas" tvg-name="ATCS Simpang Perumnas" group-title="INDO-INA",ATCS Simpang Perumnas
+https://cctv.cirebonkota.go.id/hls/atcs-simpang-perumnas/index.m3u8
+#EXTINF:-1 tvg-id="ATCS Simpang Kanggraksan" tvg-name="ATCS Simpang Kanggraksan" group-title="INDO-INA",ATCS Simpang Kanggraksan
+https://cctv.cirebonkota.go.id/hls/atcs-simpang-kanggraksan/index.m3u8
+#EXTINF:-1 tvg-id="ATCS Simpang Terminal" tvg-name="ATCS Simpang Terminal" group-title="INDO-INA",ATCS Simpang Terminal
+https://cctv.cirebonkota.go.id/hls/atcs-simpang-terminal/index.m3u8
+#EXTINF:-1 tvg-id="Satpol PP" tvg-name="Satpol PP" group-title="INDO-INA",Satpol PP
+https://cctv.cirebonkota.go.id/hls/satpol-pp/index.m3u8
+#EXTINF:-1 tvg-id="ATCS Simpang Krucuk" tvg-name="ATCS Simpang Krucuk" group-title="INDO-INA",ATCS Simpang Krucuk
+https://cctv.cirebonkota.go.id/hls/atcs-simpang-krucuk/index.m3u8
+#EXTINF:-1 tvg-id="ATCS Simpang Cabang Bayi" tvg-name="ATCS Simpang Cabang Bayi" group-title="INDO-INA",ATCS Simpang Cabang Bayi
+https://cctv.cirebonkota.go.id/hls/atcs-simpang-jabang-bayi/index.m3u8
+#EXTINF:-1 tvg-id="ATCS Simpang Asia" tvg-name="ATCS Simpang Asia" group-title="INDO-INA",ATCS Simpang Asia
+https://cctv.cirebonkota.go.id/hls/atcs-simpang-asia/index.m3u8
+#EXTINF:-1 tvg-id="ATCS Simpang Gunung Sari" tvg-name="ATCS Simpang Gunung Sari" group-title="INDO-INA",ATCS Simpang Gunung Sari
+https://cctv.cirebonkota.go.id/hls/atcs-simpang-gunung-sari/index.m3u8
+#EXTINF:-1 tvg-id="ATCS Simpang Winaon" tvg-name="ATCS Simpang Winaon" group-title="INDO-INA",ATCS Simpang Winaon
+https://cctv.cirebonkota.go.id/hls/atcs-simpang-winaon/index.m3u8
+#EXTINF:-1 tvg-id="ATCS Simpang Siliwangi" tvg-name="ATCS Simpang Siliwangi" group-title="INDO-INA",ATCS Simpang Siliwangi
+https://cctv.cirebonkota.go.id/hls/atcs-simpang-siliwangi/index.m3u8
+#EXTINF:-1 tvg-id="Sudarsono" tvg-name="Sudarsono" group-title="INDO-INA",Sudarsono
+https://cctv.cirebonkota.go.id/hls/sudarsono/index.m3u8
+#EXTINF:-1 tvg-id="ATCS Simpang Diklatpri" tvg-name="ATCS Simpang Diklatpri" group-title="INDO-INA",ATCS Simpang Diklatpri
+https://cctv.cirebonkota.go.id/hls/atcs-simpang-diklatpri/index.m3u8
+#EXTINF:-1 tvg-id="Jalan Pemuda" tvg-name="Jalan Pemuda" group-title="INDO-INA",Jalan Pemuda
+https://cctv.cirebonkota.go.id/hls/jalan-pemuda/index.m3u8
