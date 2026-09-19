@@ -104,3 +104,13 @@ http://31.43.191.125:8080/live/VIP019201762490519102/18754640ce7b/34331.m3u8
 https://vidsemar.pages.dev/terraluna2/205.mpd
 #EXTINF:-1 tvg-id="SCTV vdo" tvg-name="SCTV vdo" tvg-logo="https://i.imgur.com/LIXv99J.jpeg" group-title="DAR",SCTV vdo
 https://vidsemar.pages.dev/terraluna2/204.mpd
+#EXTINF:-1 tvg-id="TransTv #4" tvg-name="TransTv #4" group-title="Q24",TransTv #4
+https://green-night-d2b4.iontv.workers.dev/p?u=aHR0cHM6Ly92aWRlby5kZXRpay5jb20vdHJhbnN0di1zZWMvc21pbDp0cmFuc3R2LnNtaWwvY2h1bmtsaXN0X3cxNjgxNjU5NzY1X2I3NDQxMDBfc2xlbmdfdGtkMjkzZW1GMGIydGxibk4wWVhKMGRHbHRaVDB3Sm5kdmQzcGhkRzlyWlc1bGJtUjBhVzFsUFRFM09EazFNalUxTkRFM01UVW1kMjkzZW1GMGIydGxibWhoYzJnOVpqWnVkVXgwUzIwNE1GRkVlV014UkRsbmVqUkhSbGhqVFVSdk1sTkRlSFJKWWtoQ1FWbHdlbmhMVFQwPS5tM3U4&r=https%3A%2F%2F20.detik.com%2Flive%2Ftrans-tv&o=https%3A%2F%2F20.detik.com&k=cshx%3D3bcdb206
+#EXTINF:-1 tvg-id="TransTv #5" tvg-name="TransTv #5" group-title="Q24",TransTv #5
+https://green-night-d2b4.iontv.workers.dev/p?u=aHR0cHM6Ly92aWRlby5kZXRpay5jb20vdHJhbnN0di1zZWMvc21pbDp0cmFuc3R2LnNtaWwvY2h1bmtsaXN0X3cxNjgxNjU5NzY1X2I1NDQxMDBfc2xlbmdfdGtkMjkzZW1GMGIydGxibk4wWVhKMGRHbHRaVDB3Sm5kdmQzcGhkRzlyWlc1bGJtUjBhVzFsUFRFM09EazFNalUxTkRFM01UVW1kMjkzZW1GMGIydGxibWhoYzJnOVpqWnVkVXgwUzIwNE1GRkVlV014UkRsbmVqUkhSbGhqVFVSdk1sTkRlSFJKWWtoQ1FWbHdlbmhMVFQwPS5tM3U4&r=https%3A%2F%2F20.detik.com%2Flive%2Ftrans-tv&o=https%3A%2F%2F20.detik.com&k=cshx%3D3bcdb206
+#EXTINF:-1 tvg-id="TransTv #6" tvg-name="TransTv #6" group-title="Q24",TransTv #6
+https://green-night-d2b4.iontv.workers.dev/p?u=aHR0cHM6Ly92aWRlby5kZXRpay5jb20vdHJhbnN0di1zZWMvc21pbDp0cmFuc3R2LnNtaWwvY2h1bmtsaXN0X3cxNjgxNjU5NzY1X2IzNDQxMDBfc2xlbmdfdGtkMjkzZW1GMGIydGxibk4wWVhKMGRHbHRaVDB3Sm5kdmQzcGhkRzlyWlc1bGJtUjBhVzFsUFRFM09EazFNalUxTkRFM01UVW1kMjkzZW1GMGIydGxibWhoYzJnOVpqWnVkVXgwUzIwNE1GRkVlV014UkRsbmVqUkhSbGhqVFVSdk1sTkRlSFJKWWtoQ1FWbHdlbmhMVFQwPS5tM3U4&r=https%3A%2F%2F20.detik.com%2Flive%2Ftrans-tv&o=https%3A%2F%2F20.detik.com&k=cshx%3D3bcdb206
+#EXTINF:-1 tvg-id="BRI SUPER LEAGUE" tvg-name="BRI SUPER LEAGUE" tvg-logo="https://i.imgur.com/Jo2sCpR.jpeg" group-title="DAR",BRI SUPER LEAGUE
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622774.m3u8?hwSecret=28122ed128c02197c6ec3c40633bc9c116d75c466f0fb25941ee3eb947f24253&sub_m3u8=true&edge_slice=true&user_session_id=884acf69ac7d92e6be8aa750c6837528&hwTime=6aae52b7
+#EXTINF:-1 tvg-id="DENSTV" tvg-name="DENSTV" tvg-logo="https://i.imgur.com/8G6A57Z.png" group-title="DAR",DENSTV
+https://www.dropbox.com/scl/fi/y1fxld6mywp8rik6ty0t0/Slam_-_Tak_Mungkin_Berpaling_-Music_Video-_MP4_720p.mp4?rlkey=4vijacbz0mo0x0kywdua8buop&st=g1zg5yy0&dl=1
