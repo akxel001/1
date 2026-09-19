@@ -496,3 +496,17 @@ https://cctv.cirebonkota.go.id/hls/atcs-simpang-diklatpri/index.m3u8
 https://cctv.cirebonkota.go.id/hls/jalan-pemuda/index.m3u8
 #EXTINF:-1 tvg-id="Depan AT-Taqwa" tvg-name="Depan AT-Taqwa" group-title="INA",Depan AT-Taqwa
 https://cctv.cirebonkota.go.id/hls/depan-ataqwa/index.m3u8
+#EXTINF:-1 tvg-id="15:30 WIB PSM vs Persita" tvg-name="15:30 WIB PSM vs Persita" tvg-logo="https://shorter.me/_bDcr" group-title="VLB",15:30 WIB PSM vs Persita
+https://live2.zundrixmediapipeline.com/live/channel18.m3u8
+#EXTINF:-1 tvg-id="15:30 WIB Persebaya Surabaya vs Garudayaksa" tvg-name="15:30 WIB Persebaya Surabaya vs Garudayaksa" tvg-logo="https://shorter.me/_bDcr" group-title="VLB",15:30 WIB Persebaya Surabaya vs Garudayaksa
+https://live2.zundrixmediapipeline.com/live/channel13.m3u8
+#EXTINF:-1 tvg-id="15:30 WIB Persebaya Surabaya vs Garudayaksa" tvg-name="15:30 WIB Persebaya Surabaya vs Garudayaksa" tvg-logo="https://shorter.me/_bDcr" group-title="VLB",15:30 WIB Persebaya Surabaya vs Garudayaksa
+https://d302.soft4game.com/o22/stream460/o/stream460/chunks.m3u8?nimblesessionid=133212392&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDI2IDg6Mzc6NDggQU0maGFzaF92YWx1ZT1ObEZsaVpmR2RiQ2p6aklFMFNqbERBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+#EXTINF:-1 tvg-id="19:00 WIB Persija vs Malut United" tvg-name="19:00 WIB Persija vs Malut United" tvg-logo="https://shorter.me/_bDcr" group-title="VLB",19:00 WIB Persija vs Malut United
+https://live2.zundrixmediapipeline.com/live/channel20.m3u8
+#EXTINF:-1 tvg-id="21:15 WIB Athletic Club vs Deportivo Alavés" tvg-name="21:15 WIB Athletic Club vs Deportivo Alavés" tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="VLB",21:15 WIB Athletic Club vs Deportivo Alavés
+https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 tvg-id="23:30 WIB Celta de Vigo vs Racing Santander" tvg-name="23:30 WIB Celta de Vigo vs Racing Santander" tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="VLB",23:30 WIB Celta de Vigo vs Racing Santander
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-id="20:00 WIB Udinese vs Cagliari" tvg-name="20:00 WIB Udinese vs Cagliari" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s" group-title="VLB",20:00 WIB Udinese vs Cagliari
+https://polsey1.xn--zlqv28l.shop/puk4/usergendx3j2x4tqrnd.m3u8
