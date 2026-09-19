@@ -151,3 +151,5 @@ https://cctv.cirebonkota.go.id/hls/sudarsono/index.m3u8
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-diklatpri/index.m3u8
 #EXTINF:-1 tvg-id="Jalan Pemuda" tvg-name="Jalan Pemuda" group-title="INDO-INA",Jalan Pemuda
 https://cctv.cirebonkota.go.id/hls/jalan-pemuda/index.m3u8
+#EXTINF:-1 tvg-id="TVONE" tvg-name="TVONE" tvg-logo="https://i.imgur.com/K31rMbd.jpeg" group-title="INDO-DAR",TVONE
+https://flv.intechmedia.net/live/ch109.m3u8
