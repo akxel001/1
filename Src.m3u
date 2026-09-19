@@ -530,3 +530,13 @@ http://193.47.62.44/hls/JYYYAAA.m3u8
 http://193.47.62.44/hls/JYYYAA.m3u8
 #EXTINF:-1 tvg-id="Seri1" tvg-name="Seri1" group-title="CSF",Seri1
 https://www.rtmpcdn.com/live/ec0098b5-9bbf-47c2-80f6-28d4ac2697bb.m3u8
+#EXTINF:-1 tvg-id="Ep6" tvg-name="Ep6" group-title="CSF",Ep6
+https://www.rtmpcdn.com/live/6989cffb-42d9-4998-af07-8e569a934ada.m3u8
+#EXTINF:-1 tvg-id="Ep8" tvg-name="Ep8" group-title="CSF",Ep8
+http://193.47.62.41/hls/TOTOTOQQ.m3u8
+#EXTINF:-1 tvg-id="21:00 WIB Brighton vs Arsenal" tvg-name="21:00 WIB Brighton vs Arsenal" tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="INA",21:00 WIB Brighton vs Arsenal
+https://play.aarray.cn/rrty/hd-zh-1-4558560_gqzm.m3u8?auth_key=1789830633-0-0-3685ea6e2a71628b3fafd36dab4bf05e&token=1abf46b1e86e0312&device=4&platform=rrty
+#EXTINF:-1 tvg-id="21:00 WIB Newcastle United vs Hull City" tvg-name="21:00 WIB Newcastle United vs Hull City" tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="INA",21:00 WIB Newcastle United vs Hull City
+https://play.aarray.cn/rrty/hd-zh-1-4558575_gqzm.m3u8?auth_key=1789830690-0-0-11f81f0c52d03113c847615d665570a0&token=07045b66a8cb9714&device=4&platform=rrty
+#EXTINF:-1 tvg-id="21:00 WIB Everton vs Ipswitch Town" tvg-name="21:00 WIB Everton vs Ipswitch Town" tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="INA",21:00 WIB Everton vs Ipswitch Town
+https://play.aarray.cn/rrty/hd-zh-1-4558562_gqzm.m3u8?auth_key=1789830749-0-0-0d23f1b461254a9b7ebeed5ddd14d6f9&token=24a2a7303db313c9&device=4&platform=rrty
