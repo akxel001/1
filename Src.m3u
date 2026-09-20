@@ -31,3 +31,15 @@ https://play.aarray.cn/rrty/hd-zh-1-4558569_gqzm.m3u8?auth_key=1789912332-0-0-13
 https://play.aarray.cn/rrty/hd-zh-1-4558572_gqzm.m3u8?auth_key=1789912332-0-0-988d76420c6bcb89cc11fbd7339607c7&token=0ecf4002123ed108&device=4&platform=rrty
 #EXTINF:-1 tvg-id="20:00 WIB Manchester City vs Sunderland" tvg-name="20:00 WIB Manchester City vs Sunderland" tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="INA",20:00 WIB Manchester City vs Sunderland
 http://193.47.62.44/hls/SGLLLQQQQ.m3u8
+#EXTINF:-1 tvg-id="Ep8" tvg-name="Ep8" group-title="CSF",Ep8
+https://www.rtmpcdn.com/live/e5fd48b7-2ea8-4d3c-a6f0-299023796ac0.m3u8
+#EXTINF:-1 tvg-id="Ep6" tvg-name="Ep6" group-title="CSF",Ep6
+https://www.rtmpcdn.com/live/c482b572-08ff-41f1-a3e8-fdbd06b7ffdd.m3u8
+#EXTINF:-1 tvg-id="20:00 WIB Bornemouth vs Liverpool" tvg-name="20:00 WIB Bornemouth vs Liverpool" tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="INA",20:00 WIB Bornemouth vs Liverpool
+https://play.aarray.cn/rrty/hd-zh-1-4558554_gqzm.m3u8?auth_key=1789916419-0-0-3c07de2e55576a9f3ad7df0471e84f80&token=f260f4b8fe25bbbe&device=4&platform=rrty
+#EXTINF:-1 tvg-id="colik" tvg-name="colik" group-title="INA",colik
+https://live1.dyrur1.com/live/zrkn6i4gw9wcwql_95b9cb8a802acb81c90e45cf7c493104_540p.m3u8?auth_key=1789924969-0-0-3e997eae0652c5928947cd777b3264fe
+#EXTINF:-1 tvg-id="20:00 WIB Manchester City vs Sunderland" tvg-name="20:00 WIB Manchester City vs Sunderland" tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="INA",20:00 WIB Manchester City vs Sunderland
+https://play.aarray.cn/rrty/hd-zh-1-4558572_gqzm.m3u8?auth_key=1789916480-0-0-841eec4b86a4a69bd669e0d9efc0cc47&token=a2c1de8479c4c32a&device=4&platform=rrty
+#EXTINF:-1 tvg-id="colik" tvg-name="colik" group-title="INA",colik
+https://live.dyrur1.com/live/j374oi0ymlofgqo_2e7f4d8f56dc9f8736f86945054b3627_540p.m3u8?auth_key=1789924969-0-0-67332f406a0ef8be87a43d34c3d27d85
