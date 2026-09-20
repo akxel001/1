@@ -1319,3 +1319,9 @@ https://cctv.cirebonkota.go.id/hls/atcs-depan-kantor-pd/index.m3u8
 https://cctv.cirebonkota.go.id/hls/depan-ataqwa/index.m3u8
 #EXTINF:-1 tvg-id="transtv" tvg-name="transtv" group-title="INDO-INA",transtv
 https://berbagi.diskon.cloud/trans_detik/adem_tv.php?id=transtv
+#EXTINF:-1 tvg-id="antv #2" tvg-name="antv #2" group-title="INDO-Q24",antv #2
+http://013tv.com:8080/F33848/cbd9779b/165072
+#EXTINF:-1 tvg-id="antv #3" tvg-name="antv #3" group-title="INDO-Q24",antv #3
+http://filex.me:8080/live/3114654477/5787654467/302206.ts
+#EXTINF:-1 tvg-id="INDOSIAR (VD2)" tvg-name="INDOSIAR (VD2)" tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="INDO-MWR",INDOSIAR (VD2)
+https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
