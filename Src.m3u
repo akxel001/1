@@ -23,3 +23,11 @@ https://live2.zundrixmediapipeline.com/live/channel33.m3u8
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
 #EXTINF:-1 tvg-id="Lis2" tvg-name="Lis2" group-title="CSF",Lis2
 https://www.rtmpcdn.com/live/eb0cfa57-b83e-4605-aee6-1617bc32ebe6.m3u8
+#EXTINF:-1 tvg-id="20:00 WIB Bornemouth vs Liverpool" tvg-name="20:00 WIB Bornemouth vs Liverpool" tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="INA",20:00 WIB Bornemouth vs Liverpool
+https://play.aarray.cn/rrty/hd-zh-1-4558554_gqzm.m3u8?auth_key=1789912393-0-0-bce7d5994230b3471a1a92127c7d28fa&token=6893deb9c96edb33&device=4&platform=rrty
+#EXTINF:-1 tvg-id="20:00 WIB Leeds United vs Crystal Palace" tvg-name="20:00 WIB Leeds United vs Crystal Palace" tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="INA",20:00 WIB Leeds United vs Crystal Palace
+https://play.aarray.cn/rrty/hd-zh-1-4558569_gqzm.m3u8?auth_key=1789912332-0-0-13b179a3d41c566653a4326e7efa6c68&token=8e96db5daa30cd52&device=4&platform=rrty
+#EXTINF:-1 tvg-id="20:00 WIB Manchester City vs Sunderland" tvg-name="20:00 WIB Manchester City vs Sunderland" tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="INA",20:00 WIB Manchester City vs Sunderland
+https://play.aarray.cn/rrty/hd-zh-1-4558572_gqzm.m3u8?auth_key=1789912332-0-0-988d76420c6bcb89cc11fbd7339607c7&token=0ecf4002123ed108&device=4&platform=rrty
+#EXTINF:-1 tvg-id="20:00 WIB Manchester City vs Sunderland" tvg-name="20:00 WIB Manchester City vs Sunderland" tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="INA",20:00 WIB Manchester City vs Sunderland
+http://193.47.62.44/hls/SGLLLQQQQ.m3u8
