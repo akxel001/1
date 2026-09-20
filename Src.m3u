@@ -514,3 +514,7 @@ http://193.47.62.44/hls/HHHHAAAAAA.m3u8
 https://edgestream2.pro/hls/ueyeztrazb4.m3u8
 #EXTINF:-1 tvg-id="23:30 WIB Nottingham Forest vs Coventry City" tvg-name="23:30 WIB Nottingham Forest vs Coventry City" tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="INA",23:30 WIB Nottingham Forest vs Coventry City
 https://play.aarray.cn/rrty/hd-zh-1-4558576_gqzm.m3u8?auth_key=1789840095-0-0-46ec7922b28021b54600dd4745f1c607&token=5f176787191afe38&device=4&platform=rrty
+#EXTINF:-1 tvg-id="hbofamily2" tvg-name="hbofamily2" group-title="Q24",hbofamily2
+http://filex.me:8080/live/3114654477/5787654467/302249.m3u8
+#EXTINF:-1 tvg-id="hbohits" tvg-name="hbohits" group-title="Q24",hbohits
+http://filex.me:8080/live/3114654477/5787654467/302250.m3u8
