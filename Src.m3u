@@ -21,3 +21,5 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 https://live2.zundrixmediapipeline.com/live/channel33.m3u8
 #EXTINF:-1 tvg-id="02:05 WIB Italia vs Denmark" tvg-name="02:05 WIB Italia vs Denmark" tvg-logo="https://shorter.me/oLPEz" group-title="VLB",02:05 WIB Italia vs Denmark
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
+#EXTINF:-1 tvg-id="Lis2" tvg-name="Lis2" group-title="CSF",Lis2
+https://www.rtmpcdn.com/live/eb0cfa57-b83e-4605-aee6-1617bc32ebe6.m3u8
