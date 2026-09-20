@@ -1205,3 +1205,117 @@ http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412251.m3u8
 http://bluedk.xyz:8880/live/191101535178/WENv6Uf6Gq/412077.m3u8
 #EXTINF:-1 tvg-id="indo 1" tvg-name="indo 1" tvg-logo="mmm" group-title="INDO-CSM",indo 1
 https://wpvsahsvl0yo.localrestaurantfind.site/uZMYvw8Oc8R7B2ub/hls3/01/05911/olufswdfag3k_h/index-v1-a1.txt
+#EXTINF:-1 tvg-id="indosiar #2" tvg-name="indosiar #2" group-title="INDO-Q24",indosiar #2
+https://beetv.my.id/xstreamx/vd.m3u8?ch=antv.m3u8
+#EXTINF:-1 tvg-id="inews" tvg-name="inews" group-title="INDO-Q24",inews
+http://filex.me:8080/live/@singh_tesla_7207492/puWnhEGsXpK3/501254.m3u8
+#EXTINF:-1 tvg-id="gtv #1" tvg-name="gtv #1" group-title="INDO-Q24",gtv #1
+http://31.43.191.125:8080/live/VIP019201762490519102/18754640ce7b/34331.m3u8
+#EXTINF:-1 tvg-id="gtv #3" tvg-name="gtv #3" group-title="INDO-Q24",gtv #3
+http://filex.me:8080/live/3114654477/5787654467/302247.ts
+#EXTINF:-1 tvg-id="trans7 #2" tvg-name="trans7 #2" group-title="INDO-Q24",trans7 #2
+http://filex.me:8080/live/@singh_tesla_7207492/puWnhEGsXpK3/302311.m3u8
+#EXTINF:-1 tvg-id="trans7 #4" tvg-name="trans7 #4" group-title="INDO-Q24",trans7 #4
+http://filex.me:8080/live/@singh_tesla_7207492/puWnhEGsXpK3/302311.ts
+#EXTINF:-1 tvg-id="mnctv" tvg-name="mnctv" group-title="INDO-DAR",mnctv
+http://filex.me:8080/live/@singh_tesla_7207492/puWnhEGsXpK3/302278.m3u8
+#EXTINF:-1 tvg-id="indosiar 1" tvg-name="indosiar 1" tvg-logo="https://i.imgur.com/SjCylM5.jpeg" group-title="INDO-DAR",indosiar 1
+http://31.43.191.125:8080/vip1601766507484/20d7282c8160/34327
+#EXTINF:-1 tvg-id="vision" tvg-name="vision" group-title="INDO-DAR",vision
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="vision" tvg-name="vision" group-title="INDO-DAR",vision
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="vision" tvg-name="vision" group-title="INDO-DAR",vision
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 tvg-id="vision" tvg-name="vision" group-title="INDO-DAR",vision
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="vision" tvg-name="vision" group-title="INDO-DAR",vision
+http://69.30.246.194/live/cctv5p.m3u8
+#EXTINF:-1 tvg-id="vision" tvg-name="vision" group-title="INDO-DAR",vision
+https://fl7.moveonjoy.com/Nat_Geo_Wild/tracks-a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="vision" tvg-name="vision" group-title="INDO-DAR",vision
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-id="vision" tvg-name="vision" group-title="INDO-DAR",vision
+https://smart.946985.filegear-sg.me/smart.php?id=AAprima1
+#EXTINF:-1 tvg-id="vision" tvg-name="vision" group-title="INDO-DAR",vision
+https://smart.946985.filegear-sg.me/smart.php?id=AAcitra1
+#EXTINF:-1 tvg-id="transtv" tvg-name="transtv" group-title="INDO-DAR",transtv
+http://filex.me:8080/live/@singh_tesla_7207492/puWnhEGsXpK3/302312.m3u8
+#EXTINF:-1 tvg-id="Bri Super League" tvg-name="Bri Super League" tvg-logo="https://i.imgur.com/Jo2sCpR.jpeg" group-title="INDO-DAR",Bri Super League
+https://tvratu.my.id/vid/index.mpd?id=205
+#EXTINF:-1 tvg-id="Indosiar vdo" tvg-name="Indosiar vdo" tvg-logo="https://i.imgur.com/exHEZba.jpeg" group-title="INDO-DAR",Indosiar vdo
+https://vidsemar.pages.dev/terraluna2/205.mpd
+#EXTINF:-1 tvg-id="SCTV vdo" tvg-name="SCTV vdo" tvg-logo="https://i.imgur.com/LIXv99J.jpeg" group-title="INDO-DAR",SCTV vdo
+https://vidsemar.pages.dev/terraluna2/204.mpd
+#EXTINF:-1 tvg-id="TRANS7" tvg-name="TRANS7" tvg-logo="https://i.imgur.com/NvICauU.jpeg" group-title="INDO-DAR",TRANS7
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/tran7.m3u8
+#EXTINF:-1 tvg-id="TRANSTV" tvg-name="TRANSTV" tvg-logo="https://i.imgur.com/nZkEVmb.jpeg" group-title="INDO-DAR",TRANSTV
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/transtv.m3u8
+#EXTINF:-1 tvg-id="MNC TV (V+)" tvg-name="MNC TV (V+)" tvg-logo="https://i.imgur.com/7xdcxPm.jpeg" group-title="INDO-DAR",MNC TV (V+)
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/mnctv.m3u8
+#EXTINF:-1 tvg-id="inewstv hd" tvg-name="inewstv hd" tvg-logo="https://i.imgur.com/zXwjQyE.jpeg" group-title="INDO-DAR",inewstv hd
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/inews.m3u8
+#EXTINF:-1 tvg-id="CNN Indo" tvg-name="CNN Indo" tvg-logo="https://i.imgur.com/PfH7DFq.jpeg" group-title="INDO-DAR",CNN Indo
+https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
+#EXTINF:-1 tvg-id="antv" tvg-name="antv" group-title="INDO-INA",antv
+http://adp-premium.my.id/event/stream_camel1.php?id=1l4rjnh9x07em7v
+#EXTINF:-1 tvg-id="VTV" tvg-name="VTV" group-title="INDO-INA",VTV
+https://why.biz.id/Iptv/oxygen.php?id=vtv
+#EXTINF:-1 tvg-id="dkids" tvg-name="dkids" group-title="INDO-INA",dkids
+https://why.biz.id/Iptv/oxygen.php?id=deikids
+#EXTINF:-1 tvg-id="jaktv" tvg-name="jaktv" group-title="INDO-INA",jaktv
+https://why.biz.id/Iptv/oxygen.php?id=jaktv
+#EXTINF:-1 tvg-id="ktv" tvg-name="ktv" group-title="INDO-INA",ktv
+https://why.biz.id/Iptv/oxygen.php?id=ktv
+#EXTINF:-1 tvg-id="mentari" tvg-name="mentari" group-title="INDO-INA",mentari
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1770896715~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=4c241c677b18089d45bb3d39cd2748523f023c3ee430edc31d126d78b1913ddb
+#EXTINF:-1 tvg-id="BEIN SPORT 1" tvg-name="BEIN SPORT 1" tvg-logo="https://i.ibb.co.com/TM78YHzf/BEIN1.png" group-title="INDO-INA",BEIN SPORT 1
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="INDO-INA",GTV
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd|referer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="test" tvg-name="test" group-title="INDO-INA",test
+http://adp-premium.my.id/event/stream_camel1.php?id=y0or5jh83ylnqwz
+#EXTINF:-1 tvg-id="planetfun" tvg-name="planetfun" group-title="INDO-INA",planetfun
+https://why.biz.id/Iptv/oxygen.php?id=planetfun
+#EXTINF:-1 tvg-id="rtv" tvg-name="rtv" group-title="INDO-INA",rtv
+https://why.biz.id/Iptv/oxygen.php?id=rtv
+#EXTINF:-1 tvg-id="SCTV HD" tvg-name="SCTV HD" tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="INDO-INA",SCTV HD
+http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="INDO-INA",Indosiar
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+#EXTINF:-1 tvg-id="MOJI TV" tvg-name="MOJI TV" tvg-logo="https://i.ibb.co.com/hFhj9FL9/MOJI.png" group-title="INDO-INA",MOJI TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8|referrer=http://www.dens.tv/
+#EXTINF:-1 tvg-id="MENTARI TV 2" tvg-name="MENTARI TV 2" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png" group-title="INDO-INA",MENTARI TV 2
+http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
+#EXTINF:-1 tvg-id="ANTV HD" tvg-name="ANTV HD" tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="INDO-INA",ANTV HD
+http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
+#EXTINF:-1 tvg-id="TV ONE" tvg-name="TV ONE" tvg-logo="https://i.ibb.co.com/7t2mbspy/TVONE.png" group-title="INDO-INA",TV ONE
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8|referrer=http://www.dens.tv/
+#EXTINF:-1 tvg-id="KOMPAS TV" tvg-name="KOMPAS TV" tvg-logo="https://i.ibb.co.com/yn67Cj9y/KOMPAS.png" group-title="INDO-INA",KOMPAS TV
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8|referrer=http://dens.tv
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://i.ibb.co.com/MkkwN1Zd/RTV.png" group-title="INDO-INA",RTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 tvg-id="Balikpapan TV" tvg-name="Balikpapan TV" tvg-logo="https://i.ibb.co.com/0V1pdvBH/BALIKPAPAN.png" group-title="INDO-INA",Balikpapan TV
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+#EXTINF:-1 tvg-id="JakTV" tvg-name="JakTV" tvg-logo="https://i.ibb.co.com/TMgC0djr/JAKTV.png" group-title="INDO-INA",JakTV
+https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
+#EXTINF:-1 tvg-id="IMC" tvg-name="IMC" tvg-logo="https://i.ibb.co.com/N246ycVQ/IMC.png" group-title="INDO-INA",IMC
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+#EXTINF:-1 tvg-id="Muslim TV" tvg-name="Muslim TV" tvg-logo="https://i.ibb.co.com/svsvL2jf/MUSLIM.png" group-title="INDO-INA",Muslim TV
+https://d2gr3zenqo3tg4.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd|referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="CELEBRITIES TV" tvg-name="CELEBRITIES TV" tvg-logo="https://i.ibb.co.com/ccgDL0gb/CT.png" group-title="INDO-INA",CELEBRITIES TV
+https://d1vckova5fh9mt.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd|referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="DAAI TV" tvg-name="DAAI TV" tvg-logo="https://i.ibb.co.com/twvvvXfC/DT.png" group-title="INDO-INA",DAAI TV
+https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
+#EXTINF:-1 tvg-id="Jakarta GlobeNews Channel" tvg-name="Jakarta GlobeNews Channel" tvg-logo="https://i.ibb.co.com/MybZKSFk/IMG-20250911-231120.png" group-title="INDO-INA",Jakarta GlobeNews Channel
+https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
+#EXTINF:-1 tvg-id="Kec. Astanajapura - Exit Tol 2" tvg-name="Kec. Astanajapura - Exit Tol 2" group-title="INDO-INA",Kec. Astanajapura - Exit Tol 2
+https://cctv-backend.cirebonkab.go.id:6969/memfs/30338f79-90e2-4684-ac21-f338c264ad86_output_0.m3u8?session=3v97pC9br5pkuJZ6sNq7yc
+#EXTINF:-1 tvg-id="Lemah Wungkuk" tvg-name="Lemah Wungkuk" group-title="INDO-INA",Lemah Wungkuk
+https://cctv.cirebonkota.go.id/hls/lemah-wungkuk/index.m3u8
+#EXTINF:-1 tvg-id="ATCS Depan Kantor PD" tvg-name="ATCS Depan Kantor PD" group-title="INDO-INA",ATCS Depan Kantor PD
+https://cctv.cirebonkota.go.id/hls/atcs-depan-kantor-pd/index.m3u8
+#EXTINF:-1 tvg-id="Depan AT-Taqwa" tvg-name="Depan AT-Taqwa" group-title="INDO-INA",Depan AT-Taqwa
+https://cctv.cirebonkota.go.id/hls/depan-ataqwa/index.m3u8
+#EXTINF:-1 tvg-id="transtv" tvg-name="transtv" group-title="INDO-INA",transtv
+https://berbagi.diskon.cloud/trans_detik/adem_tv.php?id=transtv
