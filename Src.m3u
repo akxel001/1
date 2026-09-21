@@ -971,3 +971,5 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvd
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 #EXTINF:-1 tvg-id="PREMIER SPORTS 8" tvg-name="PREMIER SPORTS 8" tvg-logo="https://shorter.me/sJbde" group-title="DAR",PREMIER SPORTS 8
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd?amznDtid=AOAGZA014O5RE&encoding=segme
+#EXTINF:-1 tvg-id="OPERATION HUMMINGBIRD" tvg-name="OPERATION HUMMINGBIRD" tvg-logo="https://pic3.iqiyipic.com/image/20260910/75/fe/v_220178260_m_601_m3_480_270.jpg" group-title="MWR",OPERATION HUMMINGBIRD
+https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/OperationHummingbird.m3u8
