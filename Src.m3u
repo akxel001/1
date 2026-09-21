@@ -931,3 +931,41 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kf7yl3p0f9/out/v1
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 #EXTINF:-1 tvg-id="MawarMelati" tvg-name="MawarMelati" group-title="MWR",MawarMelati
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc_video_4_0_17671078.mp4?m=1752604596
+#EXTINF:-1 tvg-id="Prima Sport 1" tvg-name="Prima Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="DAR",Prima Sport 1
+https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 tvg-id="Prima Sport 2" tvg-name="Prima Sport 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="DAR",Prima Sport 2
+https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 tvg-id="W-SPORTS" tvg-name="W-SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTSCaqcY24706lMrLyVT8H35bpvwyRlTp6cQ&s" group-title="DAR",W-SPORTS
+https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
+#EXTINF:-1 tvg-id="N Sport" tvg-name="N Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkQOePqZ62vY6k-ed4yGCKwr3mqTi5itnRzzZeu6EfQ&s=10" group-title="DAR",N Sport
+https://cdn.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
+#EXTINF:-1 tvg-id="RTBF TV" tvg-name="RTBF TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8AZPzU4bZSWTAeWg87EAgNqIZr7UICZFr6a_2VBd1yw&s" group-title="DAR",RTBF TV
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+#EXTINF:-1 tvg-id="2DF" tvg-name="2DF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn-EdNL0HK4h1CkQi4LP2EodHM_-DTKYlsxbetpSsI1Q&s=10" group-title="DAR",2DF
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ge6gonv7cy/out/v1/a2186ce553fb4a08b286aad3237d5328/cenc.mpd
+#EXTINF:-1 tvg-id="FIGHT SPORTS 2" tvg-name="FIGHT SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpO32yFeKHDMKh-IT6yqEbThYy-aR6Nn6G7M41d1QG-A&s=10" group-title="DAR",FIGHT SPORTS 2
+https://cdnbal1.indihometv.com/atm/DASH/fightsport/fightsport-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-id="MAX STREAK" tvg-name="MAX STREAK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFWOnn_bnrKWBFSHhvTBXm7voZU6eIiuFojhzOmUAFrg&s=10" group-title="DAR",MAX STREAK
+https://cdnbal1.indihometv.com/atm/DASH/maxstreak/maxstreak-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-id="TSN SPORTS 5" tvg-name="TSN SPORTS 5" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="DAR",TSN SPORTS 5
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+#EXTINF:-1 tvg-id="DSPORTS 1" tvg-name="DSPORTS 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Er8-dTVko83l--r0pCyqbfA-BPZz_NfEV0DkosigVg&s" group-title="DAR",DSPORTS 1
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+#EXTINF:-1 tvg-id="DSPORTS 2" tvg-name="DSPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Er8-dTVko83l--r0pCyqbfA-BPZz_NfEV0DkosigVg&s" group-title="DAR",DSPORTS 2
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
+#EXTINF:-1 tvg-id="DSPORTS 3" tvg-name="DSPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Er8-dTVko83l--r0pCyqbfA-BPZz_NfEV0DkosigVg&s" group-title="DAR",DSPORTS 3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
+#EXTINF:-1 tvg-id="PREMIER SPORTS 2" tvg-name="PREMIER SPORTS 2" tvg-logo="https://shorter.me/sJbde" group-title="DAR",PREMIER SPORTS 2
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-id="PREMIER SPORTS 3" tvg-name="PREMIER SPORTS 3" tvg-logo="https://shorter.me/sJbde" group-title="DAR",PREMIER SPORTS 3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+#EXTINF:-1 tvg-id="PREMIER SPORTS 4" tvg-name="PREMIER SPORTS 4" tvg-logo="https://shorter.me/sJbde" group-title="DAR",PREMIER SPORTS 4
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
+#EXTINF:-1 tvg-id="PREMIER SPORTS 5" tvg-name="PREMIER SPORTS 5" tvg-logo="https://shorter.me/sJbde" group-title="DAR",PREMIER SPORTS 5
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 tvg-id="PREMIER SPORTS 6" tvg-name="PREMIER SPORTS 6" tvg-logo="https://shorter.me/sJbde" group-title="DAR",PREMIER SPORTS 6
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd
+#EXTINF:-1 tvg-id="PREMIER SPORTS 7" tvg-name="PREMIER SPORTS 7" tvg-logo="https://shorter.me/sJbde" group-title="DAR",PREMIER SPORTS 7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd
+#EXTINF:-1 tvg-id="PREMIER SPORTS 8" tvg-name="PREMIER SPORTS 8" tvg-logo="https://shorter.me/sJbde" group-title="DAR",PREMIER SPORTS 8
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
