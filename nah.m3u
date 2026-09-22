@@ -1325,3 +1325,11 @@ http://013tv.com:8080/F33848/cbd9779b/165072
 http://filex.me:8080/live/3114654477/5787654467/302206.ts
 #EXTINF:-1 tvg-id="INDOSIAR (VD2)" tvg-name="INDOSIAR (VD2)" tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="INDO-MWR",INDOSIAR (VD2)
 https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
+#EXTINF:-1 tvg-id="GTV+ 4" tvg-name="GTV+ 4" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="INDO-MWR",GTV+ 4
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790110945~hmac=78e4d691d38567757a53bb556fda58d2c217dbf70ca8696010309913e6f20496
+#EXTINF:-1 tvg-id="MNCTV+ 3" tvg-name="MNCTV+ 3" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="INDO-MWR",MNCTV+ 3
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790110945~hmac=bad5ce3e327fe5941b4a48c3c5633acc3cd65ae374f3a9f65de8787531e9e849
+#EXTINF:-1 tvg-id="RCTI+ 5" tvg-name="RCTI+ 5" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="INDO-MWR",RCTI+ 5
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790110944~hmac=3e2ac30f157f89e545ecde265b178c93b0dd9da4e601b93c26d5dcaa16d9e2cd
+#EXTINF:-1 tvg-id="iNews-TV+" tvg-name="iNews-TV+" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png" group-title="INDO-MWR",iNews-TV+
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790110945~hmac=4e126ef5de0bf5a59a93d8826b2f2cc4344784fb983502bb36d59dc16c64cec4
