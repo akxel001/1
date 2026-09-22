@@ -977,3 +977,11 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Opera
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Moana.m3u8
 #EXTINF:-1 tvg-id="ONE SPORTS" tvg-name="ONE SPORTS" tvg-logo="https://image-resizer-cloud.api.pldt.firstlight.ai/image/E55AB750-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1080" group-title="MWR",ONE SPORTS
 http://136.158.97.2:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApiZhzOAmsfItUIS2UHXxD0syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1071962425102&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4H9039UO28ZXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451820260101155236142588&ispcode=55
+#EXTINF:-1 tvg-id="GTV+ 4" tvg-name="GTV+ 4" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/GTV.png" group-title="MWR",GTV+ 4
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790110945~hmac=78e4d691d38567757a53bb556fda58d2c217dbf70ca8696010309913e6f20496
+#EXTINF:-1 tvg-id="MNCTV+ 3" tvg-name="MNCTV+ 3" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mnctv.png" group-title="MWR",MNCTV+ 3
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790110945~hmac=bad5ce3e327fe5941b4a48c3c5633acc3cd65ae374f3a9f65de8787531e9e849
+#EXTINF:-1 tvg-id="RCTI+ 5" tvg-name="RCTI+ 5" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="MWR",RCTI+ 5
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790110944~hmac=3e2ac30f157f89e545ecde265b178c93b0dd9da4e601b93c26d5dcaa16d9e2cd
+#EXTINF:-1 tvg-id="iNews-TV+" tvg-name="iNews-TV+" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png" group-title="MWR",iNews-TV+
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790110945~hmac=4e126ef5de0bf5a59a93d8826b2f2cc4344784fb983502bb36d59dc16c64cec4
