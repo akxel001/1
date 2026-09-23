@@ -985,3 +985,13 @@ https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790110945~hmac=bad5ce
 https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790110944~hmac=3e2ac30f157f89e545ecde265b178c93b0dd9da4e601b93c26d5dcaa16d9e2cd
 #EXTINF:-1 tvg-id="iNews-TV+" tvg-name="iNews-TV+" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/inews.png" group-title="MWR",iNews-TV+
 https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790110945~hmac=4e126ef5de0bf5a59a93d8826b2f2cc4344784fb983502bb36d59dc16c64cec4
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="MWR",RCTI
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790171146~hmac=442da65bf2aef0802274f99b619320869d02cdd831a85aba1784404ffdca8f99
+#EXTINF:-1 tvg-id="MNCTV" tvg-name="MNCTV" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png" group-title="MWR",MNCTV
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790171147~hmac=58067d4d4d81f9c87570f3b00cc0159e3ddbbc0e1ae6373bec1367c8bbac2994
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png" group-title="MWR",GTV
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790171147~hmac=9e68a5e15114da775387fd88061f866b7c470ed6dc2635dd94b529dc55cb21fb
+#EXTINF:-1 tvg-id="iNews" tvg-name="iNews" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png" group-title="MWR",iNews
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790171147~hmac=e2d62f0feee83064036d4e8631a820ce59fe243369edb18b3b2bfb3d2472398b
+#EXTINF:-1 tvg-id="CAMPUS LEAGUE" tvg-name="CAMPUS LEAGUE" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Banner_Landscape/daily_epg/210926/campus_league_21_25_Day_3.jpg" group-title="MWR",CAMPUS LEAGUE
+https://nontonlagi.rctiplus.id/abvia/campusleague2026/manifest720.m3u8
