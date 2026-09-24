@@ -1001,3 +1001,99 @@ https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Moana
 http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj7wbjzF6E2FvbQEx2BR8Bcd49ST9eeHK5efg94CjyI3-
 #EXTINF:-1 tvg-id="Fa4" tvg-name="Fa4" group-title="CSF",Fa4
 http://193.47.62.55/hls/vvvv.m3u8
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/ocXsicn.jpeg" group-title="DAR",Indosiar
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302264
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.imgur.com/gyHchKH.jpeg" group-title="DAR",SCTV
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302301
+#EXTINF:-1 tvg-id="RCTI OK" tvg-name="RCTI OK" tvg-logo="https://i.imgur.com/Sjgp8ZB.jpeg" group-title="DAR",RCTI OK
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302297
+#EXTINF:-1 tvg-id="ANTV HD" tvg-name="ANTV HD" tvg-logo="https://i.imgur.com/kPWs50J.jpeg" group-title="DAR",ANTV HD
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302206
+#EXTINF:-1 tvg-id="TRANS7" tvg-name="TRANS7" tvg-logo="https://i.imgur.com/NvICauU.jpeg" group-title="DAR",TRANS7
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311
+#EXTINF:-1 tvg-id="TRANSTV" tvg-name="TRANSTV" tvg-logo="https://i.imgur.com/nZkEVmb.jpeg" group-title="DAR",TRANSTV
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302312
+#EXTINF:-1 tvg-id="MNC TV hd" tvg-name="MNC TV hd" tvg-logo="https://i.imgur.com/7xdcxPm.jpeg" group-title="DAR",MNC TV hd
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302278
+#EXTINF:-1 tvg-id="Moji" tvg-name="Moji" tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" group-title="DAR",Moji
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302279
+#EXTINF:-1 tvg-id="inewstv hd" tvg-name="inewstv hd" tvg-logo="https://i.imgur.com/zXwjQyE.jpeg" group-title="DAR",inewstv hd
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/501254
+#EXTINF:-1 tvg-id="SCTV (Emtek Alt 2)" tvg-name="SCTV (Emtek Alt 2)" tvg-logo="https://i.imgur.com/LIXv99J.jpeg" group-title="DAR",SCTV (Emtek Alt 2)
+https://tvratu.my.id/vid/index.mpd?id=204
+#EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d5048b36-efb9-426f-b735-7a1ab9e3e7f4.jpg" group-title="DAR",Trans TV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VHJhbnNUVg/manifest.mpd
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="DAR",Trans 7
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFJBTlM3LW15/manifest.mpd
+#EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/df14d47b-e9d7-4265-8e2c-8ac28c29cb3f.jpg" group-title="DAR",CNN Indonesia
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q05OaS1teQ/manifest.mpd
+#EXTINF:-1 tvg-id="CNBC Indonesia" tvg-name="CNBC Indonesia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ea2f3817-add8-44b7-b222-664cacd221ca.jpg" group-title="DAR",CNBC Indonesia
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd
+#EXTINF:-1 tvg-id="MetroTV" tvg-name="MetroTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/cfc9d256-0421-447e-9aae-431db3de77c3.png" group-title="DAR",MetroTV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TWV0cm9UVg/manifest.mpd
+#EXTINF:-1 tvg-id="TVOne" tvg-name="TVOne" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/930c8097-dc6b-4161-b414-d7a70b0b8b98.png" group-title="DAR",TVOne
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFZPTkU/manifest.mpd
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d9cafe05-1183-4b33-a315-51a1fb42b2bc.png" group-title="DAR",SCTV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/U0NUVi1teQ/manifest.mpd
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f86ac7c8-ed6b-4d19-9be2-1d3fdf3e97a3.png" group-title="DAR",Indosiar
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SW5kb3NpYXI/manifest.mpd
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/cfe78d70-6bbe-47a4-8175-0e5f43fc9ef7.png" group-title="DAR",RCTI
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/UkNUSS1DaGFubmVs/manifest.mpd
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/419ddbb6-dc83-4e1a-89e6-13c6c9422577.png" group-title="DAR",GTV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/R1RWLUNIQU5ORUw/manifest.mpd
+#EXTINF:-1 tvg-id="JakTV" tvg-name="JakTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/912d53a1-8222-40e0-8e97-affb43129850.jpg" group-title="DAR",JakTV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SmFrIHR2IENoYW5uZWw/manifest.mpd
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/240aa9e1-110f-450e-af68-9f202002b4e9.png" group-title="DAR",BTV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QlRWIENoYW5uZWw/manifest.mpd
+#EXTINF:-1 tvg-id="Kompas TV" tvg-name="Kompas TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f0771c7b-d473-4fa4-ad0f-cdffd4bc0ac5.jpg" group-title="DAR",Kompas TV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/S29tcGFzIFRW/manifest.mpd
+#EXTINF:-1 tvg-id="MDTV" tvg-name="MDTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d3167d38-bcc3-44e9-b658-057beda535c4.png" group-title="DAR",MDTV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TURUVg/manifest.mpd
+#EXTINF:-1 tvg-id="Rtv" tvg-name="Rtv" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f4bd6cd9-d8a5-4f42-8dce-7f332ec55940.jpg" group-title="DAR",Rtv
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/cnR2IENobmw/manifest.mpd
+#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/788c4e9e-363d-47f7-9ef5-6ee1d9dd2619.png" group-title="DAR",MNC TV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TU5DVFY/manifest.mpd
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6e55c83f-b399-4884-8b57-273acb663344.png" group-title="DAR",TVRI
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFZSSQ/manifest.mpd
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/804a0414-edd9-4e16-bd7e-1fbb593525ec.png" group-title="DAR",ANTV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QU5UVg/manifest.mpd
+#EXTINF:-1 tvg-id="jtv" tvg-name="jtv" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/87b521be-283d-465d-b3af-8280eda34f0a.png" group-title="DAR",jtv
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/anR2LUNoYW5uZWw/manifest.mpd
+#EXTINF:-1 tvg-id="Berita Satu" tvg-name="Berita Satu" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/86edd2be-b5c2-4c9b-8ac9-1a6ee5c3b94e.png" group-title="DAR",Berita Satu
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QmVyaXRhIFNhdHU/manifest.mpd
+#EXTINF:-1 tvg-id="Garuda TV" tvg-name="Garuda TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/dc7d7072-39d4-4978-bc34-4e7654fe4469.jpg" group-title="DAR",Garuda TV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/R2FydWRhIFRW/manifest.mpd
+#EXTINF:-1 tvg-id="VOLY" tvg-name="VOLY" tvg-logo="https://i.ibb.co.com/LKsS6S3/PROLIGA.png" group-title="DAR",VOLY
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacjhZRm9qQk9DY2g4YW9XR203Z1ZUbUZNdjZuQkxocVNrbzZuNDFVVlljNw
+#EXTINF:-1 tvg-id="Bri Super League" tvg-name="Bri Super League" tvg-logo="https://i.imgur.com/Jo2sCpR.jpeg" group-title="DAR",Bri Super League
+http://filex.me:8080/3114654477/5787654467/302264
+#EXTINF:-1 tvg-id="EPL BEIN 4 ARAB" tvg-name="EPL BEIN 4 ARAB" tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="DAR",EPL BEIN 4 ARAB
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR4.m3u8
+#EXTINF:-1 tvg-id="EPL BEIN 5 ARAB" tvg-name="EPL BEIN 5 ARAB" tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="DAR",EPL BEIN 5 ARAB
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR5.m3u8
+#EXTINF:-1 tvg-id="EPL BEIN 1 ARAB" tvg-name="EPL BEIN 1 ARAB" tvg-logo="https://i.ibb.co.com/8CmLbY0/EPL.png" group-title="DAR",EPL BEIN 1 ARAB
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR1.m3u8
+#EXTINF:-1 tvg-id="LA LIGA T Sports" tvg-name="LA LIGA T Sports" tvg-logo="https://i.ibb.co.com/Z6TwXP3Z/LALIGA.png" group-title="DAR",LA LIGA T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="LA LIGA BEIN 2 ARAB" tvg-name="LA LIGA BEIN 2 ARAB" tvg-logo="https://i.ibb.co.com/Z6TwXP3Z/LALIGA.png" group-title="DAR",LA LIGA BEIN 2 ARAB
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinSportAR2.m3u8
+#EXTINF:-1 tvg-id="LA LIGA ARENA 4 PREMIUN" tvg-name="LA LIGA ARENA 4 PREMIUN" tvg-logo="https://i.ibb.co.com/Z6TwXP3Z/LALIGA.png" group-title="DAR",LA LIGA ARENA 4 PREMIUN
+https://webtvstream.bhtelecom.ba/hls15/as_premium4.mpd?n=browsernull-cdn.sam.net
+#EXTINF:-1 tvg-id="LA LIGA ARENA 5 PREMIUN" tvg-name="LA LIGA ARENA 5 PREMIUN" tvg-logo="https://i.ibb.co.com/Z6TwXP3Z/LALIGA.png" group-title="DAR",LA LIGA ARENA 5 PREMIUN
+https://webtvstream.bhtelecom.ba/hls15/as_premium5.mpd?n=browsernull-cdn.sam.net
+#EXTINF:-1 tvg-id="SERIE A Матч! Футбол 1" tvg-name="SERIE A Матч! Футбол 1" tvg-logo="https://i.ibb.co.com/b5KV71b2/SERIEA.png" group-title="DAR",SERIE A Матч! Футбол 1
+http://stream.mcquack.net/130/index.m3u8
+#EXTINF:-1 tvg-id="SERIE A Матч! Футбол 2" tvg-name="SERIE A Матч! Футбол 2" tvg-logo="https://i.ibb.co.com/b5KV71b2/SERIEA.png" group-title="DAR",SERIE A Матч! Футбол 2
+http://stream.mcquack.net/142/index.m3u8
+#EXTINF:-1 tvg-id="SERIE A Матч! Футбол 3" tvg-name="SERIE A Матч! Футбол 3" tvg-logo="https://i.ibb.co.com/b5KV71b2/SERIEA.png" group-title="DAR",SERIE A Матч! Футбол 3
+http://stream.mcquack.net/185/index.m3u8
+#EXTINF:-1 tvg-id="EREDIVISIE ESPN 2 NED" tvg-name="EREDIVISIE ESPN 2 NED" tvg-logo="https://i.ibb.co.com/XZ2KYC0k/eredevise.png" group-title="DAR",EREDIVISIE ESPN 2 NED
+https://rr4---sn-8pxuuxa-on.livecdngoogle.vip/LIVE_NL_ESPN_2_fhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="DensTV" tvg-name="DensTV" group-title="DAR",DensTV
+http://013tv.com:8080/F33848/cbd9779b/298550
+#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE SCTV DIGITAL" tvg-name="UEFA CHAMPIONS LEAGUE SCTV DIGITAL" tvg-logo="https://i.ibb.co.com/J6n3v0s/UCL.png" group-title="DAR",UEFA CHAMPIONS LEAGUE SCTV DIGITAL
+http://013tv.com:8080/F33848/cbd9779b/162141
+#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE QAZSPORT" tvg-name="UEFA CHAMPIONS LEAGUE QAZSPORT" tvg-logo="https://i.ibb.co.com/J6n3v0s/UCL.png" group-title="DAR",UEFA CHAMPIONS LEAGUE QAZSPORT
+http://195.201.243.254/stream10/index.m3u8
+#EXTINF:-1 tvg-id="Ps1" tvg-name="Ps1" group-title="CSF",Ps1
+http://193.47.62.55/hls/ELLLAAAA.m3u8
