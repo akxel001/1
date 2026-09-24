@@ -999,3 +999,5 @@ https://nontonlagi.rctiplus.id/abvia/campusleague2026/manifest720.m3u8
 https://raw.githubusercontent.com/SebutsajaMawar11/VodLuar/refs/heads/main/Moana1.m3u8
 #EXTINF:-1 tvg-id="rcti #2" tvg-name="rcti #2" group-title="Q24",rcti #2
 http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj7wbjzF6E2FvbQEx2BR8Bcd49ST9eeHK5efg94CjyI3-
+#EXTINF:-1 tvg-id="Fa4" tvg-name="Fa4" group-title="CSF",Fa4
+http://193.47.62.55/hls/vvvv.m3u8
