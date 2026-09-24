@@ -1343,3 +1343,5 @@ https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790171147~hmac=9e68a5e151
 https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790171147~hmac=e2d62f0feee83064036d4e8631a820ce59fe243369edb18b3b2bfb3d2472398b
 #EXTINF:-1 tvg-id="CAMPUS LEAGUE" tvg-name="CAMPUS LEAGUE" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Banner_Landscape/daily_epg/210926/campus_league_21_25_Day_3.jpg" group-title="INDO-MWR",CAMPUS LEAGUE
 https://nontonlagi.rctiplus.id/abvia/campusleague2026/manifest720.m3u8
+#EXTINF:-1 tvg-id="rcti #2" tvg-name="rcti #2" group-title="INDO-Q24",rcti #2
+http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj7wbjzF6E2FvbQEx2BR8Bcd49ST9eeHK5efg94CjyI3-
