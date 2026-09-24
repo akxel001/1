@@ -1345,3 +1345,65 @@ https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790171147~hmac=e2d62f
 https://nontonlagi.rctiplus.id/abvia/campusleague2026/manifest720.m3u8
 #EXTINF:-1 tvg-id="rcti #2" tvg-name="rcti #2" group-title="INDO-Q24",rcti #2
 http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj7wbjzF6E2FvbQEx2BR8Bcd49ST9eeHK5efg94CjyI3-
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/ocXsicn.jpeg" group-title="INDO-DAR",Indosiar
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302264
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.imgur.com/gyHchKH.jpeg" group-title="INDO-DAR",SCTV
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302301
+#EXTINF:-1 tvg-id="RCTI OK" tvg-name="RCTI OK" tvg-logo="https://i.imgur.com/Sjgp8ZB.jpeg" group-title="INDO-DAR",RCTI OK
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302297
+#EXTINF:-1 tvg-id="ANTV HD" tvg-name="ANTV HD" tvg-logo="https://i.imgur.com/kPWs50J.jpeg" group-title="INDO-DAR",ANTV HD
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302206
+#EXTINF:-1 tvg-id="TRANS7" tvg-name="TRANS7" tvg-logo="https://i.imgur.com/NvICauU.jpeg" group-title="INDO-DAR",TRANS7
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311
+#EXTINF:-1 tvg-id="TRANSTV" tvg-name="TRANSTV" tvg-logo="https://i.imgur.com/nZkEVmb.jpeg" group-title="INDO-DAR",TRANSTV
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302312
+#EXTINF:-1 tvg-id="MNC TV hd" tvg-name="MNC TV hd" tvg-logo="https://i.imgur.com/7xdcxPm.jpeg" group-title="INDO-DAR",MNC TV hd
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302278
+#EXTINF:-1 tvg-id="Moji" tvg-name="Moji" tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" group-title="INDO-DAR",Moji
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302279
+#EXTINF:-1 tvg-id="SCTV (Emtek Alt 2)" tvg-name="SCTV (Emtek Alt 2)" tvg-logo="https://i.imgur.com/LIXv99J.jpeg" group-title="INDO-DAR",SCTV (Emtek Alt 2)
+https://tvratu.my.id/vid/index.mpd?id=204
+#EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d5048b36-efb9-426f-b735-7a1ab9e3e7f4.jpg" group-title="INDO-DAR",Trans TV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VHJhbnNUVg/manifest.mpd
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/8ea35a10-0840-492e-8201-83daf40d8225.jpg" group-title="INDO-DAR",Trans 7
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFJBTlM3LW15/manifest.mpd
+#EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/df14d47b-e9d7-4265-8e2c-8ac28c29cb3f.jpg" group-title="INDO-DAR",CNN Indonesia
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q05OaS1teQ/manifest.mpd
+#EXTINF:-1 tvg-id="CNBC Indonesia" tvg-name="CNBC Indonesia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ea2f3817-add8-44b7-b222-664cacd221ca.jpg" group-title="INDO-DAR",CNBC Indonesia
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd
+#EXTINF:-1 tvg-id="MetroTV" tvg-name="MetroTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/cfc9d256-0421-447e-9aae-431db3de77c3.png" group-title="INDO-DAR",MetroTV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TWV0cm9UVg/manifest.mpd
+#EXTINF:-1 tvg-id="TVOne" tvg-name="TVOne" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/930c8097-dc6b-4161-b414-d7a70b0b8b98.png" group-title="INDO-DAR",TVOne
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFZPTkU/manifest.mpd
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d9cafe05-1183-4b33-a315-51a1fb42b2bc.png" group-title="INDO-DAR",SCTV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/U0NUVi1teQ/manifest.mpd
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f86ac7c8-ed6b-4d19-9be2-1d3fdf3e97a3.png" group-title="INDO-DAR",Indosiar
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SW5kb3NpYXI/manifest.mpd
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/cfe78d70-6bbe-47a4-8175-0e5f43fc9ef7.png" group-title="INDO-DAR",RCTI
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/UkNUSS1DaGFubmVs/manifest.mpd
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/419ddbb6-dc83-4e1a-89e6-13c6c9422577.png" group-title="INDO-DAR",GTV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/R1RWLUNIQU5ORUw/manifest.mpd
+#EXTINF:-1 tvg-id="JakTV" tvg-name="JakTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/912d53a1-8222-40e0-8e97-affb43129850.jpg" group-title="INDO-DAR",JakTV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SmFrIHR2IENoYW5uZWw/manifest.mpd
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/240aa9e1-110f-450e-af68-9f202002b4e9.png" group-title="INDO-DAR",BTV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QlRWIENoYW5uZWw/manifest.mpd
+#EXTINF:-1 tvg-id="Kompas TV" tvg-name="Kompas TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f0771c7b-d473-4fa4-ad0f-cdffd4bc0ac5.jpg" group-title="INDO-DAR",Kompas TV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/S29tcGFzIFRW/manifest.mpd
+#EXTINF:-1 tvg-id="MDTV" tvg-name="MDTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d3167d38-bcc3-44e9-b658-057beda535c4.png" group-title="INDO-DAR",MDTV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TURUVg/manifest.mpd
+#EXTINF:-1 tvg-id="Rtv" tvg-name="Rtv" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f4bd6cd9-d8a5-4f42-8dce-7f332ec55940.jpg" group-title="INDO-DAR",Rtv
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/cnR2IENobmw/manifest.mpd
+#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/788c4e9e-363d-47f7-9ef5-6ee1d9dd2619.png" group-title="INDO-DAR",MNC TV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TU5DVFY/manifest.mpd
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6e55c83f-b399-4884-8b57-273acb663344.png" group-title="INDO-DAR",TVRI
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFZSSQ/manifest.mpd
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/804a0414-edd9-4e16-bd7e-1fbb593525ec.png" group-title="INDO-DAR",ANTV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QU5UVg/manifest.mpd
+#EXTINF:-1 tvg-id="jtv" tvg-name="jtv" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/87b521be-283d-465d-b3af-8280eda34f0a.png" group-title="INDO-DAR",jtv
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/anR2LUNoYW5uZWw/manifest.mpd
+#EXTINF:-1 tvg-id="Berita Satu" tvg-name="Berita Satu" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/86edd2be-b5c2-4c9b-8ac9-1a6ee5c3b94e.png" group-title="INDO-DAR",Berita Satu
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QmVyaXRhIFNhdHU/manifest.mpd
+#EXTINF:-1 tvg-id="Garuda TV" tvg-name="Garuda TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/dc7d7072-39d4-4978-bc34-4e7654fe4469.jpg" group-title="INDO-DAR",Garuda TV
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/R2FydWRhIFRW/manifest.mpd
+#EXTINF:-1 tvg-id="UEFA CHAMPIONS LEAGUE SCTV DIGITAL" tvg-name="UEFA CHAMPIONS LEAGUE SCTV DIGITAL" tvg-logo="https://i.ibb.co.com/J6n3v0s/UCL.png" group-title="INDO-DAR",UEFA CHAMPIONS LEAGUE SCTV DIGITAL
+http://013tv.com:8080/F33848/cbd9779b/162141
