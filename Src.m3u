@@ -1097,3 +1097,5 @@ http://013tv.com:8080/F33848/cbd9779b/162141
 http://195.201.243.254/stream10/index.m3u8
 #EXTINF:-1 tvg-id="Ps1" tvg-name="Ps1" group-title="CSF",Ps1
 http://193.47.62.55/hls/ELLLAAAA.m3u8
+#EXTINF:-1 tvg-id="SEKAWAN LIMO 2 - GUNUNG KLAWIH" tvg-name="SEKAWAN LIMO 2 - GUNUNG KLAWIH" tvg-logo="https://malang.disway.id/upload/ad59c8f11d5eb0a8d1bfef3b51901906.jpeg" group-title="MWR",SEKAWAN LIMO 2 - GUNUNG KLAWIH
+https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsekawanLimo2.m3u8
