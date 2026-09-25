@@ -1127,3 +1127,5 @@ http://193.47.62.41/hls/NAAA.m3u8
 https://live2.dyrur1.com/live/74557122_ad00f2245ec290d8aab6dd73f4d75a04_autoChange.m3u8?auth_key=1790355907-0-0-75bdf7886dbf7297b5b47a986dc1bd56
 #EXTINF:-1 tvg-id="20:00 WIB Indonesia vs Singapura" tvg-name="20:00 WIB Indonesia vs Singapura" tvg-logo="https://cdn0-production-images-kly.akamaized.net/rgtUdKwk2Apwc-gDVr_oKyEvQe0=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9356444/original/084433500_1790168543-ChatGPT_Image_Sep_23__2026__04_30_59_PM.jpg" group-title="INA",20:00 WIB Indonesia vs Singapura
 https://live2.zundrixmediapipeline.com/live/channel15.m3u8
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/ocXsicn.jpeg" group-title="DAR",Indosiar
+http://013tv.com:8080/F33848/cbd9779b/162138
