@@ -1099,3 +1099,19 @@ http://195.201.243.254/stream10/index.m3u8
 http://193.47.62.55/hls/ELLLAAAA.m3u8
 #EXTINF:-1 tvg-id="SEKAWAN LIMO 2 - GUNUNG KLAWIH" tvg-name="SEKAWAN LIMO 2 - GUNUNG KLAWIH" tvg-logo="https://malang.disway.id/upload/ad59c8f11d5eb0a8d1bfef3b51901906.jpeg" group-title="MWR",SEKAWAN LIMO 2 - GUNUNG KLAWIH
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsekawanLimo2.m3u8
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.imgur.com/gyHchKH.jpeg" group-title="DAR",SCTV
+http://filex.me:8080/3114654477/5787654467/302301
+#EXTINF:-1 tvg-id="RCTI OK" tvg-name="RCTI OK" tvg-logo="https://i.imgur.com/Sjgp8ZB.jpeg" group-title="DAR",RCTI OK
+http://filex.me:8080/3114654477/5787654467/302297
+#EXTINF:-1 tvg-id="ANTV HD" tvg-name="ANTV HD" tvg-logo="https://i.imgur.com/kPWs50J.jpeg" group-title="DAR",ANTV HD
+http://filex.me:8080/3114654477/5787654467/302206
+#EXTINF:-1 tvg-id="TRANS HD" tvg-name="TRANS HD" tvg-logo="https://i.imgur.com/NvICauU.jpeg" group-title="DAR",TRANS HD
+http://filex.me:8080/3114654477/5787654467/302311
+#EXTINF:-1 tvg-id="TRANSTV" tvg-name="TRANSTV" tvg-logo="https://i.imgur.com/nZkEVmb.jpeg" group-title="DAR",TRANSTV
+http://filex.me:8080/3114654477/5787654467/302312
+#EXTINF:-1 tvg-id="MNC TV hd" tvg-name="MNC TV hd" tvg-logo="https://i.imgur.com/7xdcxPm.jpeg" group-title="DAR",MNC TV hd
+http://filex.me:8080/3114654477/5787654467/302278
+#EXTINF:-1 tvg-id="Moji" tvg-name="Moji" tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" group-title="DAR",Moji
+http://filex.me:8080/3114654477/5787654467/302279
+#EXTINF:-1 tvg-id="inewstv hd" tvg-name="inewstv hd" tvg-logo="https://i.imgur.com/zXwjQyE.jpeg" group-title="DAR",inewstv hd
+http://filex.me:8080/3114654477/5787654467/501254
