@@ -1121,3 +1121,5 @@ https://ogietv.biz.id:443/Dimas01/bara01/1310.ts
 http://013tv.com:8080/live/F33848/cbd9779b/162502.m3u8
 #EXTINF:-1 tvg-id="MOJI SPORT (VD)" tvg-name="MOJI SPORT (VD)" tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="MWR",MOJI SPORT (VD)
 https://ogietv.biz.id:443/BuatxX2/AppxMaling/25163.m3u8
+#EXTINF:-1 tvg-id="Fa4" tvg-name="Fa4" group-title="CSF",Fa4
+http://193.47.62.41/hls/NAAA.m3u8
