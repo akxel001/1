@@ -1139,3 +1139,25 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://images.squarespace-cdn.com/content/v1/55fd8821e4b0e00d15c6fa0f/1442702516979-HZWON79STPXJ2QYRTZDL/06.jpg" group-title="MWR",CINEMAX
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2luZW1heA/manifest.mpd
+#EXTINF:-1 tvg-id="DIGI SPORT 1" tvg-name="DIGI SPORT 1" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="MWR",DIGI SPORT 1
+https://kuruk1.xn--okq6e.shop/kuk1/usergendx419snx12kdgwqrnd.m3u8
+#EXTINF:-1 tvg-id="DIGI SPORT 2" tvg-name="DIGI SPORT 2" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="MWR",DIGI SPORT 2
+https://kuruk1.xn--okq6e.shop/kuk2/usergendx0ul1ltsDx9lgcdwqrnd.m3u8
+#EXTINF:-1 tvg-id="DIGI SPORT 3" tvg-name="DIGI SPORT 3" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="MWR",DIGI SPORT 3
+https://pu1se1.xn--ukq5h.shop/kuk3/usergendxt1v7slq2rnd.m3u8
+#EXTINF:-1 tvg-id="DIGI SPORT 4" tvg-name="DIGI SPORT 4" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/07/digi-sport.jpg" group-title="MWR",DIGI SPORT 4
+https://pu1se1.xn--ukq5h.shop/kuk4/usergendl8g6ks0t3n.m3u8
+#EXTINF:-1 tvg-id="EVENT 1 (TERSEDIA SAAT LIVE)" tvg-name="EVENT 1 (TERSEDIA SAAT LIVE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEu9cYs6sxSJBc-4KyPIzN79hqWCSrDgIjk6Aq_yHsJQ&s=10" group-title="MWR",EVENT 1 (TERSEDIA SAAT LIVE)
+https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+#EXTINF:-1 tvg-id="EVENT 2 (TERSEDIA SAAT LIVE)" tvg-name="EVENT 2 (TERSEDIA SAAT LIVE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEu9cYs6sxSJBc-4KyPIzN79hqWCSrDgIjk6Aq_yHsJQ&s=10" group-title="MWR",EVENT 2 (TERSEDIA SAAT LIVE)
+https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
+#EXTINF:-1 tvg-id="EVENT 5 (TERSEDIA SAAT LIVE)" tvg-name="EVENT 5 (TERSEDIA SAAT LIVE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEu9cYs6sxSJBc-4KyPIzN79hqWCSrDgIjk6Aq_yHsJQ&s=10" group-title="MWR",EVENT 5 (TERSEDIA SAAT LIVE)
+https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
+#EXTINF:-1 tvg-id="EVENT 6 (TERSEDIA SAAT LIVE)" tvg-name="EVENT 6 (TERSEDIA SAAT LIVE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEu9cYs6sxSJBc-4KyPIzN79hqWCSrDgIjk6Aq_yHsJQ&s=10" group-title="MWR",EVENT 6 (TERSEDIA SAAT LIVE)
+https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
+#EXTINF:-1 tvg-id="MYKIDS V+" tvg-name="MYKIDS V+" tvg-logo="https://i.ibb.co.com/Xf9nr9kt/MK.png" group-title="INA",MYKIDS V+
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/a241815698e84bc68f1bb6c4996ee92a/index.mpd
+#EXTINF:-1 tvg-id="Arirang Korea" tvg-name="Arirang Korea" tvg-logo="https://i.ibb.co.com/4gNptnF1/IMG-20250509-221338.png" group-title="INA",Arirang Korea
+https://dv6fza91pwlw3.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/index.mpd
+#EXTINF:-1 tvg-id="NHK World Japan" tvg-name="NHK World Japan" tvg-logo="https://iili.io/Jhks7wu.png" group-title="INA",NHK World Japan
+https://d3rzhldmr21hry.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd
