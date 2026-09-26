@@ -1129,3 +1129,5 @@ https://live2.dyrur1.com/live/74557122_ad00f2245ec290d8aab6dd73f4d75a04_autoChan
 https://live2.zundrixmediapipeline.com/live/channel15.m3u8
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/ocXsicn.jpeg" group-title="DAR",Indosiar
 http://013tv.com:8080/F33848/cbd9779b/162138
+#EXTINF:-1 tvg-id="HBO (TRANS)" tvg-name="HBO (TRANS)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApkt8KT6AC4W2FPqj8FNrtiMnoxHRCBnW8B90yCVoimNalodrsPFXxJCl&s=10" group-title="MWR",HBO (TRANS)
+https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLW15/manifest.mpd
